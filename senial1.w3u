@@ -1,29 +1,1237 @@
 {
-  "name": "PRUEBA RIVERS",
-  "author": "RIVERS",
-"info": "Lista en construcción. Cualquier duda comenten en ListasWiseplay.es",
-  "url": "https://raw.githubusercontent.com/678190/mysky.w3u/main/senial1.w3u",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
-  "stations": [
-{
-      "name": "RECUERDA ACTUALISAR PARA MEJOR SERVICIO",
-      "image": "https://thumbs.gfycat.com/OpulentLastingConure-small.gif",
-      "stations": [
- 
- 
- 
-                {
-                    "name": "UNIVICION SIN COMERCIALES",
-                    "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-               "url": "https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1="
- 
- 
-        }
- 
-       
-      ]
-   
-    }
- 
-  ]
+"name": "⚽️🏁 FUTBOLFULLENVIVO 🏴‍☠✳️ ",
+"author": "🆆🅾🅻🆅🅴🆂",
+"image": "https://img.freepik.com/vetores-premium/vetor-de-cabeca-de-lobo-lobo-uiva-ilustracao-de-desenho-vetorial-cabeca-de-lobo_231873-3065.jpg?w=740",
+"info": "Link´s de internet",
+"telegram": " ",
+"url": "https://pastebin.com/sTbgdE4W",
+"groups": [{
+"name": "BeIN SPORTS - UK (🇬🇧)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": " Inglaterra 🇬🇧",
+"stations": [{
+"name": "BeIN Sports 1️⃣ (SPORTS1-EN)",
+"info":"futbolfullenvivo ",
+"image": "https://futbolfullenvivo.nl/imagenes/bein1uk.png",
+"url": "https://futbolfullenvivo.nl/canales/bein-sports1-eng/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 2️⃣(SPORTS2-EN) ",
+"info":"futbolfullenvivo ",
+"image": "https://futbolfullenvivo.nl/imagenes/bein2uk.png",
+"url": "https://futbolfullenvivo.nl/canales/bein-sports2-eng/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 3️⃣ (SPORTS3-EN)",
+"info":"futbolfullenvivo ",
+"image": "https://futbolfullenvivo.nl/imagenes/bein3uk.png",
+"url": "https://futbolfullenvivo.nl/canales/bein-sports3-eng/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "BeIN SPORTS - FRANCE (🇫🇷)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": "França 🇫🇷",
+"stations": [{
+"name": "BeIN Sports 1 (BEIN1-FR)",
+"info":"futbolfullenvivo",
+"image": "https://futbolfullenvivo.nl/imagenes/bein1fr.png",
+"url": "https://futbolfullenvivo.nl/canales/bein1-fr/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " BeIN Sports 1 France (CH-116)  ",
+"info":"futbolfullenvivo ",
+"image": "https://futbolfullenvivo.nl/imagenes/bein1fr.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-116.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": " BeIN Sports 2 France (CH-117) ",
+"info":"futbolfullenvivo ",
+"image": "https://futbolfullenvivo.nl/imagenes/bein2fr.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-117.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "BeIN Sports 2 (BEIN2-FR)",
+"info":"futbolfullenvivo",
+"image": "https://futbolfullenvivo.nl/imagenes/bein2fr.png",
+"url": "https://futbolfullenvivo.nl/canales/bein2-fr/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 3 (BEIN3-FR)",
+"info":"futbolfullenvivo",
+"image": "https://futbolfullenvivo.nl/imagenes/bein3fr.png",
+"url": "https://futbolfullenvivo.nl/canales/bein3-fr/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 3 France (CH-118)",
+"info":"futbolfullenvivo",
+"image": "https://futbolfullenvivo.nl/imagenes/bein3fr.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-118.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports MAX 4 (CH-494)",
+"info":"futbolfullenvivo",
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-494.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports MAX 5 (CH-495)",
+"info":"futbolfullenvivo",
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-495.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports MAX 6 (CH-496)",
+"info":"futbolfullenvivo",
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-496.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "BeIN SPORTS - USA (🇺🇸)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": "🇺🇸",
+"stations": [{
+"name": " BeIN Sports USA (CH-425)  ",
+"info":"futbolfullenvivo ",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url" : "https://futbolfullenvivo.nl/stream/stream-425.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": "BeIN SPORTS - ARABIC (🇶🇦)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": " Qatar 🇶🇦",
+"stations": [{
+"name": "BeIN Sports 1 (MENA)(CH-61) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-61.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 1 (MENA)(CH-91) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-91.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 2 (MENA)(CH-92) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-92.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 3 (MENA)(CH-93) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-93.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 3 (MENA)(CH-46) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-46.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 4 (MENA)(CH-94) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-94.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 5 (MENA)(CH-95) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-95.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 6 (MENA)(CH-96) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-96.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "BeIN Sports 7 (MENA)(CH-97) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-97.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "BeIN SPORTS - PREMIUM (🇶🇦)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": " Qatar 🇶🇦",
+"stations": [{
+"name": "BeIN Sports 1 - Premium (MENA)(CH-98) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-98.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 2 - Premium (MENA)(CH-99)",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-99.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "BeIN Sports 3 - Premium (MENA)(CH-100)",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-100.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "BeIN SPORTS - TURKEY (🇹🇷)",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"info": " ",
+"stations": [{
+"name": "BeIN Sports 5 Turkey (CH-18) ",
+"info": "futbolfullenvivo",
+"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
+"url": "https://futbolfullenvivo.nl/stream/stream-18.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "BeIN SPORTS - XTRA ñ (🇦🇷)",
+"image": "https://apps.beinsports.com/dev/au/images/XTRA.png",
+"info": " Argentina 🇦🇷",
+"stations": [{
+"name": "BeIN Sports - XTRA ñ (CH-372)",
+"info":"futbolfullenvivo ",
+"url" : "https://futbolfullenvivo.nl/stream/stream-372.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": "SKY SPORTS - UK(🇬🇧) USA(🇺🇸)",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"info": " UK(🇬🇧) USA(🇺🇸) ",
+"stations": [{
+"name": "SKY Sports - Football (FOOTBALL)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/canales/sky-sports-football/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "Sky Sports - Football (CH-35) ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-35.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Premier League (CH-13)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-13.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "Sky Sports - Premier League (CH-130)  ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-130.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Premier League (PREMIER-LEAGUE) ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/canales/sky-premier-league/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Arena (ARENA)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/canales/sky-sports-arena/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Sky Sports - Arena (CH-36) ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-36.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Main Event (MAIN-EVENT)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/canales/sky-sports-main-event/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Sky Sports - Main Event (CH-38)  ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-38.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Formula 1 (F1)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/canales/sky-sports-f1/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "Sky Sports F1 UK (CH-60)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url" : "https://futbolfullenvivo.nl/stream/stream-60.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "Sky Sports Golf (CH-70)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url" : "https://futbolfullenvivo.nl/stream/stream-70.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "SKY SPORTS - ALEMANHA (🇩🇪)",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"info": "Alemanha 🇩🇪 ",
+"stations": [{
+"name": "SKY Sports - Premier League (CH-13)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-13.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "SKY Sports - Top Event (CH-556)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url": "https://futbolfullenvivo.nl/stream/stream-556.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Sky Sports F1 DE (CH-15)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url" : "https://futbolfullenvivo.nl/stream/stream-15.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Sky Sport Mix DE (CH-557)",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url" : "https://futbolfullenvivo.nl/stream/stream-557.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "SKY SPORTS - NOVA ZELÂNDIA (🇳🇿) ",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"info": "Nova Zelândia 🇳🇿 ",
+"stations": [{
+"name": "Sky Spports F1 NZ (CH-592) ",
+"info":"futbolfullenvivo",
+"image": "https://images.theabcdn.com/i/28012773/600x600/c",
+"url" : "https://futbolfullenvivo.nl/stream/stream-592.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "EUROSPORT HD - ESPAÑA (🇪🇸)",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"info": " Espanha 🇪🇸",
+"stations": [{
+"name": "Eurosport 1 HD (EUROSPORT1-ES)",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url" : "https://futbolfullenvivo.nl/canales/eurosport1-es/",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 1 HD (EUROSPORT1-ES/OP2)",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url" : "https://futbolfullenvivo.nl/canales/eurosport1-es/op2.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 1 ES (CH-524)",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-524.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 2 HD (EUROSPORT2-ES)",
+"info":" futbolfullenvivo ",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/canales/eurosport2-es/",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 2 ES (CH-525)",
+"info":" futbolfullenvivo ",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-525.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}]
+}, {
+"name": "EUROSPORT HD - UK (🇬🇧)",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"info": " Inglaterra 🇬🇧",
+"stations": [{
+"name": "Eurosport 1 HD (EUROSPORT1-UK) ",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url" : "https://futbolfullenvivo.nl/canales/eurosport1-uk/",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 1 UK (CH-41) ",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-41.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 2 HD (EUROSPORT2-UK) ",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url" : "https://futbolfullenvivo.nl/canales/eurosport2-uk/",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 2 UK (CH-42) ",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-42.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}]
+}, {
+"name": "EUROSPORT HD - POLONIA (🇵🇱)",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"info": " Inglaterra 🇬🇧",
+"stations": [{
+"name": "Eurosport 1 Poland (CH-57)",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-57.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Eurosport 2 Poland (CH-58) ",
+"info":" futbolfullenvivo",
+"image": "https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-58.php",
+"referer": "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}]
+}, {
+"name": "FOX SPORTS - USA (🇺🇸)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png",
+"info": " USA (🇺🇸)",
+"stations": [{
+"name": "Fox USA (CH-54)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-54.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Fox Sports 1 USA (CH-39)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-39.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "Fox Sports 1 (FOX-SPORTS1-USA)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url":"https://futbolfullenvivo.nl/canales/fox-sports1-usa/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+},{
+"name": "Fox Sports 2 (FOX-SPORTS2-USA)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",
+"url":"https://futbolfullenvivo.nl/canales/fox-sports2-usa/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "  FOX Deportes (CH-643) ",
+"info":"futbolfullenvivo ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/800px-FOX_Deportes_logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-643.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": "FOX SPORTS - ARGENTINA (🇦🇷)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png",
+"info": " Argentina 🇦🇷",
+"stations": [{
+"name": "Fox Sports 1 (FOX-SPORTS-EN-VIVO)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url": "https://futbolfullenvivo.com/fox-sports-en-vivo/",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "Fox Sports 2 (FOX-SPORTS-2-EN-VIVO)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",
+"url": "https://futbolfullenvivo.com/fox-sports-2-en-vivo/",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "Fox Sports 3 (FOX-SPORTS-3-EN-VIVO)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",
+"url": "https://futbolfullenvivo.com/fox-sports-3-en-vivo/",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "FOX SPORTS - MÉXICO (🇲🇽)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png",
+"info": " ",
+"stations": [{
+"name": " FOX Sports Premium (EN-VIVO)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url":"https://futbolfullenvivo.nl/fox-sports-premium-en-vivo/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": " FOX Sports Premium (PREMIUM-MX)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url":"https://futbolfullenvivo.nl/canales/fox-premium-mx/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": " FOX Sports Premium (PREMIUM-MX/OP2)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+"url":"https://futbolfullenvivo.nl/canales/fox-premium-mx/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}]
+}, {		      
+"name": "ESPN - ARGENTINA (🇦🇷) ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"info": " Argentina 🇦🇷",
+"stations": [{
+"name": "ESPN (ESPN-EN-VIVO)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/espn-en-vivo/",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "ESPN (ESPN)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN (ESPN/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN (ESPN/OP3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN (ESPN/OP4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn/op4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❷ (ESPN2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❷ (ESPN2/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn2/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❷ (ESPN2/OP3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn2/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❷ (ESPN2/OP4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn2/op4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+}, {
+"name": "  ESPN 2 Argentina (EN-VIVO) ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/espn-2-en-vivo/",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+},{
+"name": "ESPN ❸ (ESPN3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❸ (ESPN3/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn3/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❸ (ESPN3/OP3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn3/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❸ (ESPN3/OP4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn3/op4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❹ (ESPN4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN ❹ (ESPN4/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn4/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Premium (ESPN-PREMIUM)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn-premium/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Premium (ESPN-PREMIUM/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn-premium/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Premium (ESPN-PREMIUM/OP3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn-premium/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Premium (ESPN-PREMIUM/OP4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espn-premium/op4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+}, {
+"name": "  ESPN Premium Argentina (CH-13) ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-13.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  ESPN Premium Argentina (EN-VIVO) ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/espn-premium-en-vivo/",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  ESPN Premium Argentina (CH-387) ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-387.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+},{
+"name": "ESPN - Extra (ESPNEXTRA)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url": "https://futbolfullenvivo.nl/canales/espnextra/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Extra (ESPNEXTRA/OP2)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+ "url": "https://futbolfullenvivo.nl/canales/espnextra/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Extra (ESPNEXTRA/OP3)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+ "url": "https://futbolfullenvivo.nl/canales/espnextra/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+},{
+"name": "ESPN - Extra (ESPNEXTRA/OP4)",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+ "url": "https://futbolfullenvivo.nl/canales/espnextra/op4.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true "
+}]
+}, {
+"name": "ESPN - USA (🇺🇸)",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"info": "",
+"stations": [{
+"name": " ESPN USA (CH-316) ",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/stream/stream-316.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN USA (CH-44) ",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/stream/stream-44.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN 1 (ESPN1-USA) ",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/canales/espn1-usa/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN 2 (ESPN2-USA)",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/canales/espn2-usa/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN 2 USA (CH-45)",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/stream/stream-45.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN Deportes (CH-375)",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/stream/stream-375.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN Deportes (ESPN-DEPORTES)",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/canales/espn-deportes/",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN Deportes (ESPN-DEPORTES/OP2",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/canales/espn-deportes/op2.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}, {
+"name": "ESPN Deportes (ESPN-DEPORTES/OP3",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url":"https://futbolfullenvivo.nl/canales/espn-deportes/op3.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"online": "true",
+"isHost": "true"
+}]
+}, {
+"name": "ESPN - SUR (🇦🇷)(🇨🇴)(🇨🇱)",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"info": "",
+"stations": [{
+"name": "ESPN SUR (CH-149) ",
+"info": "futbolfullenvivo",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url": "https://futbolfullenvivo.nl/stream/stream-149.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " ESPN 2 SUR (CH-150)  ",
+"info":"futbolfullenvivo ",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url" : "https://futbolfullenvivo.nl/stream/stream-150.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": " ESPN 2 SUR (CH-159)  ",
+"info":"futbolfullenvivo ",
+"image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
+"url" : "https://futbolfullenvivo.nl/stream/stream-159.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {		      
+"name": "ESPN - HOLANDA (🇱🇺) ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"info": " ",
+"stations": [{
+"name": "  ESPN 1 NL (CH-379) ",
+"info": "futbolfullenvivo ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-379.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {	
+"name": "  ESPN 4 NL (CH-10) ",
+"info": "futbolfullenvivo ",
+"info":"futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-10.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {		      
+"name": "ESPN - MÉXICO (🇲🇽) ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"info": " ",
+"stations": [{
+"name": " ESPN 3 México (CH-14) ",
+"info": "futbolfullenvivo ",
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-14.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": " DIEMA SPORTS - BULGÁRIA (🇧🇬) ",
+"image": "https://www.rk-ware.net/iptv/logos/diema_sport.png",
+"info": "Bulgãria 🇧🇬 ",
+"stations": [{
+"name": " Diema Sport 1 Bulgaria (CH-465) ",
+"info": "futbolfullenvivo",
+"image": "https://www.rk-ware.net/iptv/logos/diema_sport.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-465.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Diema Sport 2 Bulgaria (CH-466) ",
+"info": "futbolfullenvivo",
+"image": "https://www.rk-ware.net/iptv/logos/diema_sport.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-466.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " Diema Sport 3 Bulgaria (CH-467) ",
+"info": "futbolfullenvivo",
+"image": "https://www.rk-ware.net/iptv/logos/diema_sport.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-467.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "DIGI SPORT - ROMÉNIA (🇷🇴) ",
+"image": "http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",
+"info": "Roménia 🇷🇴 ",
+"stations": [{
+"name": "Digi Sport 1 (CH-400) ",
+"info": "futbolfullenvivo",
+"image": "http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",
+"url": "https://futbolfullenvivo.nl/stream/stream-400.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "Digi Sport 2 (CH-401) ",
+"info": "futbolfullenvivo",
+"image": "http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",
+"url": "https://futbolfullenvivo.nl/stream/stream-401.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "Digi Sport 3 (CH-402) ",
+"info": "futbolfullenvivo",
+"image": "http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",
+"url": "https://futbolfullenvivo.nl/stream/stream-402.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+},{
+"name": "Digi Sport 4 (CH-403) ",
+"info": "futbolfullenvivo",
+"image": "http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",
+"url": "https://futbolfullenvivo.nl/stream/stream-403.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": " NOVA SPORTS - BULGÁRIA (🇧🇬)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NovaSport.png/640px-NovaSport.png",
+"info": "Bulgária 🇧🇬 ",
+"stations": [{
+"name": "Nova Sports (NOVASPORTBG) ",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NovaSport.png/640px-NovaSport.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-138.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": "Nova Sports (CH-468) ",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NovaSport.png/640px-NovaSport.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-468.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "SPORT KLUB - SÉRVIA (🇷🇸)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png",
+"info": "Sérvia 🇷🇸 ",
+"stations": [{
+"name": " Sport Klub 1 (CH-101) ",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-101.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {	
+"name": " Sport Klub 2 (CH-102) ",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-102.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {	
+"name": " Sport Klub 3 (CH-103) ",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-103.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}, {	
+"name": " Sport Klub 5 Serbia (CH-152)",
+"info":"futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-152.php",
+"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "MAX SPORT (🇧🇬)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png",
+"info": " Bulgária 🇧🇬 ",
+"stations": [{
+"name": " MAX Sport 1 (CH-472) ",
+"info": "futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-472.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " MAX Sport 2 (CH-473) ",
+"info": "futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-473.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " MAX Sport 3 (CH-474) ",
+"info": "futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-474.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}, {
+"name": " MAX Sport 4 (CH-475) ",
+"info": "futbolfullenvivo",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Max_Sport.svg/1200px-Max_Sport.svg.png",
+"url": "https://futbolfullenvivo.nl/stream/stream-475.php",
+"referer" : "https://futbolfullenvivo.nl/",
+"isHost": "true",
+"online":"true"
+}]
+}, {
+"name": "PREMIERE - BRAZIL (🇧🇷)",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"info": " 🇧🇷",
+"stations": [{
+"name": "  Premiere 3 Brazil (CH-1) ",
+"info":"futbolfullenvivo ",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-1.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  Premiere 4 Brazil (CH-5) ",
+"info":"futbolfullenvivo ",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-5.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  Premiere 5 Brazil (CH-4) ",
+"info":"futbolfullenvivo ",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-4.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  Premiere 6 Brazil (CH-2) ",
+"info":"futbolfullenvivo ",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-2.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}, {
+"name": "  Premiere 7 Brazil (CH-7) ",
+"info":"futbolfullenvivo ",
+"image": "https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-7.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": "TNT - BRAZIL (🇧🇷)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
+"info": " 🇧🇷",
+"stations": [{
+"name": " TNT Brasil (CH-87) ",
+"info":"futbolfullenvivo ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-87.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {		      
+"name": "RPC - BRAZIL (🇧🇷) ",
+"image": "https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",
+"info": " ",
+"stations": [{
+"name": "RPC (CH-13)",
+"info": "futbolfullenvivo ",
+"image": "https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-13.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {		      
+"name": "TV UNIVERSO - BRAZIL (🇧🇷) ",
+"image": "https://pbs.twimg.com/profile_images/936282502616047616/IkMTa4c8_400x400.jpg",
+"info": " ",
+"stations": [{
+"name": "TV Universo (CH-16)",
+"info": "futbolfullenvivo ",
+"image": "https://pbs.twimg.com/profile_images/936282502616047616/IkMTa4c8_400x400.jpg",
+"url" : "https://futbolfullenvivo.nl/stream/stream-16.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}, {
+"name": "SPORTV - BRAZIL (🇧🇷)",
+"image": "http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png",
+"info": " 🇧🇷",
+"stations": [{
+"name": "   SporTV3 Brazil (CH-80) ",
+"info":"futbolfullenvivo ",
+"image": "http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png",
+"url" : "https://futbolfullenvivo.nl/stream/stream-80.php",
+"referer" : "https://futbolfullenvivo.com/",
+"online":"true",
+"isHost":"true"
+}]
+}]
 }
