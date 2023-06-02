@@ -1,23 +1,36 @@
 {
-"name": "⚽️🏁 prueba rivers 🏴‍☠✳️ ",
-"author": "🆆🅾🅻🆅🅴🆂",
-"image": "https://img.freepik.com/vetores-premium/vetor-de-cabeca-de-lobo-lobo-uiva-ilustracao-de-desenho-vetorial-cabeca-de-lobo_231873-3065.jpg?w=740",
-"info": "Link´s de internet",
-"telegram": " ",
-"url": "https://raw.githubusercontent.com/678190/mysky.w3u/main/senial1.w3u",
-"groups": [{
-"name": "BeIN SPORTS - UK (🇬🇧)",
-"image": "https://www.ariase.com/uploads/media/70d5902961bd717056909aa6015cc9e54661f497.jpeg",
-"info": " Inglaterra 🇬🇧",
-"stations": [{
-"name": "BeIN Sports 1️⃣ (SPORTS1-EN)",
-"info":"futbolfullenvivo ",
-"image": "https://futbolfullenvivo.nl/imagenes/bein1uk.png",
-"url": "https://futbolfullenvivo.nl/canales/bein-sports1-eng/",
-"referer" : "https://futbolfullenvivo.nl/canales-deportivos/",
-"isHost": "true",
-"online":"true"
+  "name": "CINE ACTUAL ESTRENOS",
+  "author": "ListasWiseplay.com",
+"info": "Lista en construcción. Cualquier duda comenten en ListasWiseplay.es",
+  "url": "https://pastebin.com/0qtVr1c4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
+  "groups": [
+{
+      "name": "CINE ACTUAL ESTRENOS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
+      "stations": [
+{
+                    "name": "Todas las listas wiseplay actualizadas",
+                    "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                    "url": "https://listaswiseplay.com/",
+                    "embed": "true",
+                    "playInNatPlayer": "true",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                },
+{
+                    "name": "Como entrenar a tu dragon el mundo oculto ",
+                    "image": "https://image.tmdb.org/t/p/w342/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg",
+                    "url": "https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Entrenar%20a%20tu%20dragon%203%20-%202019%20HD%201080p%20Latino.mp4",
+                    "embed": "true",
+                    "playInNatPlayer": "true"
+ 
 
-}]
-}]
+        }
+ 
+       
+      ]
+   
+    }
+ 
+  ]
 }
