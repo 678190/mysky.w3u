@@ -10,19 +10,15 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
       "stations": [
 {
-                    "name": "Todas las listas wiseplay actualizadas",
-                    "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
-                    "url": "https://listaswiseplay.com/",
-                    "embed": "true",
-                    "playInNatPlayer": "true",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-                },
-{
-                    "name": "Como entrenar a tu dragon el mundo oculto ",
-                    "image": "https://image.tmdb.org/t/p/w342/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg",
-                    "url": "https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Entrenar%20a%20tu%20dragon%203%20-%202019%20HD%201080p%20Latino.mp4",
-                    "embed": "true",
-                    "playInNatPlayer": "true"
+                                  "name": "UNIVICION SIN COMERCIALES",
+                    "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
+               "url": "https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1="
+ 
+    }, {
+                    "name": "UDN CALIDAD HD",
+                      "image": "https://www.televisiongratishd.com/img/tudn.png",
+                    "url": "https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1="
+ 
  
 
         }
