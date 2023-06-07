@@ -14,6 +14,13 @@
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
                "url": "https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1="
  
+ 
+     }, {
+                    "name": "SPACE MOVIES",
+                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
+                    "url": "http://168.227.22.18:1935/live/mobile-044/playlist.m3u8"
+ 
+ 
     }, {
                     "name": "UDN CALIDAD HD",
                       "image": "https://www.televisiongratishd.com/img/tudn.png",
