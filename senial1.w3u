@@ -77,8 +77,8 @@
 	       
 	               },
                 {
-                    "name": "TLC ",
-                    "image": "https://x.playerlatino.live//tlc.png",
+                    "name": "DISCOVERY CHANNEL ",
+                    "image": "http://x.playerlatino.live//discoverychannel.png",
                   "url":"https://v3.playerlatino.live/stream/m3u8/87",
                       "userAgent":"Lavf/57.71.100"
 		      
