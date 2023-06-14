@@ -98,7 +98,12 @@
                     "image": "https://www.telelatinohd.com/assets/images/foxsports2mexico.jpg",
                     "url": "https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8"
                   
-         
+           }, {
+                  "name": "BEIN OPCION 1 ",
+                    "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
+                      "url":"https://daddylivehd.sx:443/tele/stream-372.php",
+                      "referer":"https://latele-envivo.com"
+                    
          
  
     }, {
