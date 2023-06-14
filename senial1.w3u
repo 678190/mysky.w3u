@@ -191,7 +191,10 @@
               "url":"https://canales.online/embed/mpdk.html?get=Ly9saXZlMi1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvQkFOREFNQVgtSEQvZGVmYXVsdC5tcGQ=&key=ZDAxNGI0YzdmMjJkNDkwZjU2ZTJkN2QzZmUxMjVjMTU=&key2=Njk4NjRhZDRiOThkMDZlOWZjZjI0MzBlZDY3YjZjMzM=",
                  "embed":true
                  
-              
+                 }, {
+                    "name": "DREAM",
+                      "image": "https://vignette3.wikia.nocookie.net/logopedia/images/2/23/DreamWorks_Channel_2.svg/revision/latest?cb=20160531154507",
+                    "url": "http://168.227.22.18:1935/live/mobile-099/playlist.m3u8" 
                     
                        
                         }, {
