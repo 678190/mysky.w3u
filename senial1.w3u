@@ -96,7 +96,14 @@
                     "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",             
                "referer":" "
                     
-                   
+                       
+                }, {
+                    "name": "BANDAMAX",
+                    "image": "http://noticias.radiotormentamx.com/images/bandamax.png",
+              "url":"https://canales.online/embed/mpdk.html?get=Ly9saXZlMi1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvQkFOREFNQVgtSEQvZGVmYXVsdC5tcGQ=&key=ZDAxNGI0YzdmMjJkNDkwZjU2ZTJkN2QzZmUxMjVjMTU=&key2=Njk4NjRhZDRiOThkMDZlOWZjZjI0MzBlZDY3YjZjMzM=",
+                 "embed":true
+                 
+              
                     
                        
                         }, {
