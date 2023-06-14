@@ -71,11 +71,27 @@
                       },
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
-                    "image": "https://www.telelatinohd.com/assets/images/history.jpg",
-                  "url":"https://v3.playerlatino.live/stream/m3u8/77",
+                    "image": "https://x.playerlatino.live//natgeo.png",
+                  "url":"https://v3.playerlatino.live/stream/m3u8/76",
                       "userAgent":"Lavf/57.71.100"
 	       
-	       
+	               },
+                {
+                    "name": "TLC ",
+                    "image": "https://x.playerlatino.live//tlc.png",
+                  "url":"https://v3.playerlatino.live/stream/m3u8/87",
+                      "userAgent":"Lavf/57.71.100"
+		      
+		      
+		           },
+                {
+                    "name": "ID INVESTIGATION ",
+                    "image": "https://x.playerlatino.live//investigationdiscovery.png",
+                  "url":"https://v3.playerlatino.live/stream/m3u8/68",
+                      "userAgent":"Lavf/57.71.100"
+		      
+		      
+		      
 	       
                },
 				{
