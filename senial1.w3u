@@ -52,7 +52,13 @@
                 "image": "https://s.yimg.com/fz/api/res/1.2/9L_mQ1zjxtCquau6_4cEoA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/f64e0599-7399-3e95-b6f8-7d311aadce07/t_500x300", 
                 "url": " https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8  ", "EMBED":true
                      
-                     
+                 },
+                {
+                                     
+               "name": "LAS ESTRELLAS FILADELFIA",
+                    "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
+                 "url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
+                         
                
  
     }, {
