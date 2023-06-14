@@ -93,9 +93,9 @@
                 {
                     "name": "CINEMUNDO PLUS",
                     "image": "https://cdn.vaughnsoft.net/profile/1217/cinemundo_plus.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
+                              "url": "https://vaughn.live/peliculas_mania",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
-                  "referer":"https://vaughn.live/mangondelicioso"  
+                  "referer":"https://vaughn.live/peliculas_mania"  
                            
                 }, {
                     "name": "VIDEO ROLAS",
