@@ -97,6 +97,19 @@
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania"  
                            
+                           
+                         
+                },
+                {
+                    "name": "COMBATE AMERICA",
+                    "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
+                      "url": "https://www.cxtvlive.com/live-tv/combate-global",
+                       "referer":"https://www.cxtvlive.com/live-tv/combate-global"
+               
+                            
+                           
+                           
+                           
                 }, {
                     "name": "VIDEO ROLAS",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png",
