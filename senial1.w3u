@@ -55,11 +55,28 @@
                  },
                 {
                                      
-               "name": "LAS ESTRELLAS FILADELFIA",
+               "name": "LAS ESTRELLAS SENIAL MEX",
                     "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
                  "url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
                  
-		
+		        },
+                {
+                                     
+               "name": "CANAL 5 MEX",
+                    "image": "https://www.telegratishd.com/imge/canal5.png",
+                 "url": "http://23.237.108.226/hls/HDCANAL5MX.m3u8",
+		 "userAgent":"Roku/DVP(10.10.10)"
+		 
+		 
+		 	        },
+                {
+                                     
+               "name": "AZTECA 7 MEX",
+                    "image": "https://www.telegratishd.com/imge/azteca7.png",
+                 "url": "http://23.237.108.226/hls/HDAZTECA7MX.m3u8",
+		 "userAgent":"Roku/DVP(10.10.10)"
+		 
+		 
                  
                       },
                 {
@@ -174,6 +191,18 @@
                       "image": "https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png",
                     "url": "http://168.227.22.18:1935/live/mobile-044/playlist.m3u8"
                     
+		    
+		           
+               }, {
+                    "name": "PELICULAS",
+                      "image": "https://cdn.vaughnsoft.net/profile/1013/estrenospeliculas.jpg",
+                    "url": "http://168.227.22.18:1935/live/mobile-015/playlist.m3u8"
+		    
+		     }, {
+                    "name": "MOVIES DRAMA",
+                      "image": "https://cdn.vaughnsoft.net/profile/1013/cityfm.jpg",
+                    "url": "http://168.227.22.18:1935/live/mobile-097/playlist.m3u8" 
+		    
                    
                          },
                 {
