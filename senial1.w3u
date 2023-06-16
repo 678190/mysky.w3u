@@ -73,17 +73,17 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                 "url": "http://23.237.108.226/hls/HDAZTECA7MX.m3u8",
-		 "userAgent":"Roku/DVP(10.10.10)"
-		 
+                 "url":"https://v3.playerlatino.live/stream/m3u8/5",
+                      "userAgent":"Lavf/57.71.100"
+		      
 		 
                  
                       },
                 {
                     "name": "HISTORY CHANNEL ",
                     "image": "https://www.telelatinohd.com/assets/images/history.jpg",
-                  "url":"https://v3.playerlatino.live/stream/m3u8/67",
-                      "userAgent":"Lavf/57.71.100"
+                  "url":"http://168.227.22.18:1935/live/mobile-058/playlist.m3u8",
+                      "userAgent":""
                
                       },
                 {
@@ -96,8 +96,8 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "http://x.playerlatino.live//discoverychannel.png",
-                  "url":"https://v3.playerlatino.live/stream/m3u8/22",
-                      "userAgent":"Lavf/57.71.100"
+                  "url":"http://168.227.22.18:1935/live/mobile-006/playlist.m3u8",
+                      "userAgent":""
 		 
 		       },
                 {
