@@ -177,7 +177,7 @@
                 }, {
                     "name": "FOX SPOT 2 MEXICO",
                     "image": "https://www.telelatinohd.com/assets/images/foxsports2mexico.jpg",
-                    "url": "https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8"
+                    "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8"
                   
            }, {
                   "name": "BEIN OPCION 1 ",
@@ -234,8 +234,24 @@
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania"  
 		  
-		  
-                           
+		  	           },
+                {
+                    "name": "NETFLIX SENIAL 1",
+                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/41237.m3u8"
+                 
+                       	           },
+                {
+                    "name": "NETFLIX SENIAL 2",
+                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38691.m3u8"  
+
+           	           },
+                {
+                    "name": "NETFLIX SENIAL 3",
+                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/49775.m3u8"
+
                          
                 },
                 {
