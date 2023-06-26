@@ -177,7 +177,7 @@
                 }, {
                     "name": "FOX SPOT 2 MEXICO",
                     "image": "https://www.telelatinohd.com/assets/images/foxsports2mexico.jpg",
-                    "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8"
+                    "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53549.m3u8"
                   
            }, {
                   "name": "BEIN OPCION 1 ",
@@ -185,7 +185,11 @@
                       "url":"https://daddylivehd.sx:443/tele/stream-372.php",
                       "referer":"https://latele-envivo.com"
                     
-         
+                 
+                }, {
+                    "name": "UFC ENGLISH",
+                    "image": "https://logodownload.org/wp-content/uploads/2014/10/ufc-logo-1.png",
+                    "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/81285.m3u8"
  
     }, {
                     "name": "SPACE",
@@ -236,21 +240,21 @@
 		  
 		  	           },
                 {
-                    "name": "NETFLIX SENIAL 1",
+                    "name": "NETFLIX SENIAL AVENTURA 1",
                     "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/41237.m3u8"
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/76234.m3u8"
                  
                        	           },
                 {
-                    "name": "NETFLIX SENIAL 2",
+                    "name": "NETFLIX SENIAL TERROR 2",
                     "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38691.m3u8"  
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/76239.m3u8"  
 
            	           },
                 {
-                    "name": "NETFLIX SENIAL 3",
+                    "name": "NETFLIX SENIAL AXION 3",
                     "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/49775.m3u8"
+                              "url": "http://45.90.105.74:25461/live/bud-345182/c39d1f9282/76232.m3u8"
 
                          
                 },
