@@ -295,7 +295,11 @@
                       "image": "https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8"    
                     
-                    
+                 }, {
+                    "name": "PELIS ESTRENO",
+                      "image": "",
+                    "url": "
+https://eerht.artdesigncdn.net/_v10/315c22656aa1576de3e52e3a2b8808603a859bd1cd35cd892a4484f539278ef75b404cb6735f245c2889d21ae23d094cde7809d8205f70bb6faf059a3d31e6b171682e9e2954d3252890b7eea3c0f1a7ef5406fb92eae9ddbc4e6aed691f7ba016548a409138b6673e07ff93918db543b24d70082403f1f34dcf4597254d087a/720/index.m3u8"         
 
         }
  
