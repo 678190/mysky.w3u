@@ -237,9 +237,9 @@
 		  
 		  	           },
                 {
-                    "name": "SONY MOVIES",
-                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                               "url":"http://168.227.22.18:1935/live/mobile-035/playlist.m3u8",
+                    "name": "CINERAMA TV",
+                    "image": "https://dominio.beauty/img/cinerama.png",
+                               "url":"https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2048908926.m3u8",
                       "userAgent":""
                  
                        	           },
@@ -251,9 +251,9 @@
 
            	           },
                 {
-                    "name": "FX",
-                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                              "url":"http://168.227.22.18:1935/live/mobile-123/playlist.m3u8",
+                    "name": "FM CINE",
+                    "image": "https://dominio.beauty/img/fmtv.png",
+                              "url":"https://s2.tvdatta.com:3307/hybrid/play.m3u8",
                       "userAgent":""
 
                          
