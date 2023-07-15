@@ -278,8 +278,8 @@
                 }, {
                     "name": "BANDAMAX",
                     "image": "http://noticias.radiotormentamx.com/images/bandamax.png",
-              "url":"https://canales.online/embed/mpdk.html?get=Ly9saXZlMi1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvQkFOREFNQVgtSEQvZGVmYXVsdC5tcGQ=&key=ZDAxNGI0YzdmMjJkNDkwZjU2ZTJkN2QzZmUxMjVjMTU=&key2=Njk4NjRhZDRiOThkMDZlOWZjZjI0MzBlZDY3YjZjMzM=",
-                 "embed":true
+                   "url":"https://v3.playerlatino.live/stream/m3u8/8",
+                      "userAgent":"Lavf/57.71.100"
                  
                  }, {
                     "name": "DREAM",
