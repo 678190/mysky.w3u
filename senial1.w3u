@@ -242,7 +242,12 @@
                                "url":"https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2048908926.m3u8",
                       "userAgent":""
                  
-           
+             	           },
+                {
+                    "name": "SENIAL TERROR",
+                    "image": "https://cdn.vaughnsoft.net/profile/1236/terror_mania.jpg",
+                               "url":"https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
+                      "userAgent":""
 
            	           },
                 {
@@ -254,7 +259,7 @@
                          
                 },
                 {
-                    "name": "COMBATE AMERICA",
+                    "name": "SENIAL COMBATE AMERICA",
                     "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
                       "url": "https://www.cxtvlive.com/live-tv/combate-global",
                        "referer":"https://www.cxtvlive.com/live-tv/combate-global"
