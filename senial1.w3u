@@ -199,7 +199,8 @@
                         }, {
                     "name": "HBO",
                       "image": "https://1.bp.blogspot.com/--Ta9c8dZP5A/WotiP-fx9LI/AAAAAAAAAaI/BWe4L-23n1UlRdmB3926Zc4WegEYWbrHgCLcBGAs/s1600/hbo2.png",
-                    "url": "http://168.227.22.18:1935/live/mobile-094/playlist.m3u8"
+                                   "url":"http://167.114.156.136:25461/INFINITV/ZX89NM22/72.m3u8",
+                      "userAgent":""  
                     
                }, {
                     "name": "MC",
