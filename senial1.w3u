@@ -242,12 +242,7 @@
                                "url":"https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2048908926.m3u8",
                       "userAgent":""
                  
-                       	           },
-                {
-                    "name": "MODO CINE ENGLISH",
-                    "image": "https://cdn.geekwire.com/wp-content/uploads/2014/07/Netflix_Logo_Print_FourColorCMYK.png",
-                                "url":"http://168.227.22.18:1935/live/mobile-140/playlist.m3u8",
-                      "userAgent":"" 
+           
 
            	           },
                 {
@@ -265,7 +260,12 @@
                        "referer":"https://www.cxtvlive.com/live-tv/combate-global"
                
                             
-                           
+                                  	           },
+                {
+                    "name": "SENIAL UFC",
+                    "image": "https://tse3.explicit.bing.net/th?id=OIP.vbubfuh5I-q-Bq-4sphkSgHaEK&pid=Api&P=0&h=220",
+                                "url":"http://167.114.156.136:25461/INFINITV/ZX89NM22/47",
+                      "userAgent":""      
                            
                            
                 }, {
@@ -295,11 +295,6 @@
                       "image": "https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8"    
                     
-                 }, {
-                    "name": "PELIS ESTRENO",
-                      "image": "",
-                    "url": "
-https://eerht.artdesigncdn.net/_v10/315c22656aa1576de3e52e3a2b8808603a859bd1cd35cd892a4484f539278ef75b404cb6735f245c2889d21ae23d094cde7809d8205f70bb6faf059a3d31e6b171682e9e2954d3252890b7eea3c0f1a7ef5406fb92eae9ddbc4e6aed691f7ba016548a409138b6673e07ff93918db543b24d70082403f1f34dcf4597254d087a/720/index.m3u8"         
 
         }
  
