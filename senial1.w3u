@@ -137,7 +137,7 @@
                 {
                     "name": "TRU TV",
                     "image": "https://telegratis.online/img/TruTV.png",
-                  "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8"
+                  "url":"http://168.227.22.18:1935/live/mobile-041/playlist.m3u8"
 
 
 		                },
