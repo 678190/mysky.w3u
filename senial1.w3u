@@ -111,8 +111,8 @@
                 {
                     "name": "EL GOURMET",
                     "image": "https://www.telebunker.com/img/gourmet.png",
-                  "url":"https://ok.ru/video/5178101538515",
-                      "referer":"https://ok.ru/video/5178101538515"
+                  "url":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8",
+                      "referer":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8"
 		
 		
 		
@@ -132,7 +132,14 @@
                     "name": "D MAX ESPAÑA",
                     "image": "https://tvendirecto.es/wp-content/uploads/dmax-en-directo.png",
                   "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8"
-                      
+
+	           },
+                {
+                    "name": "TRU TV",
+                    "image": "https://telegratis.online/img/TruTV.png",
+                  "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8"
+
+
 		                },
                 {
                     "name": "BE MAID CANAL ESPAÑA",
@@ -236,12 +243,7 @@
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania"  
 		  
-		  	           },
-                {
-                    "name": "CINERAMA TV",
-                    "image": "https://dominio.beauty/img/cinerama.png",
-                               "url":"https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w2048908926.m3u8",
-                      "userAgent":""
+		
                  
              	           },
                 {
@@ -256,6 +258,14 @@
                     "image": "https://dominio.beauty/img/fmtv.png",
                               "url":"https://s2.tvdatta.com:3307/hybrid/play.m3u8",
                       "userAgent":""
+
+           },
+                {
+                    "name": "PARAMOUNT",
+                    "image": "https://static-us-east-2-kenny-fastly.www.philo.com/images/channel_logos/PARHD/large_white.png?auto=webp&width=200",
+                              "url":"http://168.227.22.18:1935/live/mobile-004/playlist.m3u8",
+                      "userAgent":""
+
 
                          
                 },
