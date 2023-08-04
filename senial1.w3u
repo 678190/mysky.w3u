@@ -73,9 +73,8 @@
                                      
                "name": "AZTECA 7 MEXXX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                 "url":"https://live.telelatinohd.com/xtrema.php?id=203_#",
-                 "referer":"https://www.telextrema.com/azteca-7-en-vivo.html",
-                      "Host":true
+                     "url":"https://v3.playerlatino.live/stream/m3u8/5",
+                      "userAgent":"Lavf/57.71.100"
 		      
 		 
                  
@@ -295,8 +294,8 @@
                 }, {
                     "name": "BANDAMAX",
                     "image": "http://noticias.radiotormentamx.com/images/bandamax.png",
-                   "url":"https://live.telelatinohd.com/streamtv2.php?id=90_#",
-                      "userAgent":"https://www.televisiongratishd.com/azteca-7-en-vivo.html"
+                 "url":"https://v3.playerlatino.live/stream/m3u8/833",
+                      "userAgent":"Lavf/57.71.100"
                  
                  }, {
                     "name": "DREAM",
