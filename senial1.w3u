@@ -73,9 +73,9 @@
                                      
                "name": "AZTECA 7 MEXXX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                 "url":"https://live.telelatinohd.com/hls2.php?id=203_#",
-                 "referer":"https://embed.telextrema.com/embed/azteca7.html",
-                      "embed":true
+                 "url":"https://live.telelatinohd.com/xtrema.php?id=203_#",
+                 "referer":"https://www.telextrema.com/azteca-7-en-vivo.html",
+                      "Host":true
 		      
 		 
                  
