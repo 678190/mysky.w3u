@@ -73,8 +73,8 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                 "url":"https://megatelevisiontv.live/embed/repro/?r=aHR0cHM6Ly93d3cudnR2Y2FibGUuY29tL3dlYi9ieXBhc3MucGhwP3VybD1hSFIwY0hNNkx5OWxiV0psWkM1MFpXeGxlSFJ5WlcxaExtTnZiUzlsYldKbFpESXZZWHAwWldOaE55NW9kRzFz",
-                      "referer":"https://megatelevisiontv.live/en-vivo/azteca7/"
+                 "url":"https://live.telelatinohd.com/hls3.php?id=203_#",
+                      "referer":"https://www.televisiongratishd.com/azteca-7-en-vivo.html"
 		      
 		 
                  
@@ -294,8 +294,8 @@
                 }, {
                     "name": "BANDAMAX",
                     "image": "http://noticias.radiotormentamx.com/images/bandamax.png",
-                   "url":"https://embed.telextrema.com/",
-                      "userAgent":""
+                   "url":"https://live.telelatinohd.com/streamtv2.php?id=90_#",
+                      "userAgent":"https://www.televisiongratishd.com/azteca-7-en-vivo.html"
                  
                  }, {
                     "name": "DREAM",
