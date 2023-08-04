@@ -73,9 +73,9 @@
                                      
                "name": "AZTECA 7 MEXXX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                 "url":"https://live.telelatinohd.com/hls2.php?id=203_#",
+                 "url":"https://live.telelatinohd.com/streamtv.php?id=203_#",
                  "userAgent":"HttpCanary/3.3.5",
-                      "referer":" https://www.televisiongratishd.com/azteca-7-en-vivo.html"
+                      "referer":"https://www.telegratishd.com/azteca-7-en-vivo.html"
 		      
 		 
                  
