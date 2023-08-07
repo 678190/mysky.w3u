@@ -314,9 +314,9 @@
    }, {
                     "name": "USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                    "url": "https://tv247us.com/watch/usa/",
-"userAgent":"https://tv247us.com/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.8.4",
-"referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+                    "url": "https://em.tgo-tv.co/streams/tv/usnet/link1.php",
+                    "referer":"referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+
 
 
    }, {
