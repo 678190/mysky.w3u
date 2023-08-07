@@ -312,15 +312,6 @@
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8"    
                 
 
-   }, {
-                    "name": "USA NETWORK EMGLISH",
-                    "image": "https://www.groundedreason.com/wp-content/uploads/2020/12/USA_Network_Logo.png",
-                                "url":"	https://live.tv247us.com/tv247/usanw.m3u8",
-                      "referer":"https://tv247.us/watch/usa-network-free-stream/"      
-
-        
-
-
 
    }, {
                     "name": "TOM RAYDER 2018",
