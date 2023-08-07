@@ -312,10 +312,10 @@
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8"    
                 
    }, {
-                    "name": "USA",
-                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+                    "name": "USA ENGLISH",
+                      "image": "",
                     "url": "https://em.tgo-tv.co/streams/tv/usnet/link1.php",
-                "referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+"referer":"https://em.tgo-tv.co/streams/tv/usnet/link1.php"
 
 
 
