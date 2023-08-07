@@ -64,8 +64,9 @@
                                      
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://v3.playerlatino.live/stream/m3u8/941",
-                      "userAgent":"Lavf/57.71.100"
+                 "url":"https://canales.online/en-vivo/canal5/embedhls.html",
+                      "referer":"https://www.latele-envivo.com/canal-5-en-vivo/",
+                    "embed":true
 		 
 		 
 		 	        },
