@@ -65,7 +65,7 @@
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
                  "url":"https://www.televisiongratishd.com/canal-5-en-vivo.html?referer=https://live.telelatinohd.com/hls2.php?id=204_",
-                      "Host":true
+                      "embed":true
                      
                 
 		 
