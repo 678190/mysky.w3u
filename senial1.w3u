@@ -92,8 +92,8 @@
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-                  "url":"https://v3.playerlatino.live/stream/m3u8/76",
-                      "userAgent":"Lavf/57.71.100"
+                                 "url": "https://www.telelatinohd.com/nat-geo-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=330_",
+"Host":true
 	       
 	               },
                 {
@@ -289,8 +289,8 @@
                 }, {
                     "name": "BANDAMAX",
                     "image": "http://noticias.radiotormentamx.com/images/bandamax.png",
-                 "url":"https://v3.playerlatino.live/stream/m3u8/833",
-                      "userAgent":"Lavf/57.71.100"
+                                               "url": "https://www.telelatinohd.com/nat-geo-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=90_",
+"Host":true
                  
                  }, {
                     "name": "DREAM",
