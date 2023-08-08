@@ -64,9 +64,9 @@
                                      
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://www.aolive.xyz/sintv/canal5.php",
-                      "referer":"https://www.sintelevisionhd.com/canal-5-televisa-en-vivo/",
-                       "embed":true
+                 "url":"https://www.televisiongratishd.com/canal-5-en-vivo.html?referer=https://live.telelatinohd.com/hls2.php?id=204_",
+                      "Host":true
+                     
                 
 		 
 		 
@@ -75,9 +75,9 @@
                                      
                "name": "AZTECA 7 MEXXX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                     "url":"https://www.aolive.xyz/mexico/azteca7.php",
-                      "referer":"https://www.supertelevisionhd.com/azteca-7-en-vivo/",
-                      "embed":true
+                     "url":"https://www.televisiongratishd.com/azteca-7-en-vivo.html?referer=https://live.telelatinohd.com/hls2.php?id=203_#",
+                      "Host":true
+                     
 		      
 		 
                  
