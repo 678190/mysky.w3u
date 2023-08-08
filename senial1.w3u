@@ -65,7 +65,7 @@
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
                  "url":"https://www.televisiongratishd.com/canal-5-en-vivo.html?referer=https://live.telelatinohd.com/hls2.php?id=204_",
-                      "embed":true
+                      "EMBED":true
                      
                 
 		 
@@ -310,8 +310,8 @@
                     "name": "USA ENGLISH",
                       "image": "",
                     "url": "https://em.tgo-tv.co/player/frame.php?//extrafreetv.com/embed1/usanet/1.php",
-                  "url": "https://extrafreetv.com/embed/scplayer.php?343",
-"referer":"https://tgo-tv.co/wwe-schedule/"
+                  "url": "https://tgo-tv.co/wwe-schedule/?referer=https://extrafreetv.com/embed/scplayer.php?343"
+"Host":true
 
 
 
