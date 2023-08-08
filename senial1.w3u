@@ -321,6 +321,13 @@
 
 
 
+  }, {
+                    "name": "prueba",
+                      "image": "",
+                    "url": "https://extrafreetv.com/embed/scplayer.php?31",
+"referer":"https://tgo-tv.co/wwe-schedule/"
+
+
    }, {
                     "name": "ABC NEWS",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png",
@@ -334,11 +341,7 @@
                     "url": "https://tv247us.com/watch/showtime-us/",
 "referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
 
-   }, {
-                    "name": "PRUEBA",
-                      "image": "",
-                    "url": "https://www.ustvnow.com/channel/live/fetv",
-"referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+
 
 
 
