@@ -65,7 +65,8 @@
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
                  "url":"https://canales.online/en-vivo/canal5/embedhls.html",
-                      "referer":"https://www.latele-envivo.com/canal-5-en-vivo/"
+                      "referer":"https://www.latele-envivo.com/canal-5-en-vivo/",
+                       "embed":true
                 
 		 
 		 
