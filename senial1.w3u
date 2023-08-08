@@ -129,11 +129,7 @@
 		      
 		      
 		            
-		           },
-                {
-                    "name": "D MAX ESPAÑA",
-                    "image": "https://tvendirecto.es/wp-content/uploads/dmax-en-directo.png",
-                  "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8"
+		
 
 	           },
                 {
@@ -142,11 +138,7 @@
                   "url":"http://168.227.22.18:1935/live/mobile-041/playlist.m3u8"
 
 
-		                },
-                {
-                    "name": "BE MAID CANAL ESPAÑA",
-                    "image": "https://pbs.twimg.com/profile_images/1501885766502436867/t86epb9i_400x400.jpg",
-                  "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8" 
+		 
 		
 		           },
                 {
@@ -317,7 +309,8 @@
                     "name": "USA ENGLISH",
                       "image": "",
                     "url": "https://em.tgo-tv.co/player/frame.php?//extrafreetv.com/embed1/usanet/1.php",
-"referer":"https://em.tgo-tv.co/streams/tv/usnet/link1.php"
+                  "url": "https://extrafreetv.com/embed/scplayer.php?343",
+"referer":"https://tgo-tv.co/wwe-schedule/"
 
 
 
