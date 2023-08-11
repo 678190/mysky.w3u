@@ -247,6 +247,14 @@
                                "url":"https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
                       "userAgent":""
 
+
+         },
+                {
+                    "name": "SENIAL 2 TERROR",
+                    "image": "https://www.telegratishd.com/imge/terror.png",
+                               "url":"https://www.telegratishd.com/terror-24-horas-en-vivo.html?referer=https://live.telelatinohd.com/streamtv.php?id=196_",
+                      "Host":true
+
            	           },
                 {
                     "name": "FM CINE",
