@@ -206,7 +206,8 @@
                }, {
                     "name": "MC",
                       "image": "https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png",
-                    "url": "http://168.227.22.18:1935/live/mobile-044/playlist.m3u8"
+                           "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                   "":true
                     
 		    
 		           
@@ -331,11 +332,6 @@
 
 
 
-  }, {
-                    "name": "pruebaaa",
-                      "image": "",
-                    "url": "https://www.telelatinohd.com/nat-geo-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=330_",
-"Host":true
 
 
 
@@ -353,14 +349,14 @@
 "referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
 
 
+  }, {
+                    "name": "MOVIES TUBI SPANISH",
+                      "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
+                    "url": "https://tubitv.com/home",
+"embed":true
 
 
 
-   }, {
-                    "name": "TOM RAYDER 2018",
-                      "image": "https://www.peelink2.com/wp-content/uploads/2017/10/Ver-Tomb-Raider-2018.jpg",
-                    "url": "https://uqload.co/embed-p6p4gmo5mbcw.html",
-"referer":"https://www.peelink2.com/2017/10/0037-6938-ver-tomb-raider-2018-online-gratis.html"
 
 
         }
