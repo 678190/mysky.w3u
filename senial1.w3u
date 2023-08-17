@@ -352,7 +352,8 @@
   }, {
                     "name": "MOVIES TUBI SPANISH",
                       "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
-                    "url": "https://tubitv.com/home?UserAgent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+                    "url": "https://tubitv.com/home",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
 
 
