@@ -325,8 +325,8 @@
    }, {
                     "name": "USA ENGLISH",
                       "image": "https://www.groundedreason.com/wp-content/uploads/2020/12/USA_Network_Logo.png",
-                    "url": "https://extrafreetv.com/embed/scplayer.php?343",
-                    "referer":"https://tgo-tv.co/wwe-schedule/"
+                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
+                    "referer":"https://thetvapp.to/tv/usa-network-live-stream/"
                
 
 
@@ -336,7 +336,7 @@
 
 
    }, {
-                    "name": "ABC NEWS",
+                    "name": "ABC NEWS ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png",
                     "url": "https://tv247.us/watch/abc-us-free-stream/",
 "referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
@@ -345,8 +345,15 @@
    }, {
                     "name": "SHOW TIME",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png",
-                    "url": "https://tv247us.com/watch/showtime-us/",
-"referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+                    "url": "https://thetvapp.to/tv/showtime-e-live-stream/",
+"referer":"https://thetvapp.to/tv/showtime-e-live-stream/"
+
+
+   }, {
+                    "name": "MOVIES ENGLISH",
+                      "image": "",
+                    "url": "https://thetvapp.to/tv/the-movie-channel-east-live-stream/",
+"referer":"https://thetvapp.to/tv/the-movie-channel-east-live-stream/"
 
 
   }, {
