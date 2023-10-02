@@ -218,9 +218,13 @@
 		    
 		           
                }, {
-                    "name": "PELICULAS",
-                      "image": "https://cdn.vaughnsoft.net/profile/1013/estrenospeliculas.jpg",
-                    "url": "http://168.227.22.18:1935/live/mobile-015/playlist.m3u8"
+                    "name": "MOVISTAR AXION",
+                      "image": "https://tse4.mm.bing.net/th?id=OIP.7wWv63kTV8jy9hxnNpg4YwHaEK&pid=Api&P=0&h=220",
+                    "url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55497&extension=ts&play_token=ltn2GgE1z6?UserAgent=Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "Host":true
+
+
+
 		    
 		     }, {
                     "name": "MOVIES DRAMA",
@@ -263,25 +267,25 @@
 
                 },
                 {
-                    "name": "SENIAL 3 TERROR",
-                    "image": "https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg",
-                          "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "name": "SERIES ",
+                    "image": "https://tse4.mm.bing.net/th?id=OIP.7wWv63kTV8jy9hxnNpg4YwHaEK&pid=Api&P=0&h=220",
+                          "url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55485&extension=ts&play_token=ltn2GgE1z6?UserAgent=Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36
+",
                    "":true
 
 
            	           },
                 {
-                    "name": "FM CINE",
-                    "image": "https://dominio.beauty/img/fmtv.png",
-                              "url":"https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-                      "userAgent":""
+                    "name": "CINE FAMILIAR",
+                    "image": "https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",
+                              "url":"https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",
+                      "Host":true
 
-           },
-                {
-                    "name": "PARAMOUNT",
-                    "image": "https://static-us-east-2-kenny-fastly.www.philo.com/images/channel_logos/PARHD/large_white.png?auto=webp&width=200",
-                              "url":"http://168.227.22.18:1935/live/mobile-004/playlist.m3u8",
-                      "userAgent":""
+           }, {
+                    "name": "CINE PREMIUM",
+                      "image": "https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",
+                    "url": "http://181.78.21.60:16123/play/ch49?UserAgent=: Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+"Host":true
 
 
                          
@@ -293,13 +297,7 @@
                        "referer":"https://www.cxtvlive.com/live-tv/combate-global"
                
                             
-                                  	           },
-                {
-                    "name": "SENIAL UFC",
-                    "image": "https://tse3.explicit.bing.net/th?id=OIP.vbubfuh5I-q-Bq-4sphkSgHaEK&pid=Api&P=0&h=220",
-                                "url":"http://167.114.156.136:25461/INFINITV/ZX89NM22/47",
-                      "userAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36"      
-                           
+                 
                            
                 }, {
                     "name": "VIDEO ROLAS",
@@ -380,25 +378,12 @@
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
 
-  }, {
-                    "name": "MOVIES",
-                      "image": "",
-                    "url": "https://voe.sx/e/e16ceb0txc0j",
-"referer":""
-
-  }, {
-                    "name": "CINE PREMIUM",
-                      "image": "",
-                    "url": "http://181.78.21.60:16123/play/ch49?UserAgent=: Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-"Host":true
 
 
-  }, {
-                    "name": "DUTY EP 1",
-                      "image": "https://tse2.mm.bing.net/th?id=OIP.JlOuYJa-Bv72As4dF_SDsAHaEK&pid=Api&P=0&h=220",
-                    "url": "https://www.youtube.com/embed/LVFELw1csyI?si=0AZ0TIXTtc96ojFW",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
+
+
+
+ 
 
 
         }
