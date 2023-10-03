@@ -70,7 +70,7 @@
                                      
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://www.televisiongratishd.com/canal-5-en-vivo.html?referer=https://www.televisiongratishd.com/live5/canal5.php",
+                 "url":"https://www.telegratishd.com/canal-5-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=204_",
                       "Host":true
                      
                 
@@ -215,16 +215,7 @@
                            "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
                    "":true
                     
-		    
-		           
-               }, {
-                    "name": "MOVISTAR AXION",
-                      "image": "https://tse4.mm.bing.net/th?id=OIP.7wWv63kTV8jy9hxnNpg4YwHaEK&pid=Api&P=0&h=220",
-                    "url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55497&extension=ts&play_token=ltn2GgE1z6?UserAgent=Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "Host":true
-
-
-
+	
 		    
 		     }, {
                     "name": "MOVIES DRAMA",
@@ -265,13 +256,7 @@
                                "url":"https://www.telegratishd.com/terror-24-horas-en-vivo.html?referer=https://live.telelatinohd.com/streamtv.php?id=196_",
                       "Host":true
 
-                },
-                {
-                    "name": "SERIES ",
-                    "image": "https://tse4.mm.bing.net/th?id=OIP.7wWv63kTV8jy9hxnNpg4YwHaEK&pid=Api&P=0&h=220",
-                          "url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55485&extension=ts&play_token=ltn2GgE1z6?UserAgent=Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36
-",
-                   "":true
+            
 
 
            	           },
@@ -334,6 +319,12 @@
                     "referer":""
 
 
+                  "name": "MOVIES TUBI SPANISH",
+                      "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
+                    "url": "https://tubitv.com/home",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+
 
 
                 
@@ -343,10 +334,6 @@
                     "url": "https://thetvapp.to/tv/usa-network-live-stream/",
                     "referer":"https://thetvapp.to/tv/usa-network-live-stream/"
                
-
-
-
-
 
 
 
@@ -363,24 +350,50 @@
                     "url": "https://thetvapp.to/tv/showtime-e-live-stream/",
 "referer":"https://thetvapp.to/tv/showtime-e-live-stream/"
 
+   }, {
+                    "name": "HBO COMEDY ON ENGLISH",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png",
+                    "url": "https://www.latele-envivo.com/imagenes/hbo.png",
+"referer":"https://www.latele-envivo.com/imagenes/hbo.png"
+
+
 
    }, {
                     "name": "NBC",
-                      "image": "",
+                      "image": "https://1000marcas.net/wp-content/uploads/2020/03/NBC-Logo-768x432.png",
                     "url": "https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/",
 "referer":"https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/"
 
 
-  }, {
-                    "name": "MOVIES TUBI SPANISH",
-                      "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
-                    "url": "https://tubitv.com/home",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
+ }, {
+                    "name": "DISCOVERY TLC ENGLISH CHANNEL",
+                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
+                    "url": "https://thetvapp.to/tv/tlc-live-stream/",
+"referer":"https://thetvapp.to/tv/tlc-live-stream/"
 
 
 
+ }, {
+                    "name": "DISCOVERY CHANNEL ON ENGLISH",
+                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
+                    "url": "https://thetvapp.to/tv/discovery-live-stream/",
+"referer":"https://thetvapp.to/tv/discovery-live-stream/"
 
+
+
+ }, {
+                    "name": "NATIONAL GEOGRAPHIC ON ENGLISH",
+                      "image": "https://www.latele-envivo.com/imagenes/national-geographic.png",
+                    "url": "https://thetvapp.to/tv/national-geographic-live-stream/",
+"referer":"https://thetvapp.to/tv/national-geographic-live-stream/"
+
+
+
+ }, {
+                    "name": "MTV LIVE",
+                      "image": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/thumbnail.jpg",
+                    "url": "https://thetvapp.to/tv/mtv-live-stream/",
+"referer":"https://thetvapp.to/tv/mtv-live-stream/"
 
 
  
