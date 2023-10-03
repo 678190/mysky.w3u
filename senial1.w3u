@@ -306,13 +306,20 @@
                     "name": "NICK INFANTIL",
                       "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
                     "url": "http://168.227.22.18:1935/live/mobile-112/playlist.m3u8" 
+
                         }, {
                     "name": "INFANTIL",
                       "image": "https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8" 
 
 
+}, {
 
+                  "name": "MOVIES TUBI SPANISH",
+                      "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
+                    "url": "https://tubitv.com/home",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
 
 
 
@@ -341,10 +348,26 @@
 "referer":"https://thetvapp.to/tv/showtime-e-live-stream/"
 
 
+ }, {
+                    "name": "MTV LIVE",
+                      "image": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/thumbnail.jpg",
+                    "url": "https://thetvapp.to/tv/mtv-live-stream/",
+"referer":"https://thetvapp.to/tv/mtv-live-stream/"
+
+
+ }, {
+                    "name": "DISCOVERY CHANNEL ON ENGLISH",
+                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
+                    "url": "https://thetvapp.to/tv/discovery-live-stream/",
+"referer":"https://thetvapp.to/tv/discovery-live-stream/"
 
 
 
-
+ }, {
+                    "name": "NATIONAL GEOGRAPHIC ON ENGLISH",
+                      "image": "https://www.latele-envivo.com/imagenes/national-geographic.png",
+                    "url": "https://thetvapp.to/tv/national-geographic-live-stream/",
+"referer":"https://thetvapp.to/tv/national-geographic-live-stream/"
 
  
 
