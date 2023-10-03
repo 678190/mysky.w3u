@@ -357,9 +357,16 @@
 
  }, {
                     "name": "DISCOVERY CHANNEL ON ENGLISH",
-                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
+                      "image": "https://photocall.cc/img/png/discoveryplus.png",
                     "url": "https://thetvapp.to/tv/discovery-live-stream/",
 "referer":"https://thetvapp.to/tv/discovery-live-stream/"
+
+
+ }, {
+                    "name": "HISTORY CHANNEL ENGLISH",
+                      "image": "https://www.latele-envivo.com/imagenes/history.png",
+                    "url": "https://thetvapp.to/tv/history-live-stream/",
+"referer":"https://thetvapp.to/tv/history-live-stream/"
 
 
 
@@ -384,8 +391,26 @@
 "referer":""
 
 
- 
 
+   }, {
+                    "name": "TBS ENGLISH",
+                      "image": "https://www.latele-envivo.com/imagenes/tbs.png",
+                    "url": "https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/",
+"referer":"https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/"
+
+   }, {
+                    "name": "CARTON NETWORK ENGLISH",
+                      "image": "https://www.latele-envivo.com/imagenes/cartoon-network.png",
+                    "url": "https://thetvapp.to/tv/cartoon-network-live-stream/",
+"referer":"https://thetvapp.to/tv/cartoon-network-live-stream/"
+
+
+
+   }, {
+                    "name": "Nikelodeon English",
+                      "image": "https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo-768x432.png",
+                    "url": "https://thetvapp.to/tv/nickelodeon-east-live-stream/",
+"referer":"https://thetvapp.to/tv/nickelodeon-east-live-stream/"
 
         }
  
