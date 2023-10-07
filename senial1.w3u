@@ -111,8 +111,8 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "http://x.playerlatino.live//discoverychannel.png",
-                  "url":"http://168.227.22.18:1935/live/mobile-006/playlist.m3u8",
-                      "userAgent":""
+                             "url":"http://181.78.21.60:16123/play/ch22?UserAgent=: Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                      "Host":true
 		 
 		       },
                 {
