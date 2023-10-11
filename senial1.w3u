@@ -302,8 +302,8 @@
                     "name": "BANDAMAX",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/4/45/Bandamax_Logo.png/revision/latest/scale-to-width-down/250?cb=20190806174354",
                                                "url": "https://vivo.lamtv.tv:8081/a/0032/playlist.m3u8?UserAgent=UniversoSport",
-"UserAgent":"FFFFF",
-"embed":true
+"UserAgent":"UniversoSport"
+
                  
                  }, {
                     "name": "DREAM",
