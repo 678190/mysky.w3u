@@ -77,7 +77,7 @@
                                      
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://www.televisiongratishd.com/canal-5-en-vivo.html?referer=https://www.televisiongratishd.com/live5/canal5.php",
+                 "url":"http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8",
                       "Host":true
                      
                 
@@ -88,7 +88,7 @@
                                      
                "name": "AZTECA 7 MEXXX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                     "url":"https://www.telegratishd.com/azteca-7-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=203_",
+                     "url":"http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16514.m3u8",
                       "Host":true
                      
 		      
@@ -98,14 +98,14 @@
                 {
                     "name": "HISTORY CHANNEL ",
                     "image": "https://www.telelatinohd.com/assets/images/history.jpg",
-                  "url":"https://www.telegratishd.com/history-en-vivo.html?referer=https://live.telelatinohd.com/streamtv2.php?id=234_",
+                  "url":"http://168.227.22.18:1935/live/mobile-058/playlist.m3u8",
                       "Host":true
                
                       },
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-                                 "url": "https://www.telelatinohd.com/nat-geo-en-vivo.html?referer=https://live.telelatinohd.com/livestream.php?id=330_",
+                                 "url": "http://168.227.22.18:1935/live/mobile-091/playlist.m3u8",
 "Host":true
 	       
 	               },
@@ -138,7 +138,7 @@
                 {
                     "name": "ID INVESTIGATION ",
                     "image": "https://x.playerlatino.live//investigationdiscovery.png",
-                  "url":"https://www.telegratishd.com/id-investigation-en-vivo.html?referer=https://live.telelatinohd.com/streamtv.php?id=233_",
+                  "url":"http://181.78.21.60:16123/play/ch23?UserAgent=: Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
                       "userAgent":""
 		      
 		      
