@@ -18,7 +18,7 @@
                     "name": "TUDN CALIDAD HD",
                       "image": "https://www.televisiongratishd.com/img/tudn.png",
                     "url": "http://212.102.60.231/TUDN/index.m3u8",
-"Host":true
+"embed":true
                     
                      }, {
                     "name": "TELEMUNDO USA",
