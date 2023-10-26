@@ -332,8 +332,9 @@
      }, {
                     "name": "SENIAL DE PRUEBA",
                       "image": "",
-                    "UserAgent":"Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)",
-                    "url": "https://3.ultimate2019.com/stream/hls/844"
+                        "url": "https://3.ultimate2019.com/stream/hls/844",
+                    "UserAgent":"Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)"
+                   
 
 
 
