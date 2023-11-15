@@ -96,7 +96,13 @@
                      "url":"https://www.televisiongratishd.com/azteca-7-en-vivo.html?referer=https://www.televisiongratishd.com/live6/azteca7.php",
                       "referer":""
             
-                     
+              	        },
+                {
+                                     
+               "name": "CANAL 8 GUANAJUATO",
+                    "image": "https://oursnetworktv.com/img/chanels/logos/Guanajuato2.png",
+                     "url":"https://oursnetworktv.com/#/ChannelDetail/46/TV-Guanajuato",
+                      "referer":"https://oursnetworktv.com/#/ChannelDetail/46/TV-Guanajuato"        
 		      
 		 
                  
@@ -160,16 +166,6 @@
                   "url":"http://168.227.22.18:1935/live/mobile-041/playlist.m3u8"
 
 
-		 
-		
-		           },
-                {
-                    "name": "TNT ",
-                    "image": "http://x.playerlatino.live//tnt.png",
-                  "url":"http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8",
-                      "userAgent":""
-		
-		
 		      
 		      
 	       
@@ -228,10 +224,7 @@
                     
 	
 		    
-		     }, {
-                    "name": "MOVIES DRAMA",
-                      "image": "https://cdn.vaughnsoft.net/profile/1013/cityfm.jpg",
-                    "url": "http://168.227.22.18:1935/live/mobile-097/playlist.m3u8" 
+		 
 		    
                    
                          },
