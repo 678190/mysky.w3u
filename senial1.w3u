@@ -441,7 +441,8 @@
                   "name": "PRUEBA 2",
                       "image": "",
                     "url": "https://therokuchannel.roku.com/watch/7df7b616c8b2562191428c1eea9550bf/ion",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+"referer":"https://therokuchannel.roku.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
 "embed":true
 
 
