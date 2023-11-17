@@ -154,17 +154,7 @@
                   "url":"https://www.hdxchannel.xyz/documentales/id.php",
                       "referer":"https://www.supertelevisionhd.net/investigation-discovery-en-vivo/",
                   "embed":true
-		      
-		      
-		            
-		
-
-	           },
-                {
-                    "name": "TRU TV",
-                    "image": "https://telegratis.online/img/TruTV.png",
-                  "url":"http://168.227.22.18:1935/live/mobile-041/playlist.m3u8"
-
+	
 
 		      
 		      
@@ -204,7 +194,10 @@
                     "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
                       "url":"https://daddylivehd.sx/embed/stream-372.php?referer?https://webudit.vipboxtv.stream/lb/premium372/index.m3u8",
                       "UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
-                    
+          }, {
+                    "name": "CINE INFANTIL",
+                      "image": "https://tse2.mm.bing.net/th?id=OIP.YRZhjnDXw3FF-_SuQVmmYgHaFj&pid=Api&P=0&h=220",
+                    "url": "https://stmv1.cnarlatam.com:443/cineinfantil/cineinfantil/playlist.m3u8"              
                 
  
     }, {
