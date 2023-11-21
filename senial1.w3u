@@ -230,13 +230,29 @@
                   
 		           },
                 {
-                    "name": "ESTRENOS",
-                    "image": "https://cdn.vaughnsoft.net/profile/1013/juancine_tv.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv",
+                    "name": "NETFLIX",
+                    "image": "https://cdn.vaughnsoft.net/img/vaughnlive_v9_logo.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania"  
 		  
-		
+			           },
+                {
+                    "name": "CRITICANDO PELIS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1700604007/criticando_pelis.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_criticando_pelis.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania" 
+
+
+	           },
+                {
+                    "name": "cinemundo_plus",
+                    "image": "https://cdn.vaughnsoft.net/profile/1700604151/cinemundo_plus.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania" 
+
                  
              	           },
                 {
