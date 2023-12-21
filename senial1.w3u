@@ -39,7 +39,74 @@
                     "url": "http://168.227.22.18:1935/live/mobile-059/playlist.m3u8",
 "UserAgent":""
 
+       }, {
+                    "name": "SENIAL 2 TELEMUNDO",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+                    "url": "https://thetvapp.to/tv/telemundo-east-live-stream/",
+                      "Host":true
 
+                      },
+                {
+                    "name": "UNIMAS ",
+                    "image":"https://1.bp.blogspot.com/-nw-YQVmCdrM/XW3Izew1xtI/AAAAAAAAAP4/IeKNiLF8xlMS8i8UpPVxJAmBPmazimTZQCLcBGAs/s1600/unimas.png",
+                   "url":"https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1="
+                  
+
+   }, {
+                    "name": "GALAVICION ",
+                    "image": "https://www.televisiongratishd.com/img/galavision.png",
+                       "url": "https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1="
+
+
+                }, 
+                { 
+                "name": "ESTRELLAS TV",
+                "image": "https://s.yimg.com/fz/api/res/1.2/9L_mQ1zjxtCquau6_4cEoA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEyMDtxPTgwO3c9MTIw/https://s.yimg.com/zb/imgv1/f64e0599-7399-3e95-b6f8-7d311aadce07/t_500x300", 
+                "url": " https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8  ", 
+"EMBED":true
+
+
+
+         },
+                {
+                                     
+               "name": "LAS ESTRELLAS SENIAL MEX",
+                    "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
+                 "url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
+
+        },
+                {
+                                     
+               "name": "CANAL 5 MEX",
+                    "image": "https://www.telegratishd.com/imge/canal5.png",
+                 "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/115 ",
+                      "referer":"https://www.televisiongratishd.com/live6/canal5.php"
+
+ 
+		 	        },
+                {
+                                     
+               "name": "AZTECA 7 MEX",
+                    "image": "https://www.telegratishd.com/imge/azteca7.png",
+                     "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208",
+                      "referer":""
+
+
+    	        },
+                {
+                                     
+               "name": "CANAL 8 GUANAJUATO",
+                    "image": "https://oursnetworktv.com/img/chanels/logos/Guanajuato2.png",
+                     "url":"https://stream.oursnetworktv.com/latin/tvguanajuato/chunklist_w510575005.m3u8",
+                      "referer":"https://oursnetworktv.com/#/ChannelDetail/46/TV-Guanajuato" 
+
+
+       },
+                {
+                    "name": "HISTORY CHANNEL ",
+                    "image": "https://www.telelatinohd.com/assets/images/history.jpg",
+                  "url":"http://168.227.22.18:1935/live/mobile-058/playlist.m3u8",
+                      "Host":true
 
 
 
