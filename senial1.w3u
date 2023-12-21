@@ -183,6 +183,92 @@
                       "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/8",
                       "UserAgent":" "
 
+          }, {
+                    "name": "CINE INFANTIL",
+                      "image": "https://tse2.mm.bing.net/th?id=OIP.YRZhjnDXw3FF-_SuQVmmYgHaFj&pid=Api&P=0&h=220",
+                    "url": "https://stmv1.cnarlatam.com:443/cineinfantil/cineinfantil/playlist.m3u8"              
+                
+ 
+    }, {
+                    "name": "SPACE",
+                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
+                    "url": "http://168.227.22.18:1935/live/mobile-003/playlist.m3u8"
+
+                    
+               }, {
+                    "name": "MC",
+                      "image": "https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/featuredImage.jpg",
+                           "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                   "":true
+                    
+
+                },
+                {
+                    "name": "PELICULA MANIA",
+                    "image": "https://cdn.vaughnsoft.net/profile/1428/peliculas_mania.jpg",
+                              "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_peliculas_mania.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania"  
+                  
+
+		           },
+                {
+                    "name": "NARCO CINE MEXICANO",
+                    "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp",
+                              "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
+                  "userAgent":" ",
+                  "referer":"" 
+
+
+           },
+                {
+                    "name": "CINE MUNDO PLUS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1700604151/cinemundo_plus.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania" 
+
+
+           },
+                {
+                    "name": "CINE PANICO",
+                    "image": "https://cdn.vaughnsoft.net/profile/1322/cinemundo_panico.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_panico.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania" 
+
+         },
+                {
+                    "name": "HBO 2",
+                    "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
+                      "url":"http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8",
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+
+
+                },
+                {
+                    "name": "SENIAL COMBATE AMERICA",
+                    "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
+                      "url": "https://www.cxtvlive.com/live-tv/combate-global",
+                       "referer":"https://www.cxtvlive.com/live-tv/combate-global"
+               
+                            
+
+   }, {
+                    "name": "VIDEO ROLAS",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png",
+                    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",             
+               "referer":" "
+
+
+                }, {
+                    "name": "BANDAMAX",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/4/45/Bandamax_Logo.png/revision/latest/scale-to-width-down/250?cb=20190806174354",
+                  "url":"https://www.telegratishd.com/bandamax-en-vivo.html?referer=https://live.telelatinohd.com/streamtv3.php?id=90_",
+"UserAgent":""
+
+
+
 
 
 
