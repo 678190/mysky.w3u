@@ -108,6 +108,81 @@
                   "url":"http://168.227.22.18:1935/live/mobile-058/playlist.m3u8",
                       "Host":true
 
+                      },
+                {
+                    "name": "NATIONAL GEOGRAPHIC ",
+                    "image": "https://x.playerlatino.live//natgeo.png",
+                                 "url": "http://168.227.22.18:1935/live/mobile-091/playlist.m3u8",
+"Host":true
+
+
+           },
+                {
+                    "name": "DISCOVERY CHANNEL ",
+                    "image": "http://x.playerlatino.live//discoverychannel.png",
+                             "url":"http://168.227.22.18:1935/live/mobile-006/playlist.m3u8",
+                      "Host":true
+
+
+		       },
+                {
+                    "name": "TLC",
+                    "image": "http://x.playerlatino.live//tlc.png",
+                  "url":"https://www.televisiongratishd.com/discovery-tlc-en-vivo.html?referer=https://www.televisiongratishd.com/live6/discoverytlc.php",
+                      "referer":""
+
+       },
+                {
+                    "name": "EL GOURMET",
+                    "image": "https://www.telebunker.com/img/gourmet.png",
+                  "url":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8",
+                      "referer":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8"
+		
+		
+           },
+                {
+                    "name": "ID INVESTIGATION ",
+                    "image": "https://x.playerlatino.live//investigationdiscovery.png",
+                  "url":"https://www.hdxchannel.xyz/documentales/id.php",
+                      "referer":"https://www.supertelevisionhd.net/investigation-discovery-en-vivo/",
+                      "embed":true
+                 
+              },
+				{
+					"name": "EMPEÑOS",
+					"image": "https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
+					"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+					"":true
+                  
+
+                },
+                {
+                    "name": "BIAJEROS",
+                    "image": "https://images.pluto.tv/channels/60511efd71ec430007f50d97/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
+                        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                   "":true
+
+		     },
+                {
+                    "name": "CASO CERRADO 24/7",
+                    "image": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5",
+                 "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+
+
+  }, {
+                    "name": "FOX SPOT 2 MEXICO",
+                    "image": "https://www.telelatinohd.com/assets/images/foxsports2mexico.jpg",
+                  "url":"http://168.227.22.18:1935/live/mobile-031/playlist.m3u8",
+                      "userAgent":""
+
+
+    }, {
+                  "name": "BEIN OPCION 1 ",
+                    "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
+                      "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/8",
+                      "UserAgent":" "
+
 
 
 
