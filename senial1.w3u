@@ -240,7 +240,7 @@
                 {
                     "name": "NETFLIX",
                     "image": "https://cdn.vaughnsoft.net/profile/1551/a_neflix01.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
+                              "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinepeliculas507.flv",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania"  
 		  
@@ -266,7 +266,7 @@
                 {
                     "name": "SENIAL TERROR",
                     "image": "https://cdn.vaughnsoft.net/profile/1236/terror_mania.jpg",
-                               "url":"https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
+                               "url":"https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv  ",
                       "userAgent":""
 
 
@@ -275,7 +275,7 @@
                     "name": "SENIAL 2 TERROR",
                     "image": "https://www.telegratishd.com/imge/terror.png",
                       "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-                      "UserAgent":""
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36"  "
            },
                 {
                     "name": "CINE PANICO",
