@@ -298,7 +298,17 @@
                       "image": "https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",
                     "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8" 
 
- 
+}, {
+
+                  "name": "CINE CASA",
+                      "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
+                    "url": "https://strymix.com/peliculas/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+
+
+
+
 
 
 }, {
