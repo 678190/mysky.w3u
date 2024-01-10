@@ -300,13 +300,20 @@
 
 }, {
 
-                  "name": "CINE CASA",
+                  "name": "CINE CASA 1",
                       "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
                     "url": "https://strymix.com/peliculas/",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
 
 
+}, {
+
+                  "name": "CINE CASA 2",
+                      "image": "https://static.vecteezy.com/system/resources/previews/000/540/684/original/cinema-banner-alphabet-sign-marquee-light-bulb-vintage-vector.jpg",
+                    "url": "https://premiumboched.blogspot.com/?m=1",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
 
 
 
@@ -418,15 +425,8 @@
                     "name": "PRUEBA",
                       "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
                     "url": "https://www.maxinovelas.com/el-cartel-de-los-sapos/ver ",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
-
-
-  }, {
-                    "name": "Mgy2",
-                      "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "http://79.143.17.54:3980/R3$3202/3R1W3$32/42283_.m3u8",
-"UserAgent":"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
-
 
 
 
