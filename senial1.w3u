@@ -33,6 +33,15 @@
                     "url": "http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199",
 "UserAgent":""
 
+	           },
+                {
+                    "name": "SERIES ENERGY TV",
+                    "image": "https://dominio.beauty/img/new/energy.png",
+                              "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8",
+                  "userAgent":" ",
+                  "referer":"" 
+
+
     }, {
                     "name": "USA NETWORK SPANISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/USA-NETWORK-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160&ssl=1",
@@ -197,11 +206,7 @@
                     "url": "http://168.227.22.18:1935/live/mobile-003/playlist.m3u8"
 
                     
-               }, {
-                    "name": "CINE VERDI TV SPAIN",
-                      "image": "https://barcelona.cines-verdi.com/storage/app/media/Logos/VerdiLogoWebBarcelona_centrado.svg",
-                           "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.m3u8",
-                   "":true
+            
                     
 
                 },
