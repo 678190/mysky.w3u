@@ -257,6 +257,19 @@
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania" 
 
+},
+                {
+                    "name": "DJTV",
+                    "image": "https://cdn.vaughnsoft.net/profile/1420/djtv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_djtv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania" 
+
+
+
+
+
+
          },
                 {
                     "name": "HBO 2",
