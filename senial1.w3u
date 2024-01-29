@@ -251,9 +251,9 @@
 
            },
                 {
-                    "name": "CINE PANICO",
-                    "image": "https://cdn.vaughnsoft.net/profile/1322/cinemundo_panico.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_panico.flv",
+                    "name": "CINE TERROR",
+                    "image": "https://cdn.vaughnsoft.net/profile/1226/terror_mania.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania" 
 
