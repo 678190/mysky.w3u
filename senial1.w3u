@@ -144,7 +144,7 @@
                 {
                     "name": "TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                  "url":"https://www.televisiongratishd.com/discovery-tlc-en-vivo.html?referer=https://www.televisiongratishd.com/live6/discoverytlc.php",
+                   "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/59 ",
                       "referer":""
 
        },
@@ -159,9 +159,8 @@
                 {
                     "name": "ID INVESTIGATION ",
                     "image": "https://x.playerlatino.live//investigationdiscovery.png",
-                  "url":"https://www.hdxchannel.xyz/documentales/id.php",
-                      "referer":"https://www.supertelevisionhd.net/investigation-discovery-en-vivo/",
-                      "embed":true
+                     "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/81 ",
+                      "referer":""
                  
               },
 				{
@@ -259,9 +258,9 @@
 
 },
                 {
-                    "name": "DJTV",
-                    "image": "https://cdn.vaughnsoft.net/profile/1420/djtv.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_djtv.flv",
+                    "name": "CINE MUNDO 0",
+                    "image": "https://cdn.vaughnsoft.net/profile/1707160424/cinemundo_0.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania" 
 
