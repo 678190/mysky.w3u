@@ -30,7 +30,7 @@
     }, {
                     "name": "UNIVERSO LATINO",
                       "image": "https://www.multivu.com/players/English/7609254-nbc-universo-larrymania-season-5/image/logo-null-HR.png",
-                    "url": "http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199",
+                    "url": "http://168.227.22.18:1935/live/mobile-065/playlist.m3u8",
 "Host":"http://vlmain.hopto.org/"
 
 	           },
@@ -97,7 +97,7 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                     "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208",
+                     "url":"https://www.televisiongratishd.com/azteca-7-en-vivo.html?referer=https://live.telelatinohd.com/hls2.php?id=203_#",
                     "embed":true
 
 
@@ -145,7 +145,7 @@
                 {
                     "name": "TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                   "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/59 ",
+                   "url":"http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8 ",
                        "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36"
 
 
@@ -193,8 +193,8 @@
     }, {
                   "name": "BEIN OPCION 1 ",
                     "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
-                      "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/8",
-                      "UserAgent":" "
+                      "url":"https://jac-tv.com/tvseg/beinsp.php",
+                      "UserAgent":"https://jac-tv.com/tvseg/beinsp.php "
 
           }, {
                     "name": "CINE INFANTIL",
