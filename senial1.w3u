@@ -31,7 +31,7 @@
                     "name": "UNIVERSO LATINO",
                       "image": "https://www.multivu.com/players/English/7609254-nbc-universo-larrymania-season-5/image/logo-null-HR.png",
                     "url": "http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199",
-"UserAgent":""
+"Host":"http://vlmain.hopto.org/"
 
 	           },
                 {
@@ -89,7 +89,7 @@
                "name": "CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
                  "url":"http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/115",
-                      "EMBED":true
+                      "Host":"http://vlmain.hopto.org/"
 
  
 		 	        },
