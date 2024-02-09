@@ -234,9 +234,9 @@
                 {
                     "name": "DE PELICULA MEX",
                     "image": "https://2.bp.blogspot.com/-WGg3-hRDdkI/W6lnfCgJS0I/AAAAAAAAAGk/SlrI5LJnorAfbZr-HVXl_c6waooNrQ98QCPcBGAYYCw/s1600/dpelicula.png",
-                              "url": "https://www.telegratishd.com/live4/dpeliculaplus.php",
-                  "referer":"https://live.sdfgnksbounce.com/"
-                 
+                              "url": "https://www.telegratishd.com/live/dpeliculaplus.php",
+                  "referer":"https://live.sdfgnksbounce.com/",
+                   "UserAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"
 
 
 
