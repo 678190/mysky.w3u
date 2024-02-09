@@ -234,9 +234,9 @@
                 {
                     "name": "DE PELICULA MEX",
                     "image": "https://2.bp.blogspot.com/-WGg3-hRDdkI/W6lnfCgJS0I/AAAAAAAAAGk/SlrI5LJnorAfbZr-HVXl_c6waooNrQ98QCPcBGAYYCw/s1600/dpelicula.png",
-                              "url": "https://www.telegratishd.com/live/dpelicula.php",
-                  "referer":"https://www.telegratishd.com/dpelicula-plus-en-vivo.html",
-                 "embed":true
+                              "url": "https://www.telegratishd.com/dpelicula-plus-en-vivo.html",
+                  "referer":"https://www.telegratishd.com/live/dpelicula.php",
+                 "Host":true
 
 
            },
