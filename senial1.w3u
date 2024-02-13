@@ -100,6 +100,15 @@
                      "url":"https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_900.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us",
                     "referer":"https://www.telextrema.com/azteca-7-en-vivo.html"
 
+   },
+				{
+					"name": "AZTECA UNO",
+					"image": "https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg",
+					"url": "https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us",
+					"":true
+                  
+
+
 
 
     	        },
@@ -172,6 +181,15 @@
 					"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
 					"":true
                   
+    },
+				{
+					"name": "CAZA Y PESCA",
+					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
+					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
+					"":true
+                  
+
+
 
               
 
@@ -230,13 +248,7 @@
 
 
 
-	           },
-                {
-                    "name": "DE PELICULA MEX",
-                    "image": "https://2.bp.blogspot.com/-WGg3-hRDdkI/W6lnfCgJS0I/AAAAAAAAAGk/SlrI5LJnorAfbZr-HVXl_c6waooNrQ98QCPcBGAYYCw/s1600/dpelicula.png",
-                              "url": "http://catv.televall.online/depelicula.php",
-                  "referer":"http://catv.televall.online/depelicula.php",
-                 "Host":true
+	   
 
 
            },
