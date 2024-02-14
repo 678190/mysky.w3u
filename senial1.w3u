@@ -185,7 +185,7 @@
 				{
 					"name": "CAZA Y PESCA",
 					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8",
 					"":true
                   
 
@@ -371,10 +371,10 @@
 
 
    }, {
-                    "name": "ABC NEWS ENGLISH",
-                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png",
-                    "url": "https://tv247.us/watch/abc-us-free-stream/",
-"referer":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+                    "name": "FOX 29 NEWS PHILADELPHIA",
+                      "image": "https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg",
+                    "url": "https://www.fox29.com/live",
+"referer":"https://www.fox29.com/live"
 
 
    }, {
@@ -459,12 +459,6 @@
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
 
-  }, {
-                    "name": "PRUEBA",
-                      "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "https://ww8.soap2dayhd.co/film/all-quiet-on-the-western-front-1630854358/ ",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
 
 
 
