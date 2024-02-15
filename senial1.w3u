@@ -311,7 +311,11 @@
                   "url":"https://www.telegratishd.com/bandamax-en-vivo.html?referer=https://live.telelatinohd.com/streamtv3.php?id=90_",
 "UserAgent":""
 
-
+                }, {
+                    "name": "GRUPERISIMO TV",
+                    "image": "https://tse3.mm.bing.net/th?id=OIP.rjGb3OkfKYHp2acUO2-6yAHaFP&pid=Api&P=0&h=220",
+                  "url":"https://cloudvideo.servers10.com:8081/8008/index.m3u8",
+"UserAgent":""
 
                  
                  }, {
