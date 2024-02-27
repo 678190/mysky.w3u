@@ -456,8 +456,8 @@
    }, {
                     "name": "SPIKE NEW CHANNEL",
                       "image": "https://tgo-tv.co/images/tvthumbs/spike-live-stream.jpg",
-   "url":"https://daddylivehd.sx:443/tele/stream-321.php",
-                      "UserAgent":"https://latele-envivo.com"
+   "url":"https://em.tgo-tv.co/player/frame.php?//sportsurge.today/embed1/spike/1.php",
+                      "referer":"https://em.tgo-tv.co/streams/tv/spike/link1.php"
 
    }, {
                     "name": "NFL ",
