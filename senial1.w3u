@@ -407,7 +407,7 @@
    }, {
                     "name": "CVS NEWS PHILADELPHIA",
                       "image": "https://photocall.cc/img/new/cbs.png",
-                    "url": "https://dai.google.com/linear/hls/pa/event/Xu-ITJ2GTNGaxGn893mmWg/stream/b4bcff6b-5abe-4259-9f5e-3f9f12ade47e:BRU/master.m3u8",
+                    "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
 "embed":true
 
 
@@ -456,8 +456,8 @@
    }, {
                     "name": "SPIKE NEW CHANNEL",
                       "image": "https://tgo-tv.co/images/tvthumbs/spike-live-stream.jpg",
-                    "url": "https://sportsurge.today/embed/live.php?321",
-"referer":"https://em.tgo-tv.co/streams/tv/spike/link1.php"
+                    "url": "https://em.tgo-tv.co/streams/tv/spike/link1.php?referer=https://sportsurge.today/embed/live.php?321",
+"referer":""
 
 
    }, {
