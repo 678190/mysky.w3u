@@ -408,7 +408,7 @@
                     "name": "CVS NEWS PHILADELPHIA",
                       "image": "https://photocall.cc/img/new/cbs.png",
                     "url": "https://dai.google.com/linear/hls/pa/event/Xu-ITJ2GTNGaxGn893mmWg/stream/b4bcff6b-5abe-4259-9f5e-3f9f12ade47e:BRU/master.m3u8",
-"referer":""
+"embed":true
 
 
    }, {
@@ -453,6 +453,12 @@
                     "url": "https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/",
 "referer":"https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/"
 
+   }, {
+                    "name": "SPIKE NEW CHANNEL",
+                      "image": "https://tgo-tv.co/images/tvthumbs/spike-live-stream.jpg",
+                    "url": "https://sportsurge.today/embed/live.php?321",
+"referer":"https://em.tgo-tv.co/streams/tv/spike/link1.php"
+
 
    }, {
                     "name": "NFL ",
@@ -463,7 +469,7 @@
 
    }, {
                     "name": "FOX SPORT 2 ",
-                      "image": "https://wallpapercave.com/wp/2KhIHfZ.jpg",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/ku0U_WJXZ583zkFgufIZuA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/aa10b23c-7c7b-36b9-b729-3cafaa67e02e/t_500x300",
                     "url": "https://thetvapp.to/tv/fox-sports-2-live-stream/",
 "referer":"https://thetvapp.to/tv/fox-sports-2-live-stream/"
 
@@ -516,12 +522,7 @@
 "embed":true
 
 
-  }, {
-                    "name": "CANAL DE PRUEBA",
-                      "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "https://vix.com/es-es/canales/noticias/channel-callsign-Frequency-N-Media-GLOBAL",
-"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
-"referer":"https://vix.com:443/embed-es.html"
+
 
 
 
