@@ -342,12 +342,20 @@
 "UserAgent":""
 
                 }, {
-                    "name": "GRUPERISIMO TV",
-                    "image": "https://tse3.mm.bing.net/th?id=OIP.rjGb3OkfKYHp2acUO2-6yAHaFP&pid=Api&P=0&h=220",
-                  "url":"https://cloudvideo.servers10.com:8081/8008/index.m3u8",
+                    "name": "GYM MUSIC",
+                    "image": "https://hqm.es/wp-content/uploads/gym-hqm-1-300x167.jpg",
+                  "url":"https://spa-ha-p001.cdn.masmediatv.es:443/SVoriginPacket03/smil:176_HD.smil/manifest.mpd",
 "UserAgent":""
 
-                 
+
+                }, {
+                    "name": "ROCK",
+                    "image": "https://hqm.es/wp-content/uploads/rock-hqm-300x180.jpg",
+                  "url":"https://spa-ha-p001.cdn.masmediatv.es:443/SVoriginPacket02/smil:135_HD.smil/manifest.mpd",
+"UserAgent":""
+
+
+
                  }, {
                     "name": "DREAM",
                       "image": "https://2.bp.blogspot.com/-uW2wchsqr_g/VcPP_y98OkI/AAAAAAAAh18/_Unmq4ZW0Uk/s1600/dreamworks-animation-TV_banner.jpg",
