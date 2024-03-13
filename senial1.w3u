@@ -36,7 +36,7 @@
 	           },
                 {
                     "name": "SERIES ENERGY TV",
-                    "image": "https://dominio.beauty/img/new/energy.png",
+                    "image": "https://i.ytimg.com/vi/14kyApaPDAs/maxresdefault.jpg",
                               "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8",
                   "userAgent":" ",
                   "referer":"" 
@@ -161,7 +161,7 @@
        },
                 {
                     "name": "EL GOURMET",
-                    "image": "https://www.telebunker.com/img/gourmet.png",
+                    "image": "https://www.televisiongratishd.com/imge/elgourmet.png",
                   "url":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8",
                       "referer":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8"
 		
@@ -169,7 +169,7 @@
            },
                 {
                     "name": "ID INVESTIGATION ",
-                    "image": "https://x.playerlatino.live//investigationdiscovery.png",
+                    "image": "https://www.televisiongratishd.com/imge/idinvestigation.png",
                      "url":"http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8",
                    "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36"
 
@@ -183,13 +183,18 @@
                   
     },
 				{
-					"name": "CAZA Y PESCA",
+					"name": "CAZADORES",
 					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
 					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8",
 					"":true
                   
 
-
+  },
+				{
+					"name": "PESCA",
+					"image": "https://static.vecteezy.com/system/resources/previews/017/503/783/original/fishing-logo-design-template-illustration-sport-fishing-logo-vector.jpg",
+					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
+					"":true
 
               
 
@@ -298,9 +303,9 @@
 
   },
                 {
-                    "name": "AXION MOVISTAR",
+                    "name": "DRAMA MOVISTAR",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/117242",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/336692",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
@@ -348,11 +353,7 @@
 "UserAgent":""
 
 
-                }, {
-                    "name": "ROCK",
-                    "image": "https://hqm.es/wp-content/uploads/rock-hqm-300x180.jpg",
-                  "url":"https://spa-ha-p001.cdn.masmediatv.es:443/SVoriginPacket03/smil:185_HD.smil/manifest.mpd",
-"UserAgent":""
+
 
 
 
