@@ -306,9 +306,7 @@
                     "name": "DRAMA MOVISTAR",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png",
                       "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/336703",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
-
+                  "embed":true
 
 
 },
