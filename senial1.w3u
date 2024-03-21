@@ -290,7 +290,7 @@
                 {
                     "name": "HBO 2",
                     "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
-                      "url":"http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8",
+                      "url":"http://168.227.22.18:1935/live/mobile-094/playlist.m3u8",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
   },
