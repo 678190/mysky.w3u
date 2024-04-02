@@ -295,18 +295,18 @@
 
   },
                 {
-                    "name": "AXION MOVISTAR",
-                    "image": "https://tse4.mm.bing.net/th?id=OIP.JdEE4GfG42JQEdfbcOo16AHaE8&pid=Api&P=0&h=220",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/225772",
+                    "name": "CINE ECHOS REALES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37920",
                           "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
 
   },
                 {
-                    "name": "DRAMA MOVISTAR",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/336703",
+                    "name": "AXION MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/144548",
                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
@@ -314,13 +314,34 @@
 
 },
                 {
-                    "name": "COMEDIA SPAIN",
-                    "image": "https://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37913",
+                    "name": "TERROR MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/225782",
                       "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
+},
+                {
+                    "name": "SUPER VIVENCIA MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/40282",
+                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
+
+},
+                {
+                    "name": "CRIMEN MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/255777",
+                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+
+
+},
+                {
+                    "name": "BELICO MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/40268",
+                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
 
