@@ -306,8 +306,8 @@
                 {
                     "name": "AXION MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/144548",
-                     "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                      "url":"http://u.m3uts.xyz:80/stream/hls/693.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
 
@@ -316,8 +316,9 @@
                 {
                     "name": "TERROR MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/225782",
-                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                        "url":"http://u.m3uts.xyz:80/stream/hls/704.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 
 
 },
