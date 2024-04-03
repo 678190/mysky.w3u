@@ -222,8 +222,9 @@
           }, {
                     "name": "CINE INFANTIL",
                       "image": "https://tse2.mm.bing.net/th?id=OIP.YRZhjnDXw3FF-_SuQVmmYgHaFj&pid=Api&P=0&h=220",
-                    "url": "http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37919"              
-                
+                         "url":"http://u.m3uts.xyz:80/stream/hls/687.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
  
     }, {
                     "name": "SPACE",
@@ -306,7 +307,7 @@
                 {
                     "name": "AXION MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://u.m3uts.xyz:80/stream/hls/693.m3u8",
+                      "url":"http://u.m3uts.xyz:80/stream/hls/990.m3u8",
                      "userAgent":" Ultimate Player/1.0.6"
 
 
