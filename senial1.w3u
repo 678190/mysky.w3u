@@ -531,11 +531,11 @@
 
 
   }, {
-                    "name": "PRUEBA3",
+                    "name": "PRUEBA2",
                       "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "https://webultra.budtv-ultra.com/web/play-live/?s=31946",
-"user":"Juan",
-"password":"1234"
+                    "url": "http://127.0.0.1:30001/proxy/jS5IYQ3t/live/11356_.m3u8",
+"referer":"https://webultra.budtv-ultra.com/web/play-live/?s=1157"
+
 
 
 
