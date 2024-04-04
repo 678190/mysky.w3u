@@ -320,9 +320,19 @@
 
 
 
+},
+                {
+                    "name": "FICCIN MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                        "url":"http://u.m3uts.xyz:80/stream/hls/914.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
-
-
+},
+                {
+                    "name": "COMEDIA MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                        "url":"http://u.m3uts.xyz:80/stream/hls/712.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
 
@@ -529,13 +539,6 @@
 "embed":true
 
 
-
-  }, {
-                    "name": "PRUEBA3",
-                      "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "http://127.0.0.1:30001/proxy/bQsn0xaE/live/1939_.m3u8",
-"userAgent":"Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36",
-"referer":"https://webultra.budtv-ultra.com/web/play-live/?s=1951"
 
 
 
