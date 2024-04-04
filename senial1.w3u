@@ -107,7 +107,12 @@
 					"url": "https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us",
 					"":true
                   
-
+},
+                {
+                    "name": "N+ NOTICIAS MEX",
+                    "image": "https://www.cronica.com.mx/uploads/2022/03/29/6243a9b53f334.jpeg",
+                        "url":"https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
 
@@ -294,13 +299,6 @@
                       "url":"http://168.227.22.18:1935/live/mobile-094/playlist.m3u8",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
-  },
-                {
-                    "name": "CINE ECHOS REALES",
-                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37920",
-                          "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
 
 
   },
@@ -322,28 +320,8 @@
 
 
 
-},
-                {
-                    "name": "SUPER VIVENCIA MOVIES",
-                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/40282",
-                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
-},
-                {
-                    "name": "CRIMEN MOVIES",
-                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/255777",
-                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
-
-},
-                {
-                    "name": "BELICO MOVIES",
-                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/40268",
-                      "EMBED":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
 
