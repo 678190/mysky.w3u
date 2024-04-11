@@ -107,13 +107,6 @@
 					"url": "https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us",
 					"":true
                   
-},
-                {
-                    "name": "N+ NOTICIAS MEX",
-                    "image": "https://www.cronica.com.mx/uploads/2022/03/29/6243a9b53f334.jpeg",
-                        "url":"https://channel04.akamaized.net:443/hls/live/2029754/event01/index_2.m3u8",
-                     "userAgent":""
-
 
 
     	        },
@@ -257,7 +250,12 @@
                   "userAgent":" ",
                   "referer":"" 
 
-
+	 
+   }, {
+                  "name": "DE PELICULA MEX",
+                    "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
+                         "url":"https://u.m3uts.xyz/stream/hls/1545.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 	   
 
