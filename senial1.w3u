@@ -174,10 +174,18 @@
                  
               },
 				{
-					"name": "EMPEÑOS",
+					"name": "BREAK TV",
 					"image": "https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-					"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8",
 					"":true
+
+     },
+				{
+					"name": "BUEN BIAJE",
+					"image": "https://tse1.mm.bing.net/th?id=OIP.kbuL_AxNH8gwb-8LEG7dKgAAAA&pid=Api&P=0&h=220",
+					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8",
+					"":true
+
                   
     },
 				{
@@ -315,6 +323,14 @@
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
                             "url":"http://u.m3uts.xyz:80/stream/hls/693.m3u8",
                      "userAgent":" Ultimate Player/1.0.6"
+
+
+},
+                {
+                    "name": "TERROR ESPANIA 2024",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                            "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8",
+                     "userAgent":" "
 
 
 
