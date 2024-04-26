@@ -419,11 +419,11 @@
 
 }, {
 
-                  "name": "USA NETWORK",
-                      "image": "",
-                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
+                  "name": "USA TV 2024",
+                      "image": "https://images-na.ssl-images-amazon.com/images/I/41gItnotwnL._AC_SX425_.jpg",
+                    "url": "https://thetvapp.to/tv",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"Host":true
+"embed":true
 
 
                 
