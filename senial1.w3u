@@ -417,15 +417,16 @@
 
 
 
+}, {
+
+                  "name": "USA NETWORK",
+                      "image": "",
+                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"Host":true
+
 
                 
-   }, {
-                    "name": "USA ENGLISH",
-                      "image": "https://www.groundedreason.com/wp-content/uploads/2020/12/USA_Network_Logo.png",
-                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
-                    "embed":true
-               
-
 
 
    }, {
@@ -436,72 +437,16 @@
 
 
 
-   }, {
-                    "name": "SHOW TIME",
-                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png",
-                    "url": "https://thetvapp.to/tv/showtime-e-live-stream/",
-"embed":true
-
-
- }, {
-                    "name": "MTV LIVE",
-                      "image": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/thumbnail.jpg",
-                    "url": "https://thetvapp.to/tv/mtv-live-stream/",
-"embed":"true
-
-
- }, {
-                    "name": "DISCOVERY CHANNEL ON ENGLISH",
-                      "image": "https://photocall.cc/img/png/discoveryplus.png",
-                    "url": "https://thetvapp.to/tv/discovery-live-stream/",
-"embed":true
-
-
- }, {
-                    "name": "HISTORY CHANNEL ENGLISH",
-                      "image": "https://www.latele-envivo.com/imagenes/history.png",
-                    "url": "https://thetvapp.to/tv/history-live-stream/",
-"embed":"true
-
-
-
- }, {
-                    "name": "NATIONAL GEOGRAPHIC ON ENGLISH",
-                      "image": "https://www.latele-envivo.com/imagenes/national-geographic.png",
-                    "url": "https://thetvapp.to/tv/national-geographic-live-stream/",
-"embed":true
-
-
-   }, {
-                    "name": "NBC",
-                      "image": "https://1000marcas.net/wp-content/uploads/2020/03/NBC-Logo-768x432.png",
-                    "url": "https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/",
-"embed":true
-
-
-
-   }, {
-                    "name": "NFL ",
-                      "image": "https://wallpapercave.com/wp/2KhIHfZ.jpg",
-                    "url": "https://thetvapp.to/tv/nfl-network-live-stream/",
-"embed":true
-
-
-   }, {
-                    "name": "FOX SPORT 2 ",
-                      "image": "https://s.yimg.com/fz/api/res/1.2/ku0U_WJXZ583zkFgufIZuA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/aa10b23c-7c7b-36b9-b729-3cafaa67e02e/t_500x300",
-                    "url": "https://thetvapp.to/tv/fox-sports-2-live-stream/",
-"embed":true
 
 
 
 
 
-   }, {
-                    "name": "TBS ENGLISH",
-                      "image": "https://www.latele-envivo.com/imagenes/tbs.png",
-                    "url": "https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/",
-"embed":true
+
+
+
+
+
 
 },
                 {
@@ -516,19 +461,7 @@
 
 
 
-   }, {
-                    "name": "BOOMERANG",
-                      "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                    "url": "https://thetvapp.to/tv/boomerang-live-stream/",
-"embed":true
 
-
-
-   }, {
-                    "name": "Nikelodeon English",
-                      "image": "https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo-768x432.png",
-                    "url": "https://thetvapp.to/tv/nickelodeon-east-live-stream/",
-"embed":true
 
 
 
