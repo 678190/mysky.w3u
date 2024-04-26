@@ -422,7 +422,7 @@
                   "name": "USA NETWORK",
                       "image": "https://images-na.ssl-images-amazon.com/images/I/41gItnotwnL._AC_SX425_.jpg",
                     "url": "https://tv247.us/watch/usa-network-free-stream/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fusa-network-free-stream%2F"
 
 
 
