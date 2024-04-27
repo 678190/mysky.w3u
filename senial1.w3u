@@ -23,8 +23,8 @@
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                    "url": "http://168.227.22.18:1935/live/mobile-040/playlist.m3u8" 
-                    
+                                    "url": "http://novared.pro:8080/MARUXIRAMOS23/hmDLX8AEjrbx/114325",
+"referer":"http://localhost/"
                     
                     
     }, {
@@ -45,13 +45,13 @@
     }, {
                     "name": "USA NETWORK SPANISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/USA-NETWORK-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160&ssl=1",
-                    "url": "http://168.227.22.18:1935/live/mobile-059/playlist.m3u8",
+                    "url": "http://138.59.177.34:8000/play/a053/index.m3u8",
 "UserAgent":""
 
        }, {
                     "name": "SENIAL 2 TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                    "url": "https://thetvapp.to/tv/telemundo-east-live-stream/",
+                    "url": "http://45.190.13.50:8002/play/a00u/45697998.m3u8",
                       "Host":true
 
                       },
@@ -122,23 +122,26 @@
                 {
                     "name": "HISTORY CHANNEL ",
                     "image": "https://www.telelatinohd.com/assets/images/history.jpg",
-                  "url":"http://168.227.22.18:1935/live/mobile-058/playlist.m3u8",
-                      "Host":true
+                         "url":"http://u.m3uts.xyz:80/stream/hls/67.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 
                       },
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-                                 "url": "http://168.227.22.18:1935/live/mobile-091/playlist.m3u8",
-"Host":true
+        "url":"http://u.m3uts.xyz:80/stream/hls/76.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 
 
            },
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "http://x.playerlatino.live//discoverychannel.png",
-                             "url":"http://168.227.22.18:1935/live/mobile-006/playlist.m3u8",
-                      "Host":true
+                           "url":"http://u.m3uts.xyz:80/stream/hls/22.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
       },
 				{
 					"name": "DMAX SPAIN",
@@ -160,9 +163,9 @@
                 {
                     "name": "EL GOURMET",
                     "image": "https://www.televisiongratishd.com/imge/elgourmet.png",
-                  "url":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8",
-                      "referer":"http://168.227.22.18:1935/live/mobile-141/playlist.m3u8"
-		
+                       "url":"http://u.m3uts.xyz:80/stream/hls/157.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 		
            },
                 {
@@ -215,8 +218,9 @@
   }, {
                     "name": "FOX SPOT 2 MEXICO",
                     "image": "https://www.telelatinohd.com/assets/images/foxsports2mexico.jpg",
-                  "url":"http://168.227.22.18:1935/live/mobile-031/playlist.m3u8",
-                      "userAgent":""
+                        "url":"http://u.m3uts.xyz:80/stream/hls/528.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 
 
     }, {
@@ -236,9 +240,9 @@
     }, {
                     "name": "SPACE",
                       "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                    "url": "http://168.227.22.18:1935/live/mobile-003/playlist.m3u8"
+                        "url":"http://u.m3uts.xyz:80/stream/hls/83.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
-                    
             
                     
 
@@ -303,8 +307,8 @@
                 {
                     "name": "HBO 2",
                     "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
-                      "url":"http://168.227.22.18:1935/live/mobile-094/playlist.m3u8",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                          "url":"http://u.m3uts.xyz:80/stream/hls/64.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
 
@@ -372,20 +376,20 @@
 
 
 
-                 }, {
-                    "name": "DREAM",
-                      "image": "https://2.bp.blogspot.com/-uW2wchsqr_g/VcPP_y98OkI/AAAAAAAAh18/_Unmq4ZW0Uk/s1600/dreamworks-animation-TV_banner.jpg",
-                    "url": "http://168.227.22.18:1935/live/mobile-099/playlist.m3u8" 
+               
                     
                          }, {
                     "name": "NICK INFANTIL",
                       "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
-                    "url": "http://168.227.22.18:1935/live/mobile-112/playlist.m3u8" 
+          "url":"http://u.m3uts.xyz:80/stream/hls/78.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
 
                         }, {
                     "name": "INFANTIL",
                       "image": "https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",
-                    "url": "http://168.227.22.18:1935/live/mobile-060/playlist.m3u8" 
+                            "url":"http://u.m3uts.xyz:80/stream/hls/694.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 }, {
 
@@ -421,7 +425,7 @@
 
                   "name": "USA NETWORK",
                       "image": "https://images-na.ssl-images-amazon.com/images/I/41gItnotwnL._AC_SX425_.jpg",
-                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
+                    "url": "http://138.59.177.34:8000/play/a053/index.m3u8",
 "referer":"https://tv247.us/watch/usa-network-free-stream/"
 
 
