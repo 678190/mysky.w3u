@@ -423,14 +423,60 @@
 
 }, {
 
-                  "name": "USA NETWORK",
+                  "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                    "url": "https://thetvapp.to/tv/usa-network-live-stream/",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12689",
 "referer":"http://localhost/"
 
 
 
-                
+     }, {
+
+                  "name": "TLC ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12695",
+"referer":"http://localhost/"           
+
+
+
+  }, {
+
+                  "name": "MTV ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12726",
+"referer":"http://localhost/" 
+
+
+  }, {
+
+                  "name": "HISTORY ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12738",
+"referer":"http://localhost/"
+
+
+ }, {
+
+                  "name": "DISCOVERY ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12767",
+"referer":"http://localhost/"
+
+
+ }, {
+
+                  "name": "CARTOON NETWORK ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12780",
+"referer":"http://localhost/"
+
+
+ }, {
+
+                  "name": "DISNEY XD ENGLISH",
+                      "image": "",
+                    "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/421519",
+"referer":"http://localhost/"
 
 
    }, {
