@@ -51,8 +51,8 @@
        }, {
                     "name": "SENIAL 2 TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                    "url": "https://daddylivehd.sx:443/tele/stream-131.php",
-                      "referer":"https://latele-envivo.com"
+                    "url": "https://latele-envivo.com/Embed/telemundo/",
+                  "referer":"http://localhost/"
 
                       },
                 {
