@@ -274,28 +274,15 @@
 	   
 
 
-           },
-                {
-                    "name": "CINE MUNDO PLUS",
-                    "image": "https://cdn.vaughnsoft.net/profile/1700604151/cinemundo_plus.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
-                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
-                  "referer":"https://vaughn.live/peliculas_mania" 
+         
 
 
-           },
-                {
-                    "name": "CINE TERROR",
-                    "image": "https://cdn.vaughnsoft.net/profile/1226/terror_mania.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
-                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
-                  "referer":"https://vaughn.live/peliculas_mania" 
 
 },
                 {
                     "name": "CINE MUNDO 0",
                     "image": "https://cdn.vaughnsoft.net/profile/1707160424/cinemundo_0.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania" 
 
@@ -330,8 +317,26 @@
                             "url":"http://u.m3uts.xyz:80/stream/hls/693.m3u8",
                      "userAgent":" Ultimate Player/1.0.6"
 
+},
+                {
+                    "name": "AXION MOVIES 2",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                            "url":"http://u.m3uts.xyz:80/stream/hls/990.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+ 
+},
+                {
+                    "name": "3 AXION MOVIES ",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                            "url":"http://u.m3uts.xyz:80/stream/hls/122.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
-
+},
+                {
+                    "name": " 3 TERROR MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                            "url":"http://u.m3uts.xyz:80/stream/hls/709.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
 
@@ -340,6 +345,13 @@
                     "name": "COMEDIA MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
                         "url":"http://u.m3uts.xyz:80/stream/hls/914.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
+
+},
+                {
+                    "name": " 2 TERROR MOVIES",
+                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
+                            "url":"http://u.m3uts.xyz:80/stream/hls/1550.m3u8",
                      "userAgent":" Ultimate Player/1.0.6"
 
 
