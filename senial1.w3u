@@ -23,7 +23,7 @@
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-     "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/25340",
+     "url":"https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8",
                        "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36"
 
                     
@@ -52,7 +52,7 @@
        }, {
                     "name": "SENIAL 2 TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                    "url": "http://tv.nousiptv.com:8080/071058/fabio071/43289",
+                    "url": "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600",
                   "referer":"http://localhost/"
 
                       },
