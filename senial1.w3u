@@ -223,8 +223,8 @@
     }, {
                   "name": "BEIN OPCION 1 ",
                     "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
-                         "url":"https://1.dlhd.sx/tele/stream-372.php",
-                     "referer":"https://latele-envivo.com"
+                         "url":"https://latele-envivo.com?referer=https://1.dlhd.sx/tele/stream-372.php",
+                     "referer":""
 
 
           }, {
