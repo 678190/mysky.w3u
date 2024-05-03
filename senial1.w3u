@@ -98,15 +98,11 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                     "url":"https://tele-libre.com/en-vivo-online/azteca-7/embed2.php",
-                    "referer":"https://tele-libre.com/en-vivo-online/azteca-7"
+                           "url":"http://u.m3uts.xyz:80/stream/hls/5.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
-   },
-				{
-					"name": "AZTECA UNO",
-					"image": "https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg",
-					"url": "https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us",
-					"":true
+
+  
                   
 
 
