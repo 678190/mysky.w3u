@@ -94,8 +94,8 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                        "url":"http://u.m3uts.xyz:80/stream/hls/1550.m3u8",
-                     "userAgent":" Ultimate Player/1.0.6"
+                        "url":"https://tele-libre.com/en-vivo-online/azteca-7/embed2.php?referer=https://tele-libre.com/mpd2.php?id=azteca7",
+                     "userAgent":" "
 
 
   
@@ -296,7 +296,7 @@
                 {
                     "name": "AXION MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.m3u8",
+                      "url":"https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.m3u8",
                      "userAgent":" "
 
 
