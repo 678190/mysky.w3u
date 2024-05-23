@@ -38,7 +38,7 @@
                 {
                     "name": "SERIES ENERGY TV",
                     "image": "https://cabletvhd.xyz/img/energy.png",
-                              "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8",
+                              "url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8",
                   "userAgent":" ",
                   "referer":"" 
 
@@ -94,8 +94,8 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                           "url":"https://vpngratis.win/play/Eh965qkWcPOPQDBbbK0tn3rMHBoaN3XuIRYN4nw-iEKby5j0Lr5ij3wW0vTzusY2/ts",
-                     "userAgent":"swofirexuroklstariwresplqosumabl"
+                        "url":"http://u.m3uts.xyz:80/stream/hls/1550.m3u8",
+                     "userAgent":" Ultimate Player/1.0.6"
 
 
   
@@ -139,7 +139,7 @@
 				{
 					"name": "DMAX SPAIN",
 					"image": "https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiZG1heHNwYWluLWltYWdlLTdlYWRlZmYxLTdhMDAtNGYxZS04MjQwLWNhOTU1MTQ1ZTNiOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MjAwfSwicG5nIjp7InF1YWxpdHkiOjU1LCJwcm9ncmVzc2l2ZSI6dHJ1ZSwicGFsZXR0ZSI6dHJ1ZSwiY29sb3VycyI6OH19fQ==",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8",
 					"":true
 
 
@@ -172,14 +172,14 @@
 				{
 					"name": "BREAK TV",
 					"image": "https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8",
 					"":true
 
      },
 				{
 					"name": "BUEN BIAJE",
 					"image": "https://tse1.mm.bing.net/th?id=OIP.kbuL_AxNH8gwb-8LEG7dKgAAAA&pid=Api&P=0&h=220",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8",
 					"":true
 
                   
@@ -187,7 +187,7 @@
 				{
 					"name": "CAZADORES",
 					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8",
 					"":true
                   
 
@@ -195,7 +195,7 @@
 				{
 					"name": "PESCA",
 					"image": "https://static.vecteezy.com/system/resources/previews/017/503/783/original/fishing-logo-design-template-illustration-sport-fishing-logo-vector.jpg",
-					"url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
+					"url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
 					"":true
 
               
