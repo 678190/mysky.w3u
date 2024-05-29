@@ -38,7 +38,7 @@
                 {
                     "name": "SERIES ENERGY TV",
                     "image": "https://cabletvhd.xyz/img/energy.png",
-                              "url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8",
+                              "url": "http://tv.nousiptv.com:8080/071058/fabio071/1126037",
                   "userAgent":" ",
                   "referer":"" 
 
@@ -168,26 +168,15 @@
                        "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36"
 
                  
-              },
-				{
-					"name": "BREAK TV",
-					"image": "https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-					"url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8",
-					"":true
+         
 
-     },
-				{
-					"name": "BUEN BIAJE",
-					"image": "https://tse1.mm.bing.net/th?id=OIP.kbuL_AxNH8gwb-8LEG7dKgAAAA&pid=Api&P=0&h=220",
-					"url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8",
-					"":true
 
                   
     },
 				{
 					"name": "CAZADORES",
 					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
-					"url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8",
+					"url": "http://tv.nousiptv.com:8080/071058/fabio071/1156033",
 					"":true
                   
 
@@ -195,7 +184,7 @@
 				{
 					"name": "PESCA",
 					"image": "https://static.vecteezy.com/system/resources/previews/017/503/783/original/fishing-logo-design-template-illustration-sport-fishing-logo-vector.jpg",
-					"url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8",
+					"url": "http://tv.nousiptv.com:8080/071058/fabio071/1156023",
 					"":true
 
   },
@@ -296,7 +285,7 @@
                 {
                     "name": "AXION MOVIES",
                     "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                      "url":"https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.m3u8",
+                      "url":"http://935625422609321307.ofgh525.xyz/play/XFJJ2896533/ADD66585442/321307.ts",
                      "userAgent":" "
 
 
@@ -370,11 +359,7 @@
        "url":"http://u.m3uts.xyz:80/stream/hls/8.m3u8",
                      "userAgent":" Ultimate Player/1.0.6"
 
-                }, {
-                    "name": "GYM MUSIC",
-                    "image": "https://hqm.es/wp-content/uploads/gym-hqm-1-300x167.jpg",
-                  "url":"https://spa-ha-p002.cdn.masmediatv.es:443/SVoriginPacket03/smil:176_HD.smil/manifest.mpd",
-"UserAgent":""
+
 
 
 
