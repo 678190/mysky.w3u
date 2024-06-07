@@ -347,7 +347,8 @@
                     "name": "BANDA MAX",
                     "image": "https://selectra.mx/sites/selectra.mx/files/styles/article_hero/public/images/bandamax-825x293.png.webp",
                     "url": "http://u.m3uts.xyz/stream/hls/8.m3u8",             
-               "userAgent":"Ultimate Player/1.0.6"
+               "userAgent":"Ultimate Player/1.0.6",
+             "referer":"https://a.nel.cloudflare.com/report/v4?s=COdmQetThAxKeBZzAHhoXaH8ClZEC1o6Yg9r291sXBdbmnsbpdEfxBDkMsZCg%2Bi1A0qMKTGTD9ihc%2BkSvLi5hpReDiX73OAozksLz%2FipRBoE7rdKdIgFepiDrETTMQ%3D%3D"
 
 
 
