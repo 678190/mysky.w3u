@@ -34,10 +34,10 @@
                
                     
     }, {
-                    "name": "ROSA DE GUADALUPE 24-7",
-                      "image": "https://s.yimg.com/zb/imgv1/a5067129-a742-3149-8b77-15e5e85cc3b6/t_500x300",
-                    "url": "https://linear-344.frequency.stream:443/dist/vix/344/hls/master/playlist.m3u8",
-"embed":true
+                    "name": "UNIVERSO LATINO",
+                      "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
+                    "url": "http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195",
+"Host":true
 
 	           },
                 {
@@ -300,20 +300,20 @@
 
 
 
-
-},
-                {
-                    "name": "TERROR MOVIES",
-                    "image": "https://i.pinimg.com/originals/51/70/7f/51707f5c6c1d2267a06df12a7e8b5eb8.jpg",
-                            "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-                     "userAgent":""
-
 },
                 {
                     "name": "CINE MAX",
                     "image": "https://www.televisiongratishd.com/imge/cinemax.png",
                    "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10275.m3u8",
                      "userAgent":""
+
+},
+                {
+                    "name": "PARAMOUNT PELICULAS",
+                    "image": "https://up.yimg.com/ib/th?id=OADD2.8315092677577_1PQ5KZR9A9340IAB85&pid=21.2&c=16&roil=0&roit=0.0656&roir=1&roib=0.9343&w=188&rs=1&qlt=95",
+                   "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10276.m3u8",
+                     "userAgent":""
+
  
 },
                 {
@@ -353,7 +353,7 @@
  }, {
                     "name": "BANDA MAX",
                     "image": "https://selectra.mx/sites/selectra.mx/files/styles/article_hero/public/images/bandamax-825x293.png.webp",
-                    "url": "https://cdn.streamhispanatv.net:3476/live/bandatvlive.m3u8",             
+                    "url": "http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/164534",             
                 "referer":""
            
             
