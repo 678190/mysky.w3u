@@ -412,7 +412,7 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-         "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12767",
+         "url":"https://thetvapp.to/tv/discovery-live-stream/?referer=https://v4.thetvapp.to/hls/DiscoveryChannelEast_high.m3u8?token=VOWvwAImsybdstALD7vYOg&expires=1720223284",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
@@ -422,7 +422,7 @@
 
                   "name": "NATGEO ENGLISH",
                       "image": "https://latele.xyz/img/new/natgeo.png",
-                "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12724",
+                "url":"https://thetvapp.to/tv/national-geographic-live-stream/?referer=https://v2.thetvapp.to/hls/NationalGeographicEast_high.m3u8?token=lwIXvm6wbC2SSk6AZM8zNw&expires=1720223402",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
