@@ -80,8 +80,8 @@
                                      
                "name": "LAS ESTRELLAS SENIAL MEX",
                     "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
-                 "url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
-
+                                                 "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/217.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
         },
                 {
                                      
@@ -412,28 +412,8 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-         "url":"https://thetvapp.to/tv/discovery-live-stream/?referer=https://v4.thetvapp.to/hls/DiscoveryChannelEast_high.m3u8?token=VOWvwAImsybdstALD7vYOg&expires=1720223284",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
-
-
-
- }, {
-
-                  "name": "NATGEO ENGLISH",
-                      "image": "https://latele.xyz/img/new/natgeo.png",
-                "url":"https://thetvapp.to/tv/national-geographic-live-stream/?referer=https://v2.thetvapp.to/hls/NationalGeographicEast_high.m3u8?token=lwIXvm6wbC2SSk6AZM8zNw&expires=1720223402",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
-
-
-
- }, {
-
-                  "name": "HISTORY ENGLISH",
-                      "image": "https://cabletvhd.xyz/img/History-Channel.png",
-            "url":"https://thetvapp.to/tv/history-live-stream/?referer=https://v4.thetvapp.to/hls/HistoryEast_high.m3u8?token=7zAjPp5Lqd4HDjxv-K8zAg&expires=1720223763",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/88.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -450,8 +430,8 @@
 
                   "name": "BRAVO",
                       "image": "",
-             "url":"https://thetvapp.to/tv/bravo-live-stream/?referer=https://v5.thetvapp.to/hls/BravoEast_high.m3u8?token=a3xppBxB-_HJOminVnFXkQ&expires=1720222804"
-                      
+                                           "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/113.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"       
 
 
 
