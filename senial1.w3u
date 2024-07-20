@@ -23,9 +23,8 @@
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-    "url":"http://dashtvcloud.online:8080/josealbrook/panama121/3217",
-                      "referer":"http://6oclock.xyz:80/get.php?username=Pumpkin1&password=Pumpkin1&type=m3u_plus"
-
+                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/303.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
                
                     
@@ -49,8 +48,8 @@
        }, {
                     "name": "SENIAL 2 TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                    "url": "http://tv.nousiptv.com:8080/071058/fabio071/43289",
-					"":true
+                                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/306.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
                       },
                 {
