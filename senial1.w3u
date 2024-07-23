@@ -34,14 +34,7 @@
                                                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/349.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
-	           },
-                {
-                    "name": "TNT SERIES",
-                    "image": "https://www.poblanerias.com/wp-content/archivos/2015/03/TNT_Serie.jpg",
-                            "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10271.m3u8",
-                     "userAgent":""
-
-
+	      
 
   
 
@@ -57,7 +50,8 @@
                     "image":"https://1.bp.blogspot.com/-nw-YQVmCdrM/XW3Izew1xtI/AAAAAAAAAP4/IeKNiLF8xlMS8i8UpPVxJAmBPmazimTZQCLcBGAs/s1600/unimas.png",
                    "url":"https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=1&dfphmackey=1m1Sh5n3TuyxYDOjgHObWQ&t1=exp=1658082876~salt=p5GC3vc4u5CLfhUl~hash=d91b16a1fde477b6346d0ef328812c66d7f7d5e1~id=43e049cf-57e0-47e8-a0cf-426c98423bd6~acl=/nlds/univisionnow/galavision_east/as/live/*event=1m1Sh5n3TuyxYDOjgHObWQ~exp=1658083056~hmac=04c414b8d24f574042838ead3aeace861fe13dd41e0d3adc95c3e2d2c565d252
 "
-                  
+     
+              
 
    }, {
                     "name": "GALAVICION ",
@@ -81,6 +75,8 @@
                     "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/217.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
         },
                 {
                                      
@@ -256,7 +252,7 @@
                 {
                     "name": "HBO 2",
                     "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
-                                                                                "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/199.ts",
+       "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/199.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -293,11 +289,10 @@
 
 },
                 {
-                    "name": "WARNER BROS",
-                    "image": "https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiZG1heC1pbWFnZS04ZjdiNTI4NC0zYTVhLTQ4YzEtOGU5ZC05MTZiNDM4NmRlNjIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=",
-                               "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10284.m3u8",
-                     "userAgent":""
-
+                    "name": "SONY MOVIES",
+                    "image": "https://la.sonychannel.com/sites/g/files/objgke216/files/Sony_Channel_Mango_Logo_System_Onesheet_RGB_071923-prueba.png",
+                "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/62.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -388,6 +383,22 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
+ }, {
+
+                  "name": "NATGEO ENGLISH",
+                      "image": "https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/244.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+ }, {
+
+                  "name": "GAME SHOW",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/JkpmcxR2zCr27Te.ZYNdDA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7Zm9ybWF0PXdlYnA7aD0zODA7cHhvZmY9NTA7cHlvZmY9MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/6220dad8-a05b-3fb8-ba2b-db46ab841778/t_1024x1024.cf.webp",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/195.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
 
 
  }, {
@@ -401,7 +412,7 @@
  }, {
 
                   "name": "BRAVO",
-                      "image": "",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/1xzslmcR2BJn7eagEmnFbw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTgwO3E9ODA7dz04MA--/https://s.yimg.com/zb/imgv1/6aec28cd-cfe7-37be-8904-63a89ea3e746/t_140x140",
                                            "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/44.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"       
 
@@ -414,7 +425,7 @@
  }, {
 
                   "name": "BOOMERANG",
-                      "image": "",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
                 "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12784",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
@@ -424,7 +435,7 @@
  }, {
 
                   "name": "CARTOON NETWORK ENGLISH",
-                      "image": "",
+                      "image": "https://s.yimg.com/zb/imgv1/95d9fa69-837d-36e3-9957-8b6a4b11748c/t_1024x1024",
              "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12780",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
@@ -459,7 +470,12 @@
 
 
 
+ }, {
 
+                  "name": "WWE",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/372.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
