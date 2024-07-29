@@ -23,7 +23,7 @@
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/303.ts",
+                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/311.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
                
@@ -229,9 +229,10 @@
    }, {
                   "name": "DE PELICULA MEX",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-                         "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10291.m3u8",
-                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36"
+                                                                                       "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/77.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+	     
 
 
 
@@ -243,6 +244,11 @@
                   "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
                   "referer":"https://vaughn.live/peliculas_mania" 
 
+  }, {
+                    "name": "CINE TERROR",
+                      "image": "https://cdn.vaughnsoft.net/profile/1835/terror_mania.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?referer=https://vaughn.live/terror_mania",
+"Host":""
 
 
 
@@ -269,8 +275,10 @@
                 {
                     "name": "CINE MAX",
                     "image": "https://www.televisiongratishd.com/imge/cinemax.png",
-                   "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10275.m3u8",
-                     "userAgent":""
+                                                                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+	
 
 },
                 {
@@ -503,9 +511,7 @@
   }, {
                     "name": "PRUEBA 2",
                       "image": "https://www17.pelisplushd.to/poster/el-cartel-de-los-sapos.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_peliculas_mania.flv?referer=vaughn.live/peliculas_mania
-
-",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_peliculas_mania.flv?referer=vaughn.live/peliculas_mania",
 "Host":""
 
 
