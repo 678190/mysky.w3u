@@ -110,8 +110,8 @@
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-               "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10305.m3u8",
-                     "userAgent":""
+                             "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159373?referer=http://webultra.budtv-ultra.com/web/play-live/?s=79860",
+"userAgent":""
 
 
 
@@ -119,9 +119,8 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "http://x.playerlatino.live//discoverychannel.png",
-                                                                                    "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/85.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-    
+                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/166561?referer=http://webultra.budtv-ultra.com/web/play-live/?s=782715",
+"userAgent":""
 
 
 
@@ -213,17 +212,35 @@
                      "referer":""
 
                     
-
+		           },
+                {
+                    "name": "NETFLIX KIDS",
+                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
+                                                                                                   "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168567?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803420",
+"userAgent":""
            
-                  
 
 		           },
                 {
-                    "name": "NARCO CINE MEXICANO",
-                    "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp",
-                              "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
-                  "userAgent":" ",
-                  "referer":"" 
+                    "name": "NETFLIX AXION",
+                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
+                  "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168565?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803402",
+"userAgent":""
+
+
+		           },
+                {
+                    "name": "NETFLIX AVENTURA",
+                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
+                                                                                                   "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168570?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803438",
+"userAgent":""
+
+		           },
+                {
+                    "name": "NETFLIX TERROR",
+                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
+                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158791?referer=http://webultra.budtv-ultra.com/web/play-live/?s=105589",
+"userAgent":""
 
 	 
    }, {
@@ -232,17 +249,7 @@
                                                                                        "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/77.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
-	     
 
-
-
-},
-                {
-                    "name": "CINE MUNDO 0",
-                    "image": "https://cdn.vaughnsoft.net/profile/1707160424/cinemundo_0.jpg",
-                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
-                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
-                  "referer":"https://vaughn.live/peliculas_mania" 
 
   }, {
                     "name": "CINE TERROR",
@@ -262,12 +269,7 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
-  },
-                {
-                    "name": "UNIVERSAL COMEDIA",
-                    "image": "https://www.televisiongratishd.com/imge/universalchannel.png",
-             "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10288.m3u8",
-                     "userAgent":""
+
 
 
 
@@ -275,32 +277,9 @@
                 {
                     "name": "CINE MAX",
                     "image": "https://www.televisiongratishd.com/imge/cinemax.png",
-                                                                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                                   "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159216?referer=http://webultra.budtv-ultra.com/web/play-live/?s=101561",
+"userAgent":""
 
-	
-
-},
-                {
-                    "name": "PARAMOUNT PELICULAS",
-                    "image": "https://up.yimg.com/ib/th?id=OADD2.8315092677577_1PQ5KZR9A9340IAB85&pid=21.2&c=16&roil=0&roit=0.0656&roir=1&roib=0.9343&w=188&rs=1&qlt=95",
-                   "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10276.m3u8",
-                     "userAgent":""
-
- 
-},
-                {
-                    "name": "UNIVERSAL PELICULAS",
-                    "image": "https://www.televisiongratishd.com/imge/universalchannel.png",
-             "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10270.m3u8",
-                     "userAgent":""
-
-},
-                {
-                    "name": "SONY MOVIES",
-                    "image": "https://la.sonychannel.com/sites/g/files/objgke216/files/Sony_Channel_Mango_Logo_System_Onesheet_RGB_071923-prueba.png",
-                "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/62.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -482,10 +461,8 @@
 
                   "name": "WWE",
                       "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
-                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/372.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
-
+                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158854?referer=http://webultra.budtv-ultra.com/web/play-live/?s=2110441",
+"userAgent":""
 
 
 
