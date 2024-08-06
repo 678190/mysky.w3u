@@ -110,7 +110,7 @@
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-                             "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159373?referer=http://webultra.budtv-ultra.com/web/play-live/?s=79860",
+                             "url": "http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/159372.m3u8?referer=http://webultra.budtv-ultra.com/web/play-live/?s=5809",
 "userAgent":""
 
 
@@ -119,8 +119,9 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "http://x.playerlatino.live//discoverychannel.png",
-                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/166561?referer=http://webultra.budtv-ultra.com/web/play-live/?s=782715",
-"userAgent":""
+                                                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/86.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
 
 
 
@@ -212,35 +213,7 @@
                      "referer":""
 
                     
-		           },
-                {
-                    "name": "NETFLIX KIDS",
-                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
-                                                                                                   "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168567?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803420",
-"userAgent":""
-           
 
-		           },
-                {
-                    "name": "NETFLIX AXION",
-                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
-                  "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168565?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803402",
-"userAgent":""
-
-
-		           },
-                {
-                    "name": "NETFLIX AVENTURA",
-                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
-                                                                                                   "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/168570?referer=http://webultra.budtv-ultra.com/web/play-live/?s=803438",
-"userAgent":""
-
-		           },
-                {
-                    "name": "NETFLIX TERROR",
-                    "image": "https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-120x67.png",
-                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158791?referer=http://webultra.budtv-ultra.com/web/play-live/?s=105589",
-"userAgent":""
 
 	 
    }, {
@@ -304,8 +277,8 @@
  }, {
                     "name": "BANDA MAX",
                     "image": "https://selectra.mx/sites/selectra.mx/files/styles/article_hero/public/images/bandamax-825x293.png.webp",
-                    "url": "http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/164536",             
-                "referer":""
+                    "url": "http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/164534.m3u8?referer=http://webultra.budtv-ultra.com/web/play-live/?s=85251",             
+                "Host":""
            
             
 
