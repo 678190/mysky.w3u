@@ -209,8 +209,8 @@
     }, {
                     "name": "SPACE",
                       "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                        "url":"http://dashtvcloud.online:8080/josealbrook/panama121/227782",
-                     "referer":""
+                                                                "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/286.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
                     
 
@@ -242,7 +242,12 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
-
+},
+                {
+                    "name": "UNIVERSAL CINEMA",
+                    "image": "https://davinci.zappingtv.com/gato/media/450/canales/white/sucbr.png",
+                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/288.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -250,8 +255,8 @@
                 {
                     "name": "CINE MAX",
                     "image": "https://www.televisiongratishd.com/imge/cinemax.png",
-                                                                                   "url": "http://dashtvcloud.online:8080/josealbrook/panama121/226707",
-"userAgent":""
+                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/63.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 },
