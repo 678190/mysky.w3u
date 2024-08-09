@@ -230,6 +230,17 @@
                     "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?referer=https://vaughn.live/terror_mania",
 "Host":""
 
+  }, {
+                    "name": "NETFLIX",
+                      "image": "https://cdn.vaughnsoft.net/profile/1548/a_neflix01.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv?referer=https://vaughn.live/a_neflix01",
+"Host":""
+
+  }, {
+                    "name": "MANGO DELICIOSO",
+                      "image": "https://cdn.vaughnsoft.net/profile/1548/mangondelicioso.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_mangondelicioso.flv?referer=https://vaughn.live/mangondelicioso",
+"Host":""
 
 
 
@@ -259,22 +270,6 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
-},
-                {
-                    "name": "CINE AXION",
-                    "image": "https://tse2.mm.bing.net/th?id=OIP.x0atD0GMLOhXJqI-iLa0WwAAAA&pid=Api&P=0&h=220",
-                                                                                   "url": "http://tv.nousiptv.com:8080/071058/fabio071/1180733",
-"userAgent":""
-
-
-
-
-},
-                {
-                    "name": "CINE TERROR 2",
-                    "image": "https://w7.pngwing.com/pngs/961/734/png-transparent-terror-logo-horror-graphic-design-youtube-logo-horror-love-text-film.png",
-                                                                                   "url": "http://tv.nousiptv.com:8080/071058/fabio071/1156006",
-"userAgent":""
 
 
 
