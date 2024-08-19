@@ -94,8 +94,14 @@
                         "url":"https://www.telextrema.com/azteca-7-en-vivo.html?referer=https://www.telextrema.com/myr21Fs85fvd2/azteca7.php",
                      "userAgent":" "
 
+	 	        },
+                {
+                                     
+               "name": "DISTRITO COMEDIA",
+                    "image": "https://s.yimg.com/fz/api/res/1.2/ujTH3T7p.T346o1yxjWMHw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/9c3ce254-51f1-3103-8fa8-dbd88315a605/t_500x300",
+                                                                                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/111.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
-    	    
 
 
        },
@@ -237,7 +243,7 @@
 "Host":""
 
   }, {
-                    "name": "MANGO DELICIOSO",
+                    "name": "BETO 7 CINEMA",
                       "image": "https://cdn.vaughnsoft.net/profile/1810/beto_7hd.jpg",
                     "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_beto_7hd.flv?referer=https://vaughn.live/beto_7hd",
 "Host":""
