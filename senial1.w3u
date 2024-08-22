@@ -157,12 +157,7 @@
 
 
                   
-    },
-				{
-					"name": "CAZADORES",
-					"image": "https://yt3.ggpht.com/a/AGF-l79shGn8D86rj3xgFTdBryIBWmJ9PzZDLf9DsA=s900-c-k-c0xffffffff-no-rj-mo",
-					"url": "http://tv.nousiptv.com:8080/071058/fabio071/1156033",
-					"":true
+
                   
 
   },
@@ -275,6 +270,13 @@
                                                   "url": "https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10275.ts",
 "referer":""
 
+
+},
+                {
+                    "name": "CINE MUNDO PLUS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1724341693/cinemundo_plus.jpg",
+                                                  "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_plus.flv?referer=https://vaughn.live/cinemundo_plus",
+"referer":""
 
 
 
