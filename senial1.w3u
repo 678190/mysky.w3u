@@ -12,14 +12,19 @@
 {
                                   "name": "UNIVICION SIN COMERCIALES",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-               "url": "https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=1&dfphmackey=1m1Sh5n3TuyxYDOjgHObWQ&t1=exp=1658082876~salt=p5GC3vc4u5CLfhUl~hash=d91b16a1fde477b6346d0ef328812c66d7f7d5e1~id=43e049cf-57e0-47e8-a0cf-426c98423bd6~acl=/nlds/univisionnow/galavision_east/as/live/*event=1m1Sh5n3TuyxYDOjgHObWQ~exp=1658083056~hmac=04c414b8d24f574042838ead3aeace861fe13dd41e0d3adc95c3e2d2c565d252"
+                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/350.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+"
  
     }, {
                     "name": "TUDN CALIDAD HD",
                       "image": "https://www.televisiongratishd.com/img/tudn.png",
-                    "url": "https://unidfp-nlds135.global.ssl.fastly.net:443/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=1&dfphmackey=1m1Sh5n3TuyxYDOjgHObWQ&t1=exp=1658082876~salt=p5GC3vc4u5CLfhUl~hash=d91b16a1fde477b6346d0ef328812c66d7f7d5e1~id=43e049cf-57e0-47e8-a0cf-426c98423bd6~acl=/nlds/univisionnow/galavision_east/as/live/*event=1m1Sh5n3TuyxYDOjgHObWQ~exp=1658083056~hmac=04c414b8d24f574042838ead3aeace861fe13dd41e0d3adc95c3e2d2c565d252
-"
-                    
+                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/155.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
@@ -56,7 +61,11 @@
    }, {
                     "name": "GALAVICION ",
                     "image": "https://www.televisiongratishd.com/img/galavision.png",
-                       "url": "https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=1&dfphmackey=1m1Sh5n3TuyxYDOjgHObWQ&t1=exp=1658082876~salt=p5GC3vc4u5CLfhUl~hash=d91b16a1fde477b6346d0ef328812c66d7f7d5e1~id=43e049cf-57e0-47e8-a0cf-426c98423bd6~acl=/nlds/univisionnow/galavision_east/as/live/*event=1m1Sh5n3TuyxYDOjgHObWQ~exp=1658083056~hmac=04c414b8d24f574042838ead3aeace861fe13dd41e0d3adc95c3e2d2c565d252"
+                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/186.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
 
 
                 }, 
