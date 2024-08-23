@@ -378,6 +378,31 @@
 
  }, {
 
+                  "name": "HISTORRY ENGLISH",
+                      "image": "",
+                                       "url": "https://v2.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+
+
+ }, {
+
+                  "name": "HBO 2 ENGLISH",
+                      "image": "",
+                                       "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+
+ }, {
+
+                  "name": "CINE MAX",
+                      "image": "",
+                                       "url": "https://v3.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+
+
+
+
+ }, {
+
                   "name": "GAME SHOW",
                       "image": "https://s.yimg.com/fz/api/res/1.2/JkpmcxR2zCr27Te.ZYNdDA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7Zm9ybWF0PXdlYnA7aD0zODA7cHhvZmY9NTA7cHlvZmY9MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/6220dad8-a05b-3fb8-ba2b-db46ab841778/t_1024x1024.cf.webp",
                                    "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/195.ts",
@@ -390,8 +415,8 @@
 
                   "name": "MTV ENGLISH",
                       "image": "https://cabletvhd.xyz/img/clubmtv.png",
-             "url":"https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/28270",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                       "url": "https://v6.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
 
  }, {
@@ -425,20 +450,7 @@
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
- }, {
 
-                  "name": "Highway Thru Hell",
-                      "image": "https://tse3.mm.bing.net/th?id=OIP.SeRN4flv5utgcVm6uA7gCQHaFj&pid=Api&P=0&h=220",
-             "url":"https://jmp2.uk:443/SamsungTVPlus/GB500001HY.m3u8",
-                      "UserAgent":"okhttp/4.10.0"
-
-
- }, {
-
-                  "name": "Ice Road Truckers",
-                      "image": "https://i.ebayimg.com/images/g/CL8AAOSwXMJj~Jox/s-l1600.webp",
-             "url":"https://jmp2.uk:443/SamsungTVPlus/USBB520002173.m3u8",
-                      "UserAgent":"okhttp/4.10.0"
 
 
 
@@ -490,12 +502,6 @@
                                "url": "https://v2.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
-
-  }, {
-                    "name": "PRUEBA 33",
-                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
-                               "url": "https://live.sdfgnksbounce.com:8080/NjkuMjQ5LjIwOS4xNzQ=/356_.m3u8?token=orI9oaEDcdOBnwXqUWKe-A&expires=1724385639",
-"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
 
 
