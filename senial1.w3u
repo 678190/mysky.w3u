@@ -466,8 +466,8 @@
 
 },
                 {
-                    "name": "prueba 44",
-                    "image": "https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo.png",
+                    "name": "prueba 1",
+                    "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
                                "url": "https://live.tv247us.com/hls/bravo.m3u8",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
@@ -485,11 +485,17 @@
 
 
   }, {
-                    "name": "PRUEBA 11",
-                      "image": "",
+                    "name": "PRUEBA 2",
+                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
                                "url": "https://v2.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
+
+  }, {
+                    "name": "PRUEBA 33",
+                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
+                               "url": "https://live.sdfgnksbounce.com:8080/NjkuMjQ5LjIwOS4xNzQ=/356_.m3u8?token=orI9oaEDcdOBnwXqUWKe-A&expires=1724385639",
+"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
 
 
