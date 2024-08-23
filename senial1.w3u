@@ -393,7 +393,7 @@
 
                   "name": "HISTORRY ENGLISH",
                       "image": "",
-                                       "url": "https://v2.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+                               "url": " https://live.tv247us.com/hls/history.m3u8 ",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
 
@@ -401,14 +401,14 @@
 
                   "name": "HBO 2 ENGLISH",
                       "image": "",
-                                       "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+                               "url": " https://live.tv247us.com/hls/hbo-2.m3u8 ",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
  }, {
 
                   "name": "CINE MAX",
                       "image": "",
-                                       "url": "https://v3.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+                               "url": " https://live.tv247us.com/hls/cinemax.m3u8 ",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
 
 
@@ -428,8 +428,9 @@
 
                   "name": "MTV ENGLISH",
                       "image": "https://cabletvhd.xyz/img/clubmtv.png",
-                                       "url": "https://v6.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=alBmUFV6bzB1aGZkWnA1NXNYN1lKbEw4d3hER3lDYnl6U25zSDdxNw==",
+                               "url": " https://live.tv247us.com/hls/mtv.m3u8 ",
 "referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+
 
 
  }, {
