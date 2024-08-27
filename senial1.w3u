@@ -401,15 +401,15 @@
 
                   "name": "HBO 2 ENGLISH",
                       "image": "",
-                               "url": " https://live.tv247us.com/hls/hbo-2.m3u8 ",
-"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+                               "url": "https://thetvapp.to/tv/hbo-2-east-live-stream/",
+"embed":true
 
  }, {
 
                   "name": "CINE MAX",
                       "image": "",
-                               "url": " https://live.tv247us.com/hls/cinemax.m3u8 ",
-"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+                               "url": "https://thetvapp.to/tv/cinemax-live-stream/",
+"embed":true
 
 
 
@@ -428,8 +428,8 @@
 
                   "name": "MTV ENGLISH",
                       "image": "https://cabletvhd.xyz/img/clubmtv.png",
-                               "url": " https://live.tv247us.com/hls/mtv.m3u8 ",
-"referer":"https://tv247us.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247us.com%2Fwatch%2Fbravo%2F"
+                               "url": "https://thetvapp.to/tv/mtv-live-stream/",
+"embed":true
 
 
 
