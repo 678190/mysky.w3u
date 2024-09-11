@@ -443,7 +443,12 @@
                                    "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/199.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+}, {
 
+                  "name": "IFC MOVIES",
+                      "image": "",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/214.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
  }, {
@@ -522,7 +527,7 @@
  }, {
 
                   "name": "MLB SPORT ENGLISH",
-                      "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
+                      "image": "",
                                            "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/227.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
@@ -531,8 +536,16 @@
  }, {
 
                   "name": "F51 SPORT",
-                      "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
+                      "image": "",
                                            "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/165.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+ }, {
+
+                  "name": "MUSIC ENGLISH",
+                      "image": "",
+                                           "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/358.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
