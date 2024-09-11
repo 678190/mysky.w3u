@@ -388,28 +388,60 @@
                                    "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/244.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+ }, {
+
+                  "name": "DISC TLC ENGLISH",
+                      "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TLCHD/large_white.png?auto=webp&ver=1&auto=webp&ver=1",
+                                   "url": "https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8",
+"userAgent":""
 
  }, {
 
-                  "name": "HISTORRY ENGLISH",
+                  "name": "DISC ID",
+                      "image": "https://www.investigationdiscovery.com/static/media/logo.3b746a25.svg",
+                                   "url": "https://denver1769.pages.dev/Discovery/id_hd_english.m3u8",
+"userAgent":""
+
+ }, {
+
+                  "name": "HISTORY ENGLISH",
                       "image": "",
-                               "url": "https://thetvapp.to/tv/history-live-stream/",
-"embed":true
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/208.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
 
 
  }, {
 
-                  "name": "HBO 2 ENGLISH",
+                  "name": "HBO ENGLISH",
                       "image": "",
-                               "url": "https://thetvapp.to/tv/hbo-2-east-live-stream/",
-"embed":true
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/198.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
 
  }, {
 
-                  "name": "CINE MAX",
+                  "name": "CINEMAX",
                       "image": "",
-                               "url": "https://thetvapp.to/tv/cinemax-live-stream/",
-"embed":true
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ }, {
+
+                  "name": "IFC MOVIES",
+                      "image": "",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/214.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+}, {
+
+                  "name": "HBO 2",
+                      "image": "",
+                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/199.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -424,12 +456,6 @@
 
 
 
- }, {
-
-                  "name": "MTV ENGLISH",
-                      "image": "https://cabletvhd.xyz/img/clubmtv.png",
-                               "url": "https://thetvapp.to/tv/mtv-live-stream/",
-"embed":true
 
 
 
@@ -493,7 +519,21 @@
                                            "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/372.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"       
 
+ }, {
 
+                  "name": "MLB SPORT ENGLISH",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
+                                           "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/227.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+ }, {
+
+                  "name": "F51 SPORT",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
+                                           "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/165.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
