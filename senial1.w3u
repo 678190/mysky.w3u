@@ -12,8 +12,8 @@
 {
                                   "name": "UNIVICION SIN COMERCIALES",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/350.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                     "url": "http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8",
+"userAgent":""
 
 
 
@@ -57,7 +57,7 @@
                 {
                     "name": "UNIMAS ",
                     "image":"https://1.bp.blogspot.com/-nw-YQVmCdrM/XW3Izew1xtI/AAAAAAAAAP4/IeKNiLF8xlMS8i8UpPVxJAmBPmazimTZQCLcBGAs/s1600/unimas.png",
-             "url":"http://tv.nousiptv.com:8080/071058/fabio071/18772",
+             "url":"http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.m3u8",
                       "Host":""
      
               
@@ -65,7 +65,7 @@
    }, {
                     "name": "GALAVICION ",
                     "image": "https://www.televisiongratishd.com/img/galavision.png",
-                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/186.ts",
+                                                     "url": "http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
