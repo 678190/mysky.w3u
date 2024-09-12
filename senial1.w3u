@@ -180,12 +180,6 @@
 					"url": "http://tv.nousiptv.com:8080/071058/fabio071/1156023",
 					"":true
 
-  },
-				{
-					"name": "TOROS ESPANIA",
-					"image": "https://tse1.mm.bing.net/th?id=OIP.Ys8oB5wYpx-0OIgz6fQ_HgHaEA&pid=Api&P=0&h=220",
-					"url": "https://srv1.mediastreamperu.com:19360/taurustv/taurustv.m3u8",
-					"":true
               
 
 		     },
@@ -195,6 +189,19 @@
                  "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
+	     },
+                {
+                    "name": "ROSA DE GUADALUPE",
+                    "image": "https://s.yimg.com/fz/api/res/1.2/nSMt30YNBta8kIpOnZafYA--~C/YXBwaWQ9c3JjaGRkO2ZpPW9wdGk7aD0xMjA7dz04MA--/https://s.yimg.com/zb/imgv1/a5067129-a742-3149-8b77-15e5e85cc3b6/t_140x140",
+                 "url":"https://dcs3-live.mp.lura.live:443/server/podserve/R7OKQKkTYayzqHo7/rendition.m3u8?track=video-5&ts=1726158725&psi=439368490af627ee9f7e38eceef0b68d&encp=jOtEc_nOppcwzB7vnB3gvw:r0Bhzwsm99IIeIwpDxkKzB35K3NIyji7GppGSHGsk0yjDXy614zJ3fs4Iz4ItaPaOjYZAxdkmDwEQ803ToT0zY-SQzkngml7qa6O-ZuQYTEcwt1DNjGZvoPtqk3ylmrGuN485qoTdalA9E59ZDmJka8N_CDgo7smWs59xbW1mWzeKPGKf1zyQAPWrjK_iZZXmr6kV7socMQZhSh-tu9IbktDWqcl1QmJQV4yxZZXPLy2cgH15Q9hyd167Zyi3tasz07c0v9RXqKAIfIgXe7VC7_2YtyJrrz4osiNMH8nssWMWeEFMf23VHIpzfK-AYLAcXXd_lAyv28NUR-UCS-yt_yq-Gu-iaaVJgBqLmDu7XEm015yOqdP-j0xEyJ3BPwotGzwyItmA9RCPrNG3iZ_MwqYQgxgQyD8sMF_eHECDRhFNMpr-9nWQemCUvwwqwdyrHS9GFfqQ2aFXgU1h-V8c8FpD-heDExTQqDwUjWxFLk92X4vmD99Xsi32OC1ReC_cksNPoS-Fs0QxvFU8KWKxilp8Rb-pMbgVZ5TPyUQ2uaqaGp9eV0FtUZsli_LD1wWPSUg8UZ94Ns-V7R3h3U7MRe96bCnrFZxh_TB5iBq0XB1AQDEaxEBhJX5ar9ii2cusDiN2Y-Nrpuq1i84l1XBpymRakZO5tQaHgNKNDVXM0LUpbQ7RouZ0pFW4Lu1qPKhXcqMSD71gVFvNuzpMACaQnsjZGs3Jbi00wAYuaqCI_l_7Ul_D16Rj5HT5tIPqjXz2HAw4_PBMy-SFs2pyMTKn3r5tRMGKdO8E4M-MNccBfyP1YJJi59fG8cSuNZgODgAyQaVpnfSL9Pfov-A4L9u52ZUpgrbQJ7CXn04VeYJLom7RHEHSNEAozEMXkAumxiU_bZnPZsSgsrGaBOZ1HaiKsJsoAIhlWkEarN1MNshrdSt4NGHeZhLGTtZz7Arw5oTQoef4V2IdZ-HytgF53D5Th6pCHWRPQhdv4rku9KES3vOunHyGpl4ZfREnSjk7nQBnA6h2XJJBr_41yo6DhaWt-gdH5f3rQ_SdhtcLnMb80G6YNWHg_kPKzEsiB0DBf-7crYlhxQaKwKtFd0rkCuLLQO1nxHroT4dTDkeAaLsN7w&pcqx=5c3b7bc4039720f4671f70298f5a0f42&sid=fa4baa0e-d379-4397-b920-9be16c5a4cf1:MRN2",
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+
+  },
+                {
+                    "name": "COOPS ESPANIOL",
+                    "image": "https://images.pluto.tv/channels/5e1f7e089f23700009d66303/thumbnail.jpg",
+                 "url":"https://dcs3-live.mp.lura.live:443/server/podserve/A6gYgJsl13QdF5Jj/rendition.m3u8?track=video-3&ts=1726159038&psi=8c66b9a5333b312decf670a111eb42ea&encp=fWKhjq23jqKeh9Sxtz4PxQ:taGledVKoZDgTwo1Ty0mx94T8Yg61sx1eoYupwxH249vGRONXn0vkTC9LyMNwIewcYMhOOljZp-Nw4fozZvNo3iqB1dChEGmO5ObDro_4qMQxmtzlA2be5w30GQdhh-20aZyx9hW8ScD7B-7bjtNLjH2YYCn-vDCZLsT2KXI7DGa-zd7ror9kP68f6lmxJUwwP0IZq7arDKGy_umqP1hEXvtf3e3SNB-rWkHjSaCn_FmXbdP8cPf4sLJA6iXfMa1ZI6-brqUHzpoTYH6cm_AxGDSnmVUSM5ibVoXecS4QT3h-5TtGdae7iik6UDNaUez7PXiMVPeU4X7vY3EJDVU0cP8enasQL1GY-MoShYTdd4ubjXausJy8l_xB5d1GoJSPK_8rd1JEuj6MhZ4rsZ-V9M6LFMWnopnEiXiSa2nUWblv-rD5uwKskuCGu2Srmt34Q0s7WA66DXiZMf15zoLtqaDvODC2Grqlo2E-P7eoiWcw1BH3EKRTJOY8wEs08WkkRnXySFIXbwZeTq64ZQTK0igpqcBLem5xPFdMv0BMDmwwCrsqPnUaGHKx990DtxzSrGJy1tMYamh44k4e9d-ZG0gEDUtmKkfEZIb5gxdQczsx0dg51gHx8aj3xED6cOU10_xp160nZ5M--xlcTjZ3miqEREouX9p6i2vFOyL6lBirxgwYvCS4MRiEa3-GqtXEliTuMNQFxyt5uPs5ZGeEkfJexTZf0mNlL3B5VptRvEBmr739nmnCMu1Rxxc63aBfDUixDHalRhU0SQfxPluQYQTkRfcTJjdncB8cHMNyg-nPyhVUvvWT_dSyhUHYLkIx4DDaYd-uqBH0_G1dGYmDTfEJe0XGH1uCVqAJlMBldHWubDgJs871_GdrIo5zPaaNnsQ5vWZpTpaNn0D9z-pNFKj2WIyQGkQTk76AUDscsTDbLcJyyqbVaDeCG5VtmaWis5Vrpogen32lNtV1ymYUS3c5Rs7cohswlO3AvQovZJYj9zQoW5ZNJuHNBwuEMOtT6DM8qhvrUWXP2NnVTIGR8FYEfGQ3B6fmvK9SK9J9S5jmMGgRz9zpFGlyaoJ3fiuOWJKPsXK8EYK1j6vgci4hzK8e9QXps1GOaNhAmsl5iQ&pcqx=73cd67c9f2902d8236b01d2791c8d63e&sid=b643d00a-223e-4e23-a9c6-f8726505ab8e:DLS ",
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
    
                    
@@ -228,6 +235,14 @@
 
                     
 
+  },
+                {
+                    "name": "CINE BOOM",
+                    "image": "https://images.vix.com/prd/channel/61b75fe408f1b351a136f666/b5e632243827726e27e854c88e10661c?tr=q-80&w=1440",
+                 "url":"https://dcs3-live.mp.lura.live:443/server/podserve/10xM3MxF6dBX9TKA/rendition.m3u8?track=video-5&ts=1726159306&psi=5bb7b538f1eeb5e5a59772c28a1a751f&encp=1Y_LbxVV5PzRKpHc6iJBSw:v0NJ1aA6lat_kAfRdjiaFeskNu_LtWfKvxyJDcS9PFrWlNs06KbFkw9z9DBm2RLJfSuvP0IGLCouBid3ElMTc686d7whXisH5mlU6wyqhqiIY2oRyhZDQK6p-2iFUlU3yN-q0vu1xCHlkZzv36DtDNRn2qMF26WaHGxnzPRdND5HO2gH_kfQWEocnxUXAOuH5ULHd6ZfjOpAXfYqmIrOqw1UTvGbr1jI6m1Z5DAVGs_WpoMnBay1DUHyrgiwGXRpGwkgp5tRQNitHi7b5zUxbk-7eGr26z4DGTWrDc5AEHEhuZtA0B6gLRUxDj5zTDm86OTgZQVPXodNm5exZDQmFpwxKjMn-w6bFQ5MqTq6XZowE7LinBLKy_kdjrTpFJUcUt23CB5mpDIi6tb8tYF8OnMRlMSdlt6oQR9aveVtYqA-cVWUeLuVCJEyM1fupJv8vy5WzQpgrIRnq1ynyQeKa41TB5TFXPytN2du_3XLQAmJ06ySDcs8fQdtgvw5EwSciFnbUZzu7YqXS27M3tVLaT5u2do7N3PWLxuPih--JvIhstbW0ik_yyxFx-ecwt4Bqep95mc20kqOEqw_LE5oXAN5A3kl_MLFNcJaFiFgJ9hoyh3YG6LfmECZLnNdBVYjn2IjNlRgO60EuHK6Ibm0bdYLNOHxl5IhLn-sF9de8gXCXOg_d9EiJT9ZATH-E-90Rz8x64TtoxUujjyKjRo7x09PW9B6OgBATGeTWsS9OgaevTeW4EZS4TCfOppKNguwWsjV2eoI9lRxeV8XcWPfAcS2r3cxtDTl3rTdabx8Kt7LyOoSfjTwOQpl93SEb0yi4HsRJeyCKVOkrFU7Xk0msdRHfTangJKN7MN2Mw3gedSk8ZHy_wwdPEDTvqfXOUVXStiJSsfiEQtT4GDWkR0nH4imqNjk8qpHtaoW1hvEB5VMx4MbZF5uUMRrpr96ihUOlVKRgiXJll6crfh4GvnO8vyG--1r1ZjEVXz6eKgmO6GmRkDrB-S66QSHJyttroyfC7npVdaouYQpdgmzolnQNWE3oeEx6_HCVYmiYtYXygVVVdvDp5pZNAifJvQA6osx5ETCZsPgIZvwCaz-1IyE8uN4qiXpPgmqAxmjyvPFnZk&pcqx=993f9d5be2f324fe9c79403360262e58&sid=f74f1c19-fdfb-4be5-9261-2613c90a931d:CHS ",
+                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+
+   
 
 	 
    }, {
