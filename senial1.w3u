@@ -260,8 +260,8 @@
                 {
                     "name": "HBO MX",
                     "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
-                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/199.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                     "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121",
+"userAgent":""
 
 
 },
@@ -277,8 +277,8 @@
                 {
                     "name": "CINE MAX 7",
                     "image": "https://www.televisiongratishd.com/imge/cinemax.png",
-                                                  "url": "http://lobo-tv.live/Megatvplus/pZNvewtBmjTfAe/10846.m3u8",
-"EMBED":true
+                                                  "url": "https://www.telegratishd.com/cinemax-en-vivo.html?m=1",
+"isHost":true
 
 
 },
