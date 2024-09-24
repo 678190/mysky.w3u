@@ -272,13 +272,12 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
-
-},
+         },
                 {
-                    "name": "CINE MAX 7",
-                    "image": "https://www.televisiongratishd.com/imge/cinemax.png",
-                                                  "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82",
-"isHost":true
+                    "name": "CINE MAX",
+                    "image": "",
+                                                     "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82",
+"userAgent":""
 
 
 },
