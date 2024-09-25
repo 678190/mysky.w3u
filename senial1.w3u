@@ -33,8 +33,8 @@
                      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/311.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                     "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8",
+"userAgent":""
 
                
                     
@@ -51,8 +51,8 @@
        }, {
                     "name": "SENIAL 2 TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/306.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                  "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82",
+"userAgent":""
 
 
                       },
