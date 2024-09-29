@@ -414,11 +414,24 @@
 
 
   }, {
-                    "name": "BABEWATCH",
-                      "image": "https://cdn.vaughnsoft.net/profile/1727642646/babewatch.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_babewatch.flv?referer=https://vaughn.live/glmovies",
+                    "name": "chillertheatre",
+                      "image": "https://cdn.vaughnsoft.net/profile/1727643064/chillertheatre.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_chillertheatre.flv?referer=https://vaughn.live/glmovies",
 "Host":""
 
+
+  }, {
+                    "name": "60fps",
+                      "image": "https://cdn.vaughnsoft.net/profile/1727643428/60fps.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_60fps.flv?referer=https://vaughn.live/glmovies",
+"Host":""
+
+
+  }, {
+                    "name": "moviezone1",
+                      "image": "https://cdn.vaughnsoft.net/profile/1727643724/moviezone1.jpg",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_moviezone1.flv?referer=https://vaughn.live/glmovies",
+"Host":""
 
 
 
