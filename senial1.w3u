@@ -44,18 +44,18 @@
     }, {
                     "name": "UNIVERSO LATINO",
                       "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
-                                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/349.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                  "url": "http://odenfull.co:2086/play/w4_5CAzgioxhG6RLaeisMxWAE-1Y-WcZ2lX5h5QKbj_NGFnJx46QJKPJ1sx0h1iS",
+"referer":"http://radiosargentina.com.ar/arcltv.html?var1="
 
 	      
 
   
 
        }, {
-                    "name": "SENIAL 2 TELEMUNDO",
+                    "name": "NEWS TELEMUNDO",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/310.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                  "url": "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/b143faad-90bf-4ce9-9e0b-4dec5dfb0210/2.m3u8",
+"userAgent":""
 
 
                       },
@@ -91,8 +91,8 @@
                                      
                "name": "LAS ESTRELLAS SENIAL MEX",
                     "image": "https://www.telelatinohd.com/assets/images/lasestrellas.jpg",
-                                                 "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/217.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+      "url":"https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/lasestrellas.html",
+                      "Host":""
 
 
         },
