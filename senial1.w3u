@@ -405,28 +405,34 @@
 
 
 
+
+
   }, {
-                    "name": "chillertheatre",
-                      "image": "https://cdn.vaughnsoft.net/profile/1727643064/chillertheatre.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_chillertheatre.flv?referer=https://vaughn.live/glmovies",
+                    "name": "HBO ENGLISH",
+                      "image": "https://tvlibre.org/img/hbo.webp",
+                    "url": "https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8",
 "Host":""
 
 
   }, {
-                    "name": "60fps",
-                      "image": "https://cdn.vaughnsoft.net/profile/1727643428/60fps.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_w1r3.flv?referer=https://vaughn.live/glmovies",
+                    "name": "CINEMAX",
+                      "image": "https://tvlibre.org/img/cinemax.webp",
+                    "url": "https://fl2.moveonjoy.com/CINEMAX/tracks-v1a1/mono.m3u8",
 "Host":""
+
 
 
   }, {
-                    "name": "moviezone1",
-                      "image": "https://cdn.vaughnsoft.net/profile/1727643724/moviezone1.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_moviezone1.flv?referer=https://vaughn.live/glmovies",
+                    "name": "MTV 2",
+                      "image": "https://tvlibre.org/img/mtv.webp",
+                    "url": "https://fl2.moveonjoy.com/MTV_2/index.m3u8",
 "Host":""
 
-
-
+  }, {
+                    "name": "MTV 1",
+                      "image": "https://tvlibre.org/img/mtvhts.webp",
+                    "url": "https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
+"Host":""
 
 
  }, {
