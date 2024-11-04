@@ -224,14 +224,10 @@
   }, {
                     "name": "CINE TERROR",
                       "image": "https://cdn.vaughnsoft.net/profile/1835/terror_mania.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?referer=https://vaughn.live/terror_mania",
+                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?href=https://vaughn.live/terror_mania",
 "Host":""
 
-  }, {
-                    "name": "NETFLIX",
-                      "image": "https://cdn.vaughnsoft.net/profile/1548/a_neflix01.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv?referer=https://vaughn.live/a_neflix01",
-"Host":""
+
 
   }, {
                     "name": "BETO 7 CINEMA",
