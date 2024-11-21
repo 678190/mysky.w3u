@@ -399,9 +399,10 @@
 
                   "name": "A&E",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png?fit=240%2C160&ssl=1",
-                                           "url": "https://live.tv247us.com/hls/ae.m3u8",
-"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
-"Host":true
+                                                                  "url": "https://live-streamfootball.com/index.php?m3u8=https://livecdn-iptv001.rumsport.com/livetv2/6515/index.m3u8?autoplay=1",
+"isHost":true
+
+
 
 
 
