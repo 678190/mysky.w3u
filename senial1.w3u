@@ -363,9 +363,9 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                   "url": "https://dplus.gammacdn.workers.dev/videos/95.m3u8",
-"userAgent":""
-
+                                           "url": "https://live.tv247us.com/hls/discovery.m3u8",
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F"
+  
 
  }, {
 
