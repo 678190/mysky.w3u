@@ -361,16 +361,18 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/88.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                   "url": "https://dplus.gammacdn.workers.dev/videos/95.m3u8",
+"userAgent":""
 
 
  }, {
 
                   "name": "NATGEO ENGLISH",
                       "image": "https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
-                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/244.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                  "url": "https://live-streamfootball.com/index.php?m3u8=https://livecdn-iptv001.rumsport.com/livetv2/6519/index.m3u8?autoplay=1",
+"isHost":true
+
+
 
  }, {
 
@@ -456,7 +458,12 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"       
 
 
+ }, {
 
+                  "name": "FOOD NEW CHANNEL",
+                      "image": "",
+                                           "url": "https://dplus.gammacdn.workers.dev/videos/112.m3u8",
+"userAgent":""  
 
 
 
