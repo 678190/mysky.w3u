@@ -352,8 +352,8 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                                           "url": "https://live.tv247us.com/hls/usanw.m3u8",
-"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F"
+                                           "url": "http://tvmate.icu:8080/Alan/Alan1234/10252",
+"referer":""
      
 
 
@@ -363,15 +363,15 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                           "url": "https://live.tv247us.com/hls/discovery.m3u8",
-"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F"
+                                           "url": "http://tvmate.icu:8080/Alan/Alan1234/9811",
+"referer":""
   
 
  }, {
 
                   "name": "NATGEO ENGLISH",
                       "image": "https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
-                                                                  "url": "https://live-streamfootball.com/index.php?m3u8=https://livecdn-iptv001.rumsport.com/livetv2/6519/index.m3u8?autoplay=1",
+                                                                  "url": "http://tvmate.icu:8080/Alan/Alan1234/9277",
 "isHost":true
 
 
@@ -510,7 +510,7 @@
 
                   "name": "UFC FIGHT",
                       "image": "https://aquelanoticia.info/wp-content/uploads/2020/06/1_LaX1pJtyd-jvZPoIbYkDAw-750x430.jpeg",
-                                                                  "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/631",
+                                                                  "url": "http://tvmate.icu:8080/Alan/Alan1234/146293",
 "isHost":""
 
 
