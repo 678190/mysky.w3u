@@ -168,9 +168,9 @@
                 {
                     "name": "ID INVESTIGATION ",
                     "image": "https://us1-prod-images.disco-api.com/2020/7/13/64bf8ced-f65e-4972-b026-88792776ca92.png?bf=0&f=png&p=true&q=85&w=250",
-                                                     "url": "https://nebunexa.co/red/?get=https://www.clarogratis.com/envivo/idinvestigation.php",
-"referer":"https://www.clarogratis.com/id-investigation-en-vivo-por-internet.html"
-         
+                                                                                     "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+        
 
               
 
@@ -204,11 +204,18 @@
     }, {
                     "name": "SPACE",
                       "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                                                                "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/79",
+                                                                "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/space.html",
 "userAgent":""
 
                     
 
+    }, {
+                    "name": "Movistar axion Spanish",
+                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
+                                                                "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/movistaraccion.html",
+"userAgent":""
+
+                    
 
    
 
@@ -221,53 +228,10 @@
 
 
 
-  }, {
-                    "name": "CINE TERROR",
-                      "image": "https://cdn.vaughnsoft.net/profile/1835/terror_mania.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?href=https://vaughn.live/terror_mania",
-"Host":""
-
-
-
-  }, {
-                    "name": "BETO 7 CINEMA",
-                      "image": "https://cdn.vaughnsoft.net/profile/1810/beto_7hd.jpg",
-                    "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_beto_7hd.flv?referer=https://vaughn.live/beto_7hd",
-"Host":""
 
 
 
 
-         },
-                {
-                    "name": "HBO MX",
-                    "image": "https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png",
-                                                     "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121",
-"userAgent":""
-
-
-},
-                {
-                    "name": "UNIVERSAL CINEMA",
-                    "image": "https://davinci.zappingtv.com/gato/media/450/canales/white/sucbr.png",
-                                                  "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/288.ts",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
-
-         },
-                {
-                    "name": "CINE MAX",
-                    "image": "https://tvlibre.org/img/cinemax.webp",
-                                                     "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82",
-"userAgent":""
-
-
-},
-                {
-                    "name": "CINE MUNDO PLUS",
-                    "image": "https://cdn.vaughnsoft.net/profile/1724341693/cinemundo_plus.jpg",
-                                                  "url": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_plus.flv?referer=https://vaughn.live/cinemundo_plus",
-"referer":""
 
 
 
@@ -293,7 +257,7 @@
  }, {
                     "name": "BANDA MAX",
                     "image": "https://tse2.mm.bing.net/th?id=OIP.1G2duTUirfpipQQ-xEO-8gHaHa&pid=Api&P=0&h=220",
-                    "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1634",             
+                    "url": "http://belami.top/DATAS/arm/plays.php?ch=11034&f=.m3u8",             
                 "Host":""
            
             
