@@ -211,13 +211,30 @@
 
     }, {
                     "name": "Movistar axion Spanish",
-                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
+                      "image": "https://www.cablevisionhd.com/imge/movistaraccion.png",
                                                                 "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/movistaraccion.html",
 "userAgent":""
 
                     
+    }, {
+                    "name": "CINE CANAL",
+                      "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
+                                                                "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/cinecanal.html",
+"userAgent":""
 
-   
+    }, {
+                    "name": "TNT",
+                      "image": "https://www.cablevisionhd.com/imge/tnt.png",
+                                                                "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/tnt.html",
+"userAgent":""
+     
+      }, {
+                    "name": "AMC",
+                      "image": "https://www.cablevisionhd.com/imge/amc.png",
+                                                                "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/amc.html",
+"userAgent":""
+     
+    
 
 	 
    }, {
@@ -249,7 +266,7 @@
    }, {
                     "name": "VIDEO ROLAS",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png",
-                    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",             
+                    "url": "https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8",             
                "referer":" "
 
 
@@ -300,13 +317,7 @@
 "userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
 "embed":true
 
-}, {
 
-                  "name": "Username= Juan & password= 1234",
-                      "image": "http://webultra.budtv-ultra.com/web/images/Budtvultra.png",
-                    "url": "http://webultra.budtv-ultra.com/web/play-live/?s=48143",
-"userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
-"embed":true
 
 }, {
 
