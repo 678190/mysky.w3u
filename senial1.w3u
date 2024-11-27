@@ -343,7 +343,7 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/15905.ts",
+                                           "url":"http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/251.ts",
 "userAgent":" VLC/3.0.0-git LibVLC/3.0.0-git"
      
 
@@ -354,14 +354,14 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                           "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/184",
+                                           "url":"http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/184",
 "userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
   
 
  }, {
 
                   "name": "NATGEO ENGLISH",
-                      "image": "https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
+                      "image":"https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
                                                                   "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/153"
 
 
@@ -371,21 +371,21 @@
 
                   "name": "DISC TLC ENGLISH",
                       "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TLCHD/large_white.png?auto=webp&ver=1&auto=webp&ver=1",
-                                   "url": "https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8",
+                                   "url":"https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8",
 "userAgent":""
 
  }, {
 
                   "name": "DISC ID",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                                   "url": "https://denver1769.pages.dev/Discovery/id_hd_english.m3u8",
+                                   "url":"https://denver1769.pages.dev/Discovery/id_hd_english.m3u8",
 "userAgent":""
 
  }, {
 
                   "name": "HISTORY ENGLISH",
                       "image": "https://tse3.mm.bing.net/th?id=OIP.2fkptbGHORA5HbBbqqpixgHaGG&pid=Api&P=0&h=220",
-                                           "url": "https://live.tv247us.com/hls/history.m3u8",
+                                           "url":"https://live.tv247us.com/hls/history.m3u8",
 "referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
 "Host":true
 
@@ -394,7 +394,7 @@
 
                   "name": "A&E",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png?fit=240%2C160&ssl=1",
-                                                                  "url": "https://live-streamfootball.com/index.php?m3u8=https://livecdn-iptv001.rumsport.com/livetv2/1503/index.m3u8?autoplay=1",
+                                                                  "url":"https://live-streamfootball.com/index.php?m3u8=https://livecdn-iptv001.rumsport.com/livetv2/1503/index.m3u8?autoplay=1",
 "isHost":true
 
 
@@ -405,14 +405,14 @@
   }, {
                     "name": "HBO ENGLISH",
                       "image": "https://tvlibre.org/img/hbo.webp",
-                    "url": "https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8",
+                    "url":"https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8",
 "Host":""
 
 
   }, {
                     "name": "CINEMAX",
                       "image": "https://tvlibre.org/img/cinemax.webp",
-                    "url": "https://fl2.moveonjoy.com/CINEMAX/tracks-v1a1/mono.m3u8",
+                    "url":"https://fl2.moveonjoy.com/CINEMAX/tracks-v1a1/mono.m3u8",
 "Host":""
 
 
@@ -420,13 +420,13 @@
   }, {
                     "name": "MTV 2",
                       "image": "https://tvlibre.org/img/mtv.webp",
-                    "url": "https://fl2.moveonjoy.com/MTV_2/index.m3u8",
+                    "url":"https://fl2.moveonjoy.com/MTV_2/index.m3u8",
 "Host":""
 
   }, {
                     "name": "MTV 1",
                       "image": "https://tvlibre.org/img/mtvhts.webp",
-                    "url": "https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
+                    "url":"https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
 "Host":""
 
 
@@ -434,7 +434,7 @@
 
                   "name": "GAME SHOW",
                       "image": "https://s.yimg.com/fz/api/res/1.2/JkpmcxR2zCr27Te.ZYNdDA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7Zm9ybWF0PXdlYnA7aD0zODA7cHhvZmY9NTA7cHlvZmY9MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/6220dad8-a05b-3fb8-ba2b-db46ab841778/t_1024x1024.cf.webp",
-                                   "url": "http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/195.ts",
+                                   "url":"http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/195.ts",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -447,7 +447,7 @@
 
                   "name": "BRAVO",
                       "image": "https://s.yimg.com/fz/api/res/1.2/1xzslmcR2BJn7eagEmnFbw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTgwO3E9ODA7dz04MA--/https://s.yimg.com/zb/imgv1/6aec28cd-cfe7-37be-8904-63a89ea3e746/t_140x140",
-                                           "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/200",
+                                           "url":"http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/200",
 "userAgent":""       
 
 
@@ -455,7 +455,7 @@
 
                   "name": "FOOD NEW CHANNEL",
                       "image": "",
-                                           "url": "https://dplus.gammacdn.workers.dev/videos/112.m3u8",
+                                           "url":"https://dplus.gammacdn.workers.dev/videos/112.m3u8",
 "userAgent":""  
 
 
