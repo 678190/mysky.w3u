@@ -343,8 +343,8 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                                           "url": "https://6oclock.xyz:8443/Pumpkin1/Pumpkin1/12689",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1l"
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/15905.ts",
+"userAgent":" VLC/3.0.0-git LibVLC/3.0.0-git"
      
 
 
@@ -355,7 +355,7 @@
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
                                            "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/184",
-"referer":""
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
   
 
  }, {
