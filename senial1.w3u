@@ -343,8 +343,8 @@
 
                   "name": "USA NETWORK ENGLISH 1",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                                           "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/251?mp2t",
-"referer":""
+                                           "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/251",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
@@ -354,7 +354,7 @@
 
                   "name": "DISCOVERY CHANNEL ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                           "url":"http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/184",
+                                           "url":"http://cdn1host.online:2999/live/happy2024/newyear/184.m3u8",
 "userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
   
 
@@ -362,10 +362,9 @@
 
                   "name": "NATGEO ENGLISH",
                       "image":"https://allvectorlogo.com/img/2016/07/national-geographic-channel-logo.png",
-                                                                  "url": "http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/153"
-
-
-
+                                                          "url":"http://cdn1host.online:2999/live/happy2024/newyear/141.m3u8",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
+  
 
  }, {
 
