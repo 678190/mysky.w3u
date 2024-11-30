@@ -344,7 +344,8 @@
                   "name": "USA NETWORK ENGLISH 1",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
                                            "url":"http://cdn1host.online:2999/live/happy2024/newyear/251.m3u8",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git",
+"embed":true
  
 
 
