@@ -312,7 +312,7 @@
 
                   "name": "NETFLIX MIRROR",
                       "image": "https://iosmirror.cc//img/nf2/icon_x192.png",
-                    "url": "https://iosmirror.cc/home",
+                    "url": "https://iosmirror.cc/series",
 "userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
 "embed":true
 
@@ -537,8 +537,8 @@
   }, {
                     "name": "PRUEBA 2",
                       "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
-                                           "url": "https://cdnst30.tokyvideo.com/videos/341/341001/mp4/57e3b9acacb71ba09697c423ed65524f4d4e06ad9a53abef3ad5a6541f00380b.mp4?secure=hRMWiVBbvHUIHTRUXzkByQ%3D%3D%2C1733024057",
-"referer":"",
+                                           "url": "https://web.prd.vix.tv/es-es/canales",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
 "embed":true
 
 
