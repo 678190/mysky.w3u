@@ -381,10 +381,10 @@
 
  }, {
 
-                  "name": "A&E",
+                  "name": "A&E1",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png?fit=240%2C160&ssl=1",
                                                                   "url":"http://kstv.us:8080/live/haw5UJfF68/1729172230/15966.ts",
-"isHost":true
+"referer":"http://kstv.us:8080/live/haw5UJfF68/1729172230/15966.ts"
 
 
 
