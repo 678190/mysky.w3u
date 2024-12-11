@@ -219,13 +219,6 @@
                                                                 "url": "http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/207780",
 "userAgent":""
 
-                    
-
-    }, {
-                    "name": "CINE TERROR",
-                      "image": "https://cdn.vaughnsoft.net/profile/1733862014/terror_mania.jpg",
-                                                                "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv",
-"userAgent":"https://vaughn.live/terror_mania"
 
                     
     }, {
@@ -248,6 +241,26 @@
 "userAgent":""
 
 
+      }, {
+                    "name": "XTRM CINE AXION",
+                      "image": "https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4d41ccc523c7caa05cb4787445e67bea_XTRM-NUEVO-DESKTOP.jpg",
+              "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59535",
+"referer":"http://streamsy.online:2999"
+
+      }, {
+                    "name": "DHD CINEMA",
+                      "image": "https://www.cablevisionhd.com/imge/dhe.png",
+              "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/225716",
+"referer":"http://streamsy.online:2999"
+
+        
+      }, {
+                    "name": "MOVISTAR AXION",
+                      "image": "https://www.cablevisionhd.com/imge/movistaraccion.png",
+              "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59533",
+"referer":"http://streamsy.online:2999"
+
+        
 
 
 
