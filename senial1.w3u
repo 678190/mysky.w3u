@@ -229,7 +229,7 @@
 
    }, {
                     "name": "PARAMOUNT",
-                      "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/paramount.svg",
+                      "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/PARHD/large_white.png",
                                                                 "url": "http://cdn1host.online:2999/live/happy2024/newyear/1166.m3u8",
 "userAgent":""
 
@@ -247,6 +247,10 @@
               "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59535",
 "referer":"http://streamsy.online:2999"
 
+   
+
+
+
       }, {
                     "name": "DHD CINEMA",
                       "image": "https://www.cablevisionhd.com/imge/dhe.png",
@@ -254,11 +258,7 @@
 "referer":"http://streamsy.online:2999"
 
         
-      }, {
-                    "name": "MOVISTAR AXION",
-                      "image": "https://www.cablevisionhd.com/imge/movistaraccion.png",
-              "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59533",
-"referer":"http://streamsy.online:2999"
+   
 
         
 
@@ -423,12 +423,11 @@
                     "url":"https://fl2.moveonjoy.com/CINEMAX/tracks-v1a1/mono.m3u8",
 "Host":""
 
-  }, {
-                    "name": "SKY CINEMA HORROR",
-                      "image": "https://tv.assets.pressassociation.io/0dba2766-41cc-58cc-9709-eb65ee082f43.png",
-                    "url":"http://tvmate.icu:8080/Alan/Alan1234/35248",
-"Host":""
-
+      }, {
+                    "name": "TERROR MOVIES ENGLISH",
+                      "image": "https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4d41ccc523c7caa05cb4787445e67bea_XTRM-NUEVO-DESKTOP.jpg",
+              "url": "https://cdn.vaughnsoft.net/profile/1733947331/terror_mania.jpg",
+"referer":"http://streamsy.online:2999"
 
 
 
