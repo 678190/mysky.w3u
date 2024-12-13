@@ -258,7 +258,13 @@
 "referer":"http://streamsy.online:2999"
 
         
-   
+         }, {
+                    "name": "CINEMA DINAMITA",
+                      "image": "",
+              "url": "http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/2095398.m3u8",
+"referer":"http://streamsy.online:2999"
+
+     
 
         
 
@@ -379,14 +385,14 @@
 
                   "name": "DISC TLC ENGLISH",
                       "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TLCHD/large_white.png?auto=webp&ver=1&auto=webp&ver=1",
-                                   "url":"https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8",
+                                   "url":"https://streamer1.nexgen.bz/TLC/index.m3u8",
 "userAgent":""
 
  }, {
 
                   "name": "DISC ID",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                                   "url":"https://denver1769.pages.dev/Discovery/id_hd_english.m3u8",
+                                   "url":"http://cdn1host.online:2999/live/happy2024/newyear/150.m3u8",
 "userAgent":""
 
  }, {
