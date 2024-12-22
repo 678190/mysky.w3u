@@ -160,7 +160,7 @@
            },
                 {
                     "name": "DISCOVERY CHANNEL ",
-                    "image": "",
+                    "image": "https://i1.wp.com/redditsport.cc/imgs/discovery.jpg",
                    "url":"http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092592",
                     "referer":"http://streamsy.online:2999"
 
@@ -389,16 +389,23 @@
 
                   "name": "DISC ID",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                                   "url":"http://cdn1host.online:2999/live/happy2024/newyear/150.m3u8",
+                                   "url":"https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8",
 "userAgent":""
 
  }, {
 
                   "name": "HISTORY ENGLISH",
                       "image": "https://tse3.mm.bing.net/th?id=OIP.2fkptbGHORA5HbBbqqpixgHaGG&pid=Api&P=0&h=220",
-                                           "url":"http://cdn1host.online:2999/live/happy2024/newyear/153.m3u8",
+                                           "url":"https://streamer1.nexgen.bz/HISTORY/index.m3u8",
 "referer":"",
 "Host":true
+
+ }, {
+
+                  "name": "NATGEO ENGLISH",
+                      "image": "https://i1.wp.com/redditsport.cc/imgs/National-Geographic.png",
+                                                                  "url":"http://kstv.us:8080/live/haw5UJfF68/1729172230/22503.ts",
+"referer":"http://kstv.us:8080/live/haw5UJfF68/1729172230/22503.ts"
 
 
  }, {
@@ -426,12 +433,6 @@
                     "url":"https://fl2.moveonjoy.com/CINEMAX/tracks-v1a1/mono.m3u8",
 "Host":""
 
-      }, {
-                    "name": "TERROR MOVIES ENGLISH",
-                      "image": "https://cdn.vaughnsoft.net/profile/1733947331/terror_mania.jpg",
-              "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/453503",
-"referer":"http://streamsy.online:2999"
-
 
 
 
@@ -447,7 +448,7 @@
 
                   "name": "BRAVO",
                       "image": "https://s.yimg.com/fz/api/res/1.2/1xzslmcR2BJn7eagEmnFbw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTgwO3E9ODA7dz04MA--/https://s.yimg.com/zb/imgv1/6aec28cd-cfe7-37be-8904-63a89ea3e746/t_140x140",
-                                           "url":"http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/200",
+                                           "url":"https://fl2.moveonjoy.com/BRAVO/tra\cks-v1a1/mono.m3u8",
 "userAgent":""       
 
 
