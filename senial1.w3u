@@ -400,6 +400,18 @@
 
 
 
+  }, {
+                    "name": "PARAMOUNT ENGLISH",
+                      "image": "",
+                    "url":"http://170.254.18.106/PARAMOUNT/index.m3u8",
+"Host":""
+
+  }, {
+                    "name": "FX ENGLISH",
+                      "image": "",
+                    "url":"https://streamer1.nexgen.bz/FX/index.m3u8",
+"Host":""
+
 
 
 
@@ -474,20 +486,16 @@
 
 
 
- }, {
-
-                  "name": "UFC FIGHT",
-                      "image": "https://aquelanoticia.info/wp-content/uploads/2020/06/1_LaX1pJtyd-jvZPoIbYkDAw-750x430.jpeg",
-                                                                  "url": "http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/51293",
-"isHost":""
+ 
 
 
  }, {
 
                   "name": "NFL",
                       "image": "https://img.balo.live/static/common/img/tv-channel/iptv/light/2369.png",
-                                                                  "url": "https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8",
-"isHost":""
+               "url": "https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8",
+               "isHost":""
+
  }, {
 
                   "name": "CBS SPOR",
@@ -504,11 +512,17 @@
 
                   "name": "WWE",
                       "image": "https://s.yimg.com/fz/api/res/1.2/gFEIKpyyNQWamwkfQYx_sA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/231acce3-3ba1-3306-a1b5-8eef554a0685/t_500x300",
-                                           "url": "https://offerstore.xyz/DRM/live1.php?id=WWE",
-"embed":true       
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/47642.ts",
+"Host":true       
 
     
 
+ }, {
+
+                  "name": "UFC",
+                      "image": "https://www.ufcstore.com/content/assets/__0-1673638822285.285.svg",
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/47643.ts",
+"embed":true       
 
 
 
