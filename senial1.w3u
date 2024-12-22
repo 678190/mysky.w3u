@@ -353,58 +353,7 @@
                     "url": "https://tubitv.com/home",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
-
-
-
-}, {
-
-                  "name": "USA NETWORK ENGLISH 0",
-                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                   "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
-
- 
-
-
-
-
- }, {
-
-                  "name": "DISCOVERY CHANNEL ENGLISH",
-                      "image": "https://latele.xyz/img/png/discoveryplus.png",
-                    "url":"https://streamer1.nexgen.bz/DISCOVERY/index.m3u8",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
-
-
   
-
- }, {
-
-                  "name": "DISC TLC ENGLISH",
-                      "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TLCHD/large_white.png?auto=webp&ver=1&auto=webp&ver=1",
-                                   "url":"https://streamer1.nexgen.bz/TLC/index.m3u8",
-"userAgent":""
-
- }, {
-
-                  "name": "DISC ID",
-                      "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                                   "url":"https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8",
-"userAgent":""
-
- }, {
-
-                  "name": "HISTORY ENGLISH",
-                      "image": "https://tse3.mm.bing.net/th?id=OIP.2fkptbGHORA5HbBbqqpixgHaGG&pid=Api&P=0&h=220",
-                       "url":"https://streamer1.nexgen.bz/HISTORY/index.m3u8"
-
-
- }, {
-
-                  "name": "NATGEO ENGLISH",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/National-Geographic.png",
-                         "url":"http://kstv.us:8080/live/haw5UJfF68/1729172230/22503.ts",
-"referer":"http://kstv.us:8080/live/haw5UJfF68/1729172230/22503.ts"
 
 
  }, {
@@ -442,13 +391,6 @@
 "Host":""
 
 
-
- }, {
-
-                  "name": "BRAVO",
-                      "image": "https://s.yimg.com/fz/api/res/1.2/1xzslmcR2BJn7eagEmnFbw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTgwO3E9ODA7dz04MA--/https://s.yimg.com/zb/imgv1/6aec28cd-cfe7-37be-8904-63a89ea3e746/t_140x140",
-                                           "url":"https://fl2.moveonjoy.com/BRAVO/tra\cks-v1a1/mono.m3u8",
-"userAgent":""       
 
 
  }, {
