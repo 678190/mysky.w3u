@@ -161,8 +161,9 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "https://i1.wp.com/redditsport.cc/imgs/discovery.jpg",
-                   "url":"http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092592",
-                    "referer":"http://streamsy.online:2999"
+                                                      "url": "https://live.tv247us.com/hls/discovery.m3u8",
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
+"Host":true
 
 
 
@@ -453,8 +454,9 @@
 
                   "name": "FOOD NEW CHANNEL",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/foot-network-free-live-stream.png",
-                                           "url":"https://dplus.gammacdn.workers.dev/videos/112.m3u8",
-"userAgent":""  
+                                                      "url": "https://live.tv247us.com/hls/footnw.m3u8",
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
+"Host":true
 
 
 
