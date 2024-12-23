@@ -375,8 +375,11 @@
 
                   "name": "DISCOVERY ENGLISH",
                       "image": "https://latele.xyz/img/png/discoveryplus.png",
-                                                                  "url":"https://streamer1.nexgen.bz/DISCOVERY/index.m3u8",
-"referer":""
+                                                      "url": "https://live.tv247us.com/hls/discovery.m3u8",
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
+"Host":true
+
+
 
 
  }, {
