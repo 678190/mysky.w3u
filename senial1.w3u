@@ -24,14 +24,14 @@
                                                      "url": "http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8",
 "referer":""
 
-
+https://offerstore.xyz/AGV/stream.m3u8?id=313
 
 
     }, {
-                    "name": "TUDN SENIAAL 2",
+                    "name": "TUDN SENIAAL #2",
                       "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
-                                           "url": "https://offerstore.xyz/AGV/play.php?play=66",
-"Host":true     
+                                           "url": "https://offerstore.xyz/AGV/stream.m3u8?id=66",
+"referer":"https://offerstore.xyz/AGV/play.php?play=66"    
 
                      }, {
                     "name": "TELEMUNDO USA",
@@ -370,6 +370,28 @@
                                                                   "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
 "referer":""
 
+ }, {
+
+                  "name": "DISCOVERY ENGLISH ",
+                      "image": "",
+              "url":"https://offerstore.xyz/AGV/play.php?play=313",
+"Host":""
+
+ }, {
+
+                  "name": "NATIONAL GEOGRAPHIC ",
+                      "image": "",
+              "url":"https://offerstore.xyz/AGV/play.php?play=328",
+"Host":""
+
+
+ }, {
+
+                  "name": "A&E",
+                      "image": "",
+              "url":"https://offerstore.xyz/AGV/play.php?play=302",
+"Host":""
+
 
 
 
@@ -448,7 +470,7 @@
 
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                "url":"http://cdn1host.online:2999/live/happy2024/newyear/130.m3u8",
+                "url":"https://offerstore.xyz/AGV/play.php?play=648",
                       "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
 
 
