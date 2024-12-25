@@ -374,6 +374,27 @@
                                                                   "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
 "referer":""
 
+ }, {
+
+                  "name": "DISCOVERY ENGLISH",
+                      "image": "",
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/15920.ts",
+"Host":true       
+
+ }, {
+
+                  "name": "NATGEO",
+                      "image": "",
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/22503.ts",
+"Host":true       
+
+ }, {
+
+                  "name": "HISTORY ENGLISH",
+                      "image": "",
+                                           "url": "http://kstv.us:8080/live/haw5UJfF68/1729172230/22515.ts",
+"Host":true       
+
 
 
 
