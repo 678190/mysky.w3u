@@ -365,27 +365,6 @@
 "referer":""
 
 
- }, {
-
-                  "name": "Discovery",
-                      "image": "https://i1.wp.com/tv247us.com/wp-content/uploads/2020/01/discovery-channel.png",
-                 "url":"https://offerstore.xyz/AGV/stream.m3u8?id=313",
-               "referer":"https://offerstore.xyz/AGV/play.php?play=313"
-
- }, {
-
-                  "name": "NATGEO",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/National-Geographic.png",
-                 "url":"https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
-               "referer":""
-
-
- }, {
-
-                  "name": "HISTORY ENGLISH",
-                      "image": "https://tse3.mm.bing.net/th?id=OIP.2fkptbGHORA5HbBbqqpixgHaGG&pid=Api&P=0&h=220",
-              "url":"https://streamer1.nexgen.bz/HISTORY/index.m3u8",
-"referer":""
 
 
 
@@ -439,14 +418,6 @@
 
 
 
-
- }, {
-
-                  "name": "FOOD NEW CHANNEL",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/foot-network-free-live-stream.png",
-                                                      "url": "https://offerstore.xyz/AGV/play.php?play=336",
-"referer":"",
-"Host":true
 
 
 
