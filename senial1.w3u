@@ -24,6 +24,16 @@
                                                      "url": "http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8",
 "referer":""
 
+
+    }, {
+                    "name": "TELEMUNDO",
+                      "image": "https://www.telegratishd.com/imge/telemundo51.png",
+                      "url": "https://www.telegratishd.com/telemundo-51-en-vivo.html?referer=https://www.telegratishd.com/live5/telemundo51.php",
+                 "referer":"https://nebunexa.co/red/?get="
+
+
+
+
     }, {
                     "name": "TUDN SENIAAL #2",
                       "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
