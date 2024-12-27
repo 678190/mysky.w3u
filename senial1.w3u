@@ -95,8 +95,8 @@
                                      
                "name": "LAS ESTRELLAS SENIAL MEX",
                     "image": "https://telefullenvivo.org/imagenes2/estrellas.png",
-                                                                                     "url": "http://cdn1host.online:2999/live/happy2024/newyear/3.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                                                     "url": "https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8",
+"userAgent":""
 
 
 
@@ -131,7 +131,7 @@
                                      
                "name": "AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                        "url":"http://cdn1host.online:2999/live/happy2024/newyear/6.m3u8",
+                        "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8",
                      "userAgent":" "
 
 	 	        },
@@ -148,7 +148,7 @@
                 {
                     "name": "HISTORY CHANNEL ",
                     "image": "https://telefullenvivo.org/imagenes2/history.png",
-                                                                                  "url": "http://cdn1host.online:2999/live/happy2024/newyear/57.m3u8",
+                                                                                  "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092566",
 "referer":""
 
 
@@ -156,8 +156,8 @@
                 {
                     "name": "NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-                "url": "http://cdn1host.online:2999/live/happy2024/newyear/63.m3u8",
-"referer":"http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/567"
+                "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092567",
+"referer":"http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/"
 
 
 
@@ -165,7 +165,7 @@
                 {
                     "name": "DISCOVERY CHANNEL ",
                     "image": "https://i1.wp.com/redditsport.cc/imgs/discovery.jpg",
-     "url": "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8",
+     "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092592",
                     "userAgent":""
 
 
@@ -175,7 +175,7 @@
                 {
                     "name": "TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                 "url": "http://cdn1host.online:2999/live/happy2024/newyear/65.m3u8",
+                 "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095400",
                  "userAgent":""
 
 
@@ -183,35 +183,26 @@
                 {
                     "name": "EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-                                                       "url": "http://cdn1host.online:2999/live/happy2024/newyear/34.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                "url": "https://www.telegratishd.com/el-gourmet-en-vivo.html?referer=https://www.telegratishd.com/live3/elgourmet.php",
+                 "referer":"https://nebunexa.co/red/?get="
+
 
 		
            },
                 {
                     "name": "ID INVESTIGATION ",
                     "image": "https://us1-prod-images.disco-api.com/2020/7/13/64bf8ced-f65e-4972-b026-88792776ca92.png?bf=0&f=png&p=true&q=85&w=250",
-                                                                                     "url": "http://cdn1host.online:2999/live/happy2024/newyear/32.m3u8",
+                                                                                     "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092562",
 "userAgent":""
         
 
-              
-
-		     },
-                {
-                    "name": "UNIVERSAL REALITY",
-                    "image": "https://www.telegratishd.com/imge/universalchannel.png",
-                 "url":"http://cdn1host.online:2999/live/happy2024/newyear/1664.m3u8",
-                      "UserAgent":""
-
-	
-
+  
 
 
   }, {
                     "name": "FOX SPOT 2 MEXICO",
                     "image": "https://www.telextrema.com/imge/foxsports2.png",
-                                      "url": "http://cdn1host.online:2999/live/happy2024/newyear/93.m3u8",
+                                      "url": "https://streamtp2.com/global1.php?stream=foxsports2mx",
 "referer":""
 
 
@@ -240,11 +231,6 @@
                                   "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092596",
 "userAgent":""
 
-   }, {
-                    "name": "PARAMOUNT",
-                      "image": "https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/PARHD/large_white.png",
-                                                                "url": "http://cdn1host.online:2999/live/happy2024/newyear/1166.m3u8",
-"userAgent":""
 
 
     }, {
