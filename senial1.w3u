@@ -177,7 +177,12 @@
                     "image": "http://x.playerlatino.live//tlc.png",
                  "url": "http://belami.top/DATAS/arm/plays.php?ch=72&f=.m3u8",
                  "userAgent":""
+ }, {
 
+                  "name": "SPANGLISH discovery",
+                      "image": "https://www.telegratishd.com/imge/discoverychannel.png",
+               "url": "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
+ 
 
        },
                 {
@@ -361,9 +366,9 @@
 
  }, {
 
-                  "name": "SPANGLISH",
+                  "name": "DISCOVERY ENGLISH",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8",
+               "url": "http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/184.m3u8",
 "referer":"http://belami.top/DATAS/arm/plays.php?ch=51&f=.m3u8"      
 
  }, {
