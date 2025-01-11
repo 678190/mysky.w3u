@@ -361,15 +361,15 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                                                                  "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
+             "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
 "referer":""
 
  }, {
 
                   "name": "DISCOVERY ENGLISH",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/184.m3u8",
-"referer":"http://belami.top/DATAS/arm/plays.php?ch=51&f=.m3u8"      
+               "url": "http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/567.m3u8",
+"referer":""      
 
  }, {
 
