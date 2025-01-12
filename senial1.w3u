@@ -211,7 +211,7 @@
                   "name": "BEIN OPCION 1 ",
                     "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
                                                 "url": "http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/381.m3u8",
-"isHost":true
+"embed":true
 
  
        
@@ -367,9 +367,9 @@
 
  }, {
 
-                  "name": "SPANGLISH discovery",
+                  "name": "ENGLISH discovery",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
+               "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
      
 
  }, {
@@ -448,7 +448,7 @@
 
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                                                      "url": "http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/4131.m3u8 ",
+                  "url": "http://fl3.moveonjoy.com/BOOMERANG/index.m3u8",
 "referer":"",
 "Host":true
 
@@ -459,7 +459,7 @@
 
                   "name": "CARTOON NETWORK ENGLISH",
                       "image": "https://s.yimg.com/zb/imgv1/95d9fa69-837d-36e3-9957-8b6a4b11748c/t_1024x1024",
-                         "url": "http://tvmate.icu:8080/Alan/Alan1234/57380",
+                         "url": "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
 "referer":"",
 "Host":true
 
