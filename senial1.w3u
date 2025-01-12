@@ -28,8 +28,8 @@
     }, {
                     "name": "TELEMUNDO",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                      "url": "http://belami.top/DATAS/arm/plays.php?ch=93&f=.m3u8",
-                 "referer":"https://nebunexa.co/red/?get="
+                      "url": "hhttp://belami.top/DATAS/arm/plays.php?ch=1305&f=.m3u8",
+                 "referer":""
 
 
 
@@ -236,6 +236,12 @@
                     "name": "HBO EXTREME",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/HBO-1.png",
                                                                 "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2217004",
+"userAgent":""
+
+    }, {
+                    "name": "FX SPANISH",
+                      "image": "https://www.telegratishd.com/imge/fx.png",
+                                                                "url": "http://belami.top/DATAS/arm/plays.php?ch=75&f=.m3u8",
 "userAgent":""
 
 
