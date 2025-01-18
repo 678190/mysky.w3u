@@ -528,10 +528,11 @@
 
 
   }, {
-                    "name": "PRUEBA 22",
+                    "name": "PRUEBA 77",
                       "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
                  "url": " http://23.237.192.179:23455/live/cyx_DA442D95A726FA05D4437.m3u8",
-          "referer":"/live/?user_id=676075278&trans_id=IopHdTSxesQ1_quhpO0cGJ9J5&app_id=com.spanish.latinotvod&host=23.237.192.179:23455&app_ver=54501&client_ip=172.56.28.164&expired=1737191865&auth_id=676075278_com.spanish.latinotvod__0&dev_id=f6810a77949b0760a11a8002dc6cf781&tag=e9b37d&sign_ver=1&token=f7cb68f7c422daa8006b21071f69daec&sign2_method=sign_o3&instance=0&start_moment=1737177477840&sign2=17b08836cfeabce7a83701e6fe2df087"
+          "referer":"/live/?user_id=676075278&trans_id=IopHdTSxesQ1_quhpO0cGJ9J5&app_id=com.spanish.latinotvod&host=23.237.192.179:23455&app_ver=54501&client_ip=172.56.28.164&expired=1737191865&auth_id=676075278_com.spanish.latinotvod__0&dev_id=f6810a77949b0760a11a8002dc6cf781&tag=e9b37d&sign_ver=1&token=f7cb68f7c422daa8006b21071f69daec&sign2_method=sign_o3&instance=0&start_moment=1737177477840&sign2=17b08836cfeabce7a83701e6fe2df087",
+           "userAgent":"Ranger/4.6.1-87edcdcb"
 
 
 
