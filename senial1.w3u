@@ -26,11 +26,10 @@
 
 
     }, {
-                    "name": "TELEMUNDO PHILADELPIA",
-                      "image": "https://media.telemundo62.com/2024/08/WWSI_station_logo_dark_2ac5b8.png",
-                      "url": "http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19726",
-                 "referer":""
-
+                    "name": "TELEMUNDO 51",
+                      "image": "https://media.telemundo51.com/2024/08/WSCV_station_logo_dark.png",
+                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/310",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
