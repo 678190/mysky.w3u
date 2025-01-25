@@ -500,14 +500,20 @@
    "stations": [
       {
          "name": "SERIES Y PELICULAS",
-         "image": "https://tv.tflix.app/wp-content/uploads/2024/03/banner-light2.png",
+         "image": "https://iosmirror.cc//img/nf2/icon_x192.png",
          "imageScale": "centerCrop",
-         "url": "https://commons.wikimedia.org/wiki/File:Timelapse_Tour_Eiffel_%C3%A0_Paris.webm",
-         "isHost": true
-    
+         "url": "https://iosmirror.cc/series",
+       "userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
+       "embed":true
 
 
+}, {
 
+                  "name": "CINE CASA 1",
+                      "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
+                    "url": "https://playflixgo.blogspot.com/?m=1",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
 
 
 
