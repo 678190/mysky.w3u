@@ -493,22 +493,18 @@
 "Host":true       
 
 
-
-
-
-  }, {
-                    "name": "PRUEBA 1",
-                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
-                                           "url": "https://live.tv247us.com/hls/telemundo.m3u8",
-"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
-"Host":true
-
-
-  }, {
-                    "name": "PRUEBA 011",
-                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
-                 "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
-          "userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
+      }
+         ]
+      }
+   ],
+   "stations": [
+      {
+         "name": "SERIES Y PELICULAS",
+         "image": "https://tv.tflix.app/wp-content/uploads/2024/03/banner-light2.png",
+         "imageScale": "centerCrop",
+         "url": "https://commons.wikimedia.org/wiki/File:Timelapse_Tour_Eiffel_%C3%A0_Paris.webm",
+         "isHost": true
+    
 
 
 
