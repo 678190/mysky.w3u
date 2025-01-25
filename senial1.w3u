@@ -1,12 +1,12 @@
 {
-  "name": "TV 2025 ",
+  "name": "ROKU TV ON LINE",
   "author": "ListasWiseplay.com",
-"info": "TV",
-  "url": "https://raw.githubusercontent.com/678190/RIK/refs/heads/main/AIR.w3u",
-"image": "",
+"info": "ROKU TV ON LINE",
+  "url": "https://raw.githubusercontent.com/678190/mysky.w3u/main/senial1.w3u",
+"image": "https://thumbs.gfycat.com/OpulentLastingConure-small.gif",
   "groups": [
 {
-      "name": "SPANISH TV ",
+      "name": "SENIAL SKY LIVE",
       "image": "https://www.howtogeek.com/wp-content/uploads/2017/01/roku-rebooting.gif",
       "stations": [
 {
@@ -21,8 +21,8 @@
     }, {
                     "name": "📶TUDN CALIDAD HD",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url": "http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8",
-                     "referer":""
+                                                     "url": "http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8",
+"referer":""
 
 
     }, {
@@ -329,25 +329,47 @@
 
 
 
-
-
- }
-         ]
-      },
-      { 
-         "name": "USA TV",
-         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
-         "stations": [ 
-            { 
-                 "name": "USA NETWORK ENGLISH",
-                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-             "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
-             "referer":""
 }, {
+
+                  "name": "CINE CASA 1",
+                      "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
+                    "url": "https://playflixgo.blogspot.com/?m=1",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+
+
+
+}, {
+
+                  "name": "NETFLIX MIRROR",
+                      "image": "https://iosmirror.cc//img/nf2/icon_x192.png",
+                    "url": "https://iosmirror.cc/series",
+"userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
+"embed":true
+
+
+
+}, {
+
+                  "name": "MOVIES TUBI SPANISH",
+                      "image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/10/Tubi_Free_Movies_and_Tv.jpg?resize=1536%2C864&ssl=1",
+                    "url": "https://tubitv.com/home",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+  
+ }, {
+
+                  "name": "USA NETWORK ENGLISH",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+             "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
+"referer":""
+
+ }, {
 
                   "name": "ENGLISH discovery",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
                "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
+     
 
  }, {
 
@@ -415,12 +437,7 @@
                     "url":"https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
 "Host":""
 
- }, {
 
-                  "name": "DISNEY XD",
-                      "image": "https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/13/2018/06/14153524/XD_Nav_Logo.jpg",
-                 "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/21588",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
@@ -476,12 +493,7 @@
                "isHost":""
 
 
- }, {
 
-                  "name": "COWW BOY CHANNEL",
-                      "image": "/true/crop/600x219+0+0/resize/164x60!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fa9%2F7b65f03b4f3a8e69bc5326397e8a%2Fteton-ridge-tcc-logo-lockup.png",
-                 "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/401202",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
@@ -498,7 +510,7 @@
  }, {
 
                   "name": "UFC",
-                      "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/ufc.png&w=288&h=288&transparent=true",
+                      "image": "https://www.ufcstore.com/content/assets/__0-1673638822285.285.svg",
                                            "url": "http://tvmate.icu:8080/Alan/Alan1234/146293",
 "Host":true       
 
@@ -506,28 +518,31 @@
 
 
 
+  }, {
+                    "name": "PRUEBA 1",
+                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
+                                           "url": "https://live.tv247us.com/hls/telemundo.m3u8",
+"referer":"https://tv247.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv247.us%2Fwatch%2Fcinemax-us-free-live-stream%2F",
+"Host":true
 
 
-       }
-         ]
-      }
-   ],
-   "stations": [
-      {
-         "name": "SERIES Y PELICULAS",
-  "image": "https://iosmirror.cc//img/nf2/icon_x192.png",
- "url": "https://iosmirror.cc/series",
-"userAgent":" Mozilla/5.0 (Linux; Android 13; SM-G988U1 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.70 Mobile Safari/537.36",
-"embed":true
+  }, {
+                    "name": "PRUEBA 011",
+                      "image": "https://e7.pngegg.com/pngimages/95/437/png-clipart-job-labor-employment-workplace-logo-employment.png",
+                 "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
+          "userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
-}, {
 
-                  "name": "CINE EN CASA 2",
-                      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjq2NKJtNJrZEBx4t68AUQZh5KoQdsj7quPwY4wyd1Y50moNu0NuUovH9APffF4kAZWwXZXsfX-i-D_I03s_NNSV6Vi9Gqo1uw-xwhft7CbaPACk-xvyAh3VABsgoW252_ocBcYWWN9jJenZmDfxZH2w3DIsVfzoM0thGr7e027qxtErTOvoQEzAUPyF0g=w800",
-                                "url": "https://playflixgo.blogspot.com/?m=1",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
+
+
+
+
+
+
+
+
+
 
         }
  
