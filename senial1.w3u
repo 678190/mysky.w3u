@@ -328,10 +328,14 @@
                      "userAgent":""
 
 
-   }
-   ]
-  
- }, {
+     }
+         ]
+      },
+      { 
+         "name": "USA TV",
+         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
+         "stations": [ 
+            { 
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
