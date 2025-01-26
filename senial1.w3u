@@ -248,10 +248,11 @@
 
 
       }, {
-                    "name": "DHD CINEMA",
-                      "image": "https://www.cablevisionhd.com/imge/dhe.png",
-              "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/dhe.html",
-"referer":""
+                    "name": "SHOW TIME",
+                      "image": "https://logos-world.net/wp-content/uploads/2024/09/Showtime-Logo-500x281.png",
+                      "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115",
+                       "userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
+
 
 
       }, {
@@ -289,8 +290,9 @@
    }, {
                   "name": "DE PELICULA MEX",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-             "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10856",
-"userAgent":""
+                                      "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/85",
+"referer":""
+
 
 
                 },
