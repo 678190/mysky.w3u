@@ -369,10 +369,10 @@
 
  }, {
 
-                  "name": "ID_DISCOVERY ENG",
+                  "name": "ID_DISCOVERY USA",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                                                                  "url":"https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8",
-"referer":""
+                 "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/21559",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
   }, {
