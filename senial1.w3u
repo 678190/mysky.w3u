@@ -259,10 +259,11 @@
 
 
       }, {
-                    "name": "CINE TERROR",
+                    "name": "CINE TERROR 1",
                       "image": "https://www.telegratishd.com/imge/terror.png",
-              "url": "https://www.telegratishd.com/terror-24-horas-en-vivo.html?referer=https://www.telegratishd.com/live4/terror.php",
-"referer":"https://nebunexa.co/red/?get="
+              "url": "https://www.telegratishd.com/live2/terror.php",
+"referer":"https://www.telegratishd.com/terror-24-horas-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
 
