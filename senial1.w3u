@@ -251,9 +251,11 @@
 
 
       }, {
-                    "name": "SHOW TIME",
-                      "image": "https://logos-world.net/wp-content/uploads/2024/09/Showtime-Logo-500x281.png",
-                      "url": "http://orbytdrm.xyz:8080/zonesplus_discord/6bewnFhguVmD/80709"
+                    "name": "MOVISTAR AXION",
+                      "image": "https://www.cablevisionhd.com/imge/movistaraccion.png",
+                      "url": "https://www.cablevisionhd.com/stream2/movistaraccion.php",
+"referer":"https://www.cablevisionhd.com/movistar-accion-en-vivo.html",
+"userAgent":"https://acscdn.com/script/aclib.js"
                        
 
 
