@@ -98,7 +98,7 @@
                                      
                "name": "📶LAS ESTRELLAS SENIAL MEX",
                     "image": "https://telefullenvivo.org/imagenes2/estrellas.png",
-                                                                                     "url": "https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8",
+                                                                                     "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/3",
 "userAgent":""
 
 
@@ -108,7 +108,7 @@
                                      
                "name": "📶N+ NOTICIAS MEX",
                     "image": "https://www.nmas.com.mx/assets/Logo/logo.png",
-             "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8",
+             "url":"http://cdn1host.online:2999/kratorius/opLcbhlXaT/1703",
 "userAgent":""
 
          },
@@ -125,7 +125,7 @@
                                      
                "name": "📶CANAL 5 MEX",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8",
+                 "url":"http://cdn1host.online:2999/kratorius/opLcbhlXaT/1457",
                       "Host":""
 
  
@@ -134,7 +134,7 @@
                                      
                "name": "📶AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                        "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8",
+                        "url":"http://cdn1host.online:2999/kratorius/opLcbhlXaT/6",
                      "userAgent":" "
 
 	 	        },
@@ -221,7 +221,7 @@
     }, {
                     "name": "SPACE00",
                       "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                  "url": "https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SPACE/20-hls/live-media.m3u8",
+                  "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/79",
 "referer":"https://nebunexa.co/red/?get="
 
                     
