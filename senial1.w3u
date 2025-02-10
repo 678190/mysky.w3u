@@ -56,11 +56,11 @@
   
 
        }, {
-                    "name": "TELEMUNDO 52",
+                    "name": "TELEMUNDO R",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
      "url":"https://thedaddy.to/tele/stream-131.php",
-               "userAgent":"https://kzt2afc1rp52.com/dd/d4/30/ddd430767cdbddd8ac0726a842abd6c0.js",
-"Host":"https://aiksohet.net/tag.min.js"
+               "referer":"https://s10.histats.com/js15_as.js",
+"userAgent":"https://aiksohet.net/tag.min.js"
      
 
 
