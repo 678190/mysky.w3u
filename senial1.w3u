@@ -241,7 +241,7 @@
 "userAgent":""
 
     }, {
-                    "name": "FX LIVE.TO",
+                    "name": "FX LIVE",
                       "image": "https://www.telegratishd.com/imge/fx.png",
                           "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092561",
 "userAgent":""
@@ -273,13 +273,20 @@
         
          }, {
                     "name": "PARAMOUNT PELICULAS",
-                      "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png",
+                      "image": "https://www.telegratishd.com/imge/paramountchannel.png",
               "url": "https://www.telegratishd.com/live2/paramountchannel.php",
 "referer":"https://www.telegratishd.com/paramount-channel-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
      
+       }, {
+                    "name": "FM HOT MOVIES",
+                      "image": "https://www.telegratishd.com/imge/fmhotmovies.png",
+              "url": "https://www.telegratishd.com/live2/fmhotmovies.php",
+"referer":"https://www.telegratishd.com/fm-hot-movies-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
+ 
         
 
 
