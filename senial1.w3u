@@ -56,11 +56,11 @@
   
 
        }, {
-                    "name": "TELEMUNDO N3",
+                    "name": "TELEMUNDO N1",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-  "url":"https://tele-libre.org/en-vivo-online/telemundo/embed.php",
-                 "referer":"https://cdn.jsdelivr.net/npm/console-ban@4.1.0/dist/console-ban.min.js",
-"userAgent":""
+  "url":"https://tele-libre.org/mpd2.php?id=telemundo",
+                 "referer":"https://tele-libre.org/en-vivo-online/telemundo/embed.php",
+"userAgent":"https://cdn.jsdelivr.net/npm/console-ban@4.1.0/dist/console-ban.min.js"
 
                 
 
