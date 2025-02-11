@@ -59,8 +59,8 @@
                     "name": "TELEMUNDO US",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
      "url":"https://newembedplay.xyz/premiumtv/daddylive.php?id=131",
-               "referer":"https://newembedplay.xyz/blast.js",
-"userAgent":"https://miztv.shop/tele/stream-382.php"
+               "referer":"https://cdn.jsdelivr.net/npm/disable-devtool",
+"userAgent":"https://miztv.shop/tele/stream-131.php"
      
 
 
