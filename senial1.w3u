@@ -58,9 +58,9 @@
        }, {
                     "name": "TELEMUNDO NY2",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-  "url":"https://newembedplay.xyz/premiumtv/daddyhd.php?id=131",
-                 "userAgent":"https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js",
-"referer":"https://thedaddy.to/embed/stream-131.php"
+  "url":"https://newembedplay.xyz/premiumtv/daddyhd.php?id=131?referer=https://thedaddy.to/embed/stream-131.php",
+                 "userAgent":"https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"
+
                 
 
 
