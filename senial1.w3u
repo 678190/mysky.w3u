@@ -56,10 +56,10 @@
   
 
        }, {
-                    "name": "TELEMUNDO N5",
+                    "name": "TELEMUNDO N8",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
   "url":"https://windnew.iosplayer.ru/wind/premium131/mono.m3u8",
-                 "referer":"https://tele-libre.org/en-vivo-online/telemundo/embed.php",
+                 "referer":"https://tele-libre.org/mpd2.php?id=telemundo",
 "userAgent":"https://cdn.jsdelivr.net/npm/console-ban@4.1.0/dist/console-ban.min.js"
 
                 
