@@ -58,9 +58,9 @@
        }, {
                     "name": "TELEMUNDO N8",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-  "url":"https://windnew.iosplayer.ru/wind/premium131/mono.m3u8",
-                 "referer":"https://tele-libre.org/mpd2.php?id=telemundo",
-"userAgent":"https://cdn.jsdelivr.net/npm/console-ban@4.1.0/dist/console-ban.min.js"
+  "url":"http://belami.top/DATAS/arm/plays.php?ch=1283&f=.m3u8",
+                 "referer":"",
+"userAgent":""
 
                 
 
