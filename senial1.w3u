@@ -56,9 +56,9 @@
   
 
        }, {
-                    "name": "TELEMUNDO N8",
+                    "name": "TELEMUNDO NP",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-  "url":"http://w.btv.mx/web/play-live/?t=72",
+  "url":"http://xcm.budtv-ultra.com:2424/btvts/websline/eWmWuCeW3j9F/278454.m3u8?tk=ZmI4ZTc0Yjg4N2QwNmZhMjAzOWE4ODQ0MjQ3ZWYwYjFlODk0MzA3ZmU5OTAxYTFmMjhmNmZkMzcyMGRiZTc4NjoxNzM5MjUzNzM1",
                  "referer":"https://code.jquery.com/jquery-3.2.1.js",
 "userAgent":""
 
