@@ -289,7 +289,12 @@
 "referer":"https://www.telegratishd.com/fm-hot-movies-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
- 
+       }, {
+                    "name": "FMH KID",
+                      "image": "https://www.telegratishd.com/imge/fmhotkids.png",
+              "url": "https://www.telegratishd.com/live2/fmhotkids.php",
+"referer":"https://www.telegratishd.com/fm-hot-kids-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
         
 
 
@@ -337,12 +342,7 @@
                 "userAgent":"kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk"
 
 
-      }, {
-                    "name": "FMH KID",
-                      "image": "https://www.telegratishd.com/imge/fmhotkids.png",
-              "url": "https://www.telegratishd.com/live3/fmhotkids.php",
-"referer":"https://www.telegratishd.com/fm-hot-kids-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
 
 
 
