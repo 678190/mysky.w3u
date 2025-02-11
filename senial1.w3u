@@ -56,10 +56,10 @@
   
 
        }, {
-                    "name": "TELEMUNDO NN",
+                    "name": "TELEMUNDO N2",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
   "url":"http://w.btv.mx/web/play-live/?t=72",
-                 "referer":"https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
+                 "referer":"http://cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js",
 "userAgent":""
 
                 
