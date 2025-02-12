@@ -297,14 +297,14 @@
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
         
 
-     }, {
-                    "name": "AXION SPAIN",
-                      "image": "",
-              "url": "https://www.cablevisionhd.com/stream5/movistaraccion.php",
-"referer":"https://nebunexa.co/red/?get=",
-"userAgent":"https://www.cablevisionhd.com/movistar-accion-en-vivo.html"
-        
+      }, {
+                    "name": "CINE ONE 1",
+                      "image": "https://images.seeklogo.com/logo-png/39/1/one-tv-unused-logo-png_seeklogo-397962.png",
+  "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/235588",
+                 "userAgent":"XCIPTV-v3.1.7"
 
+
+     
 
 
 
@@ -518,6 +518,14 @@
 
 
 
+ }, {
+
+                  "name": "WWE USA",
+                      "image": "https://www.telegratishd.com/wwe-en-vivo.html",
+ "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/595927",
+                 "userAgent":"XCIPTV-v3.1.7"
+
+
 
      
 
@@ -552,14 +560,6 @@
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
 
-
-}, {
-
-                  "name": "USUARIO:JUAN PIN:1234",
-                      "image": "http://w.btv.mx/web/images/Budtvultra.png",
-                    "url": "http://w.btv.mx/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
 
 
 
