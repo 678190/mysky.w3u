@@ -164,7 +164,15 @@
                     "name": "📶NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
               "url": "https://www.telegratishd.com/live2/natgeo.php",
-"referer":"https://github.com/678190/mysky.w3u/edit/main/senial1.w3u",
+"referer":"https://www.telegratishd.com/nat-geo-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+                      },
+                {
+                    "name": "📶HISTORU #2 ",
+                    "image": "https://x.playerlatino.live//natgeo.png",
+              "url": "https://www.telegratishd.com/live2/history2.php",
+"referer":"https://www.telegratishd.com/history-2-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
