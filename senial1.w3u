@@ -577,6 +577,15 @@
 "Host":true       
 
 
+ }, {
+
+                  "name": "MAV TV ",
+                      "image": "https://yt3.googleusercontent.com/ytc/AIdro_nQP3GRR_0J2PB0vMk-zN9o87-01iXl_HFtLMqIhA7gwQ=s160-c-k-c0x00ffffff-no-rj",
+                                           "url": "https://fl2.moveonjoy.com/MAV_TV/index.m3u8",
+"Host":true   
+
+
+
       }
          ]
       }
