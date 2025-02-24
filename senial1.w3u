@@ -464,6 +464,19 @@
 
 
   }, {
+                    "name": "CRAVE CINEMA ENGLISH",
+                      "image": "https://d2po7v53a8yrck.cloudfront.net/ovd-images/crave-ca.png",
+                    "url":"http://fl2.moveonjoy.com/CRAVE_2/index.m3u8",
+"Host":""
+  }, {
+                    "name": "SHOWTIME 2",
+                      "image": "https://static.wikia.nocookie.net/logopedia/images/f/f1/SHO2.gif/revision/latest?cb=20211121191812",
+                    "url":"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+"Host":""
+
+
+
+  }, {
                     "name": "CINEMAX SPANGLISH",
                       "image": "https://tvlibre.org/img/cinemax.webp",
                     "url":"http://170.254.18.106/CINEMAX/index.m3u8",
@@ -547,7 +560,7 @@
  }, {
 
                   "name": "WWE USA",
-                      "image": "https://www.telegratishd.com/wwe-en-vivo.html",
+                      "image": "https://logos-world.net/wp-content/uploads/2021/12/WWE-Logo-500x281.png",
  "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/595927.m3u8",
                  "userAgent":"XCIPTV-v3.1.7"
 
