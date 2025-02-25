@@ -167,10 +167,17 @@
                 {
                     "name": "📶NATIONAL GEOGRAPHIC ",
                     "image": "https://x.playerlatino.live//natgeo.png",
-              "url": "http://belami.top/DATAS/arm/plays.php?ch=31&f=.m3u8"
+                                 "url": "https://www.telegratishd.com/live2/natgeo.php",
+"referer":"https://www.telegratishd.com/nat-geo-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+      
+
+
+
+
                   },
                 {
-                    "name": "📶HISTORU #2 ",
+                    "name": "📶HISTORY #2 ",
                     "image": "https://www.telegratishd.com/imge/history2.png",
               "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8 ",
 "referer":"",
@@ -182,8 +189,10 @@
                 {
                     "name": "📶DISCOVERY CHANNEL ",
                     "image": "https://i1.wp.com/redditsport.cc/imgs/discovery.jpg",
-              "url": "http://belami.top/DATAS/arm/plays.php?ch=47&f=.m3u8"
-
+                      "url": "https://www.telegratishd.com/live2/discoverychannel.php",
+"referer":"https://www.telegratishd.com/discovery-channel-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+      
 
 
 		       },
