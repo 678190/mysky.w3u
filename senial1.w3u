@@ -186,6 +186,15 @@
 "userAgent":""
 
 
+                   },
+                {
+                    "name": "📶NATGEO MUNDO",
+                    "image": "https://www.telegratishd.com/imge/natgeomundo.png",
+              "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/40637",
+"referer":"",
+"userAgent":""
+   
+
 
            },
                 {
@@ -194,7 +203,13 @@
   "url":"http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/40625",
                  "userAgent":"9XtreamPlayer LibVLC/3.0.18"
 
-
+                 },
+                {
+                    "name": "📶CAZA Y PESCA",
+                    "image": "https://iberaliago.com/wp-content/uploads/2023/07/logo-horizontal-dark.png",
+              "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/1228",
+"referer":"",
+"userAgent":""
       
 
 
