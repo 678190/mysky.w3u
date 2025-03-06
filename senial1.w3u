@@ -292,52 +292,14 @@
 "userAgent":""
 
 
+    }, {
+                    "name": "MULTI CINEMA",
+                      "image": "https://www.televall.online/images/multicinema.jpg",
+                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/140365",
+"userAgent":""
 
 
-
-
-      }, {
-                    "name": "AMC",
-                      "image": "https://www.telegratishd.com/imge/amc.png",
-                      "url": "https://www.telegratishd.com/live2/amc.php",
-"referer":"https://www.telegratishd.com/amc-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-                       
-
-
-
-      }, {
-                    "name": "CINE TERROR 1",
-                      "image": "https://www.telegratishd.com/imge/terror.png",
-              "url": "https://www.telegratishd.com/live2/terror.php",
-"referer":"https://www.telegratishd.com/terror-24-horas-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
-
-
-        
-         }, {
-                    "name": "PARAMOUNT PELICULAS",
-                      "image": "https://www.telegratishd.com/imge/paramountchannel.png",
-              "url": "https://www.telegratishd.com/live2/paramountchannel.php",
-"referer":"https://www.telegratishd.com/paramount-channel-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
-     
-       }, {
-                    "name": "FM HOT MOVIES",
-                      "image": "https://www.telegratishd.com/imge/fmhotmovies.png",
-              "url": "https://www.telegratishd.com/live2/fmhotmovies.php",
-"referer":"https://www.telegratishd.com/fm-hot-movies-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
-       }, {
-                    "name": "FMH KID",
-                      "image": "https://www.telegratishd.com/imge/fmhotkids.png",
-              "url": "https://www.telegratishd.com/live2/fmhotkids.php",
-"referer":"https://www.telegratishd.com/fm-hot-kids-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-        
+ 
 
       }, {
                     "name": "CINE ONE 1",
