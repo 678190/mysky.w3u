@@ -58,7 +58,7 @@
        }, {
                     "name": "TELEMUNDO PHILA",
                       "image": "https://media.telemundo62.com/2024/08/WWSI_station_logo_dark_2ac5b8.png?",
-  "url":"http://live.superteve.com:33527/livetv/9Wu6os8Dmg/304",
+  "url":"http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
                  "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -262,7 +262,20 @@
 "EMBEF":true
 
  
-       
+      }, {
+                  "name": "DAZN FORMULA 1",
+                    "image": "https://www.telegratishd.com/imge/daznf1.jpg",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/139",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
+     
+            }, {
+                  "name": "FOX SPORT PREMIUM",
+                    "image": "https://images.daznservices.com/di/library/DAZN_News/2a/55/dazn-logo_10ftj2s8gvbqi11l7gnwfwf47k.jpg?t=-1346642773&w=800&quality=100",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/163",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
+   
 
  
     }, {
@@ -320,8 +333,19 @@
 "userAgent":""
 
 
+      }, {
+                  "name": "HBO",
+                    "image": "http://pwmuzl.bgneldsat.com/public/images/12179fd6-25f0-4955-911b-63bf636cf0c5.png",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/198",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
 
-
+      }, {
+                  "name": "HBO 2",
+                    "image": "https://pwmuzl.bgneldsat.com/public/images/3edf44ee-ecfb-4df4-8334-a1a77f9b0c69.png",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/199",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
  
 
       }, {
@@ -589,8 +613,8 @@
 
                   "name": "MAV TV ",
                       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nQP3GRR_0J2PB0vMk-zN9o87-01iXl_HFtLMqIhA7gwQ=s160-c-k-c0x00ffffff-no-rj",
-                                           "url": "https://fl2.moveonjoy.com/MAV_TV/index.m3u8",
-"Host":true   
+                                           "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/224",
+"userAgrnt":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
 
 
 
