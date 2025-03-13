@@ -269,12 +269,7 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
      
-            }, {
-                  "name": "FOX SPORT PREMIUM",
-                    "image": "https://images.daznservices.com/di/library/DAZN_News/2a/55/dazn-logo_10ftj2s8gvbqi11l7gnwfwf47k.jpg?t=-1346642773&w=800&quality=100",
-              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/163",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
+
    
 
  
@@ -346,7 +341,21 @@
               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/199",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
- 
+
+    }, {
+                    "name": "XTRM SPAIN",
+                      "image": "https://www.tvguia.es/sites/default/files/logo/xtrm.png",
+                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/327763",
+"userAgent":""
+
+    }, {
+                    "name": "CINE SPAIN",
+                      "image": "https://www.tvguia.es/sites/default/files/logo/m-cine.png",
+                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/327767",
+"userAgent":""
+
+
+
 
       }, {
                     "name": "CINE ONE 1",
@@ -364,7 +373,7 @@
 
     }, {
                     "name": "CINE OPC 3",
-                      "image": "https://images.squarespace-cdn.com/content/v1/6479ddfd497a93481d01f541/b9e826ff-5792-4f79-ae08-7f9f8718a200/Oaks+Center+Cinema+2025.png",
+                      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfd2GYHogR2dZ38j-MiTiBYLlcZZbapPNBX6tGO266scibygT7CRe0elGYP1UeftRoLi6X7mjX1tTxKq0iPyU2BXKdBjWd08hMbpRaP3_5QJ2ZKT2Z4V02d5OOdImVXKX4rg0sdlBPnH8/s1600/logoforzo.png",
   "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/235576",
                  "userAgent":"XCIPTV-v3.1.7"
 
