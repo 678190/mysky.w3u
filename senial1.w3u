@@ -12,8 +12,9 @@
 {
                                   "name": "📶UNIVISION ",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-                                                     "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/254529",
-"userAgent":"WEIB-Tv"
+                          "url": " http://live.superteve.com:33527/livetv/9Wu6os8Dmg/354",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
 
 
 
@@ -26,11 +27,12 @@
 
 
 
-    }, {
-                    "name": "TELEMUNDO sd",
-                      "image": "https://media.telemundo62.com/2024/08/WWSI_station_logo_dark_2ac5b8.png",
-              "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/4717",
-"userAgent":""
+       }, {
+                    "name": "TELEMUNDO PHILA",
+                      "image": "https://media.telemundo62.com/2024/08/WWSI_station_logo_dark_2ac5b8.png?",
+  "url":"http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
+                 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
 
 
 
@@ -54,38 +56,7 @@
 
 	      
 
-  
-
-       }, {
-                    "name": "TELEMUNDO PHILA",
-                      "image": "https://media.telemundo62.com/2024/08/WWSI_station_logo_dark_2ac5b8.png?",
-  "url":"http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
-                 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
-
-                
-
-
-
-
-
-                      },
-                {
-                    "name": "📶UNIMAS ",
-                    "image":"https://1.bp.blogspot.com/-nw-YQVmCdrM/XW3Izew1xtI/AAAAAAAAAP4/IeKNiLF8xlMS8i8UpPVxJAmBPmazimTZQCLcBGAs/s1600/unimas.png",
-             "url":"http://cdn1host.online:2999/kratorius/opLcbhlXaT/286",
-                      "userAgent":"WEIB-Tv"
-     
               
-
-   }, {
-                    "name": "📶GALAVICION ",
-                    "image": "https://www.cablevisionhd.com/imge/galavision.png",
-              "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/4740.m3u8",
-"referer":"",
-"userAgent":""
-
-
 
 
 
@@ -115,9 +86,10 @@
                                      
                "name": "📶N+ NOTICIAS MEX",
                     "image": "https://www.nmas.com.mx/assets/Logo/logo.png",
-             "url":"http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/122592",
-"userAgent":""
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/141",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+ 
          },
                 {
                                      
@@ -146,11 +118,10 @@
                                      
                "name": "📶AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-              "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/6",
-"referer":"",
-"userAgent":""
-      
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/21",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+ 
 
 	 	        },
                 {
@@ -226,42 +197,32 @@
                 {
                     "name": "📶TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-          "url": " http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/161518",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
+                                                        "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/316",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
 
 
        },
                 {
                     "name": "📶EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-                                     "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/79470"
+                                                                  "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+ 
+ 
 
-		
-           },
-                {
-                    "name": "📶ID INVESTIGATION ",
-                    "image": "https://us1-prod-images.disco-api.com/2020/7/13/64bf8ced-f65e-4972-b026-88792776ca92.png?bf=0&f=png&p=true&q=85&w=250",
-                                      "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/79458",
-"referer":""
-
-  
-
-
-  }, {
-                    "name": "FOX SPOT 2 MEXICO",
-                    "image": "https://www.telextrema.com/imge/foxsports2.png",
-                                      "url": " http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/218472",
-"referer":""
 
 
 
     }, {
                   "name": "BEIN OPCION 1 ",
                     "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
-                         "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/592013",
-"EMBEF":true
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/36",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+ 
  
       }, {
                   "name": "DAZN FORMULA 1",
@@ -274,26 +235,7 @@
    
 
  
-    }, {
-                    "name": "SPACE PELICULAS",
-                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                  "url": " http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/46180",
-"referer":"",
-"userAgent":""
-
                     
-    }, {
-                    "name": "CINE MAX",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/cinemax-movie-max.png",
-                                  "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092596",
-"userAgent":""
-
-      }, {
-                    "name": "CINE DINAMITA",
-                      "image": "https://img.playpilot.tech/2fbdfbc07f2211efa8040a58a9feac02/src/img?class=2by3x10&optimizer=image",
-  "url":"http://kstv.us:8080/haw5UJfF68/1729172230/46571",
-                 "userAgent":"XCIPTV-v3.1.7"
-
 
 
     }, {
@@ -302,39 +244,8 @@
                                                                 "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2217004",
 "userAgent":""
 
-    }, {
-                    "name": "FX LIVE",
-                      "image": "https://www.telegratishd.com/imge/fx.png",
-                          "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092561",
-"userAgent":""
 
 
-    }, {
-                    "name": "MULTI CINEMA",
-                      "image": "https://www.televall.online/images/multicinema.jpg",
-                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/140365",
-"userAgent":""
-
-    }, {
-                    "name": "PARAMOUN NETWORK",
-                      "image": "http://www.iptv-vall.com/gallery/paramount-channel_thumb_vpmu37ex.png",
-                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/46172",
-"userAgent":""
-
-
-   }, {
-                    "name": "HBO SIGNATURE",
-                      "image": "https://www.televall.online/gallery/hbo-signature_thumb_zz4m1tpu.png",
-                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/46161",
-"userAgent":""
-
-
-      }, {
-                  "name": "HBO",
-                    "image": "http://pwmuzl.bgneldsat.com/public/images/12179fd6-25f0-4955-911b-63bf636cf0c5.png",
-              "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/46145",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
 
       }, {
                   "name": "HBO 2",
@@ -343,40 +254,6 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
-    }, {
-                    "name": "XTRM SPAIN",
-                      "image": "https://www.tvguia.es/sites/default/files/logo/xtrm.png",
-                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/327763",
-"userAgent":""
-
-    }, {
-                    "name": "CINE SPAIN",
-                      "image": "https://www.tvguia.es/sites/default/files/logo/m-cine.png",
-                          "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/327767",
-"userAgent":""
-
-
-
-
-      }, {
-                    "name": "CINE ONE 1",
-                      "image": "https://images.squarespace-cdn.com/content/v1/6479ddfd497a93481d01f541/b9e826ff-5792-4f79-ae08-7f9f8718a200/Oaks+Center+Cinema+2025.png",
-  "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/235578",
-                 "userAgent":"XCIPTV-v3.1.7"
-
-
-         }, {
-                    "name": "CINE OP 2",
-                      "image": "https://images.squarespace-cdn.com/content/v1/6479ddfd497a93481d01f541/b9e826ff-5792-4f79-ae08-7f9f8718a200/Oaks+Center+Cinema+2025.png",
-  "url":"http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/235569",
-                 "userAgent":"XCIPTV-v3.1.7"
-
-
-    }, {
-                    "name": "CINE OPC 3",
-                      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfd2GYHogR2dZ38j-MiTiBYLlcZZbapPNBX6tGO266scibygT7CRe0elGYP1UeftRoLi6X7mjX1tTxKq0iPyU2BXKdBjWd08hMbpRaP3_5QJ2ZKT2Z4V02d5OOdImVXKX4rg0sdlBPnH8/s1600/logoforzo.png",
-  "url":" http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/235576",
-                 "userAgent":"XCIPTV-v3.1.7"
 
 
 
