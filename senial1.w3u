@@ -29,7 +29,7 @@
 
        }, {
                     "name": "TELEMUNDO USA",
-                      "image": "https://tele-libre.org/img/telemundo.svg",
+                      "image": "https://www.televall.online/gallery/telemundo_thumb_48sqz4hb.png",
   "url":"http://belami.top/DATAS/arm/plays.php?ch=91&f=.m3u8",
                  "userAgent":""
 
@@ -56,7 +56,19 @@
 
 	      
 
-              
+         }, {
+                    "name": "📶UNIMAS",
+                      "image": "https://www.televall.online/gallery/unimas_thumb_rofehxm5.png",
+                          "url": "http://belami.top/DATAS/arm/plays.php?ch=98&f=.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+            }, {
+                    "name": "📶GALAVISION",
+                      "image": "https://www.televall.online/gallery/galavision_thumb_tvfj2eus.png",
+                          "url": "http://belami.top/DATAS/arm/plays.php?ch=99&f=.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+           
 
 
 
@@ -290,7 +302,7 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://tse2.mm.bing.net/th?id=OIP.1G2duTUirfpipQQ-xEO-8gHaHa&pid=Api&P=0&h=220",
-                        "url": "http://62.182.83.129/5MUK2Fhqtq/wqq6nhKF4W/122553",             
+                        "url": "http://181.78.105.146:8800/play/a08h",             
                 "userAgent":""
 
 
@@ -493,12 +505,7 @@
 "Host":true       
 
 
- }, {
-
-                  "name": "MAV TV ",
-                      "image": "https://yt3.googleusercontent.com/ytc/AIdro_nQP3GRR_0J2PB0vMk-zN9o87-01iXl_HFtLMqIhA7gwQ=s160-c-k-c0x00ffffff-no-rj",
-                                           "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/224",
-"userAgrnt":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
+ 
 
 
 
