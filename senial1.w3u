@@ -30,7 +30,7 @@
        }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://www.televall.online/gallery/telemundo_thumb_48sqz4hb.png",
-  "url":"http://belami.top/DATAS/arm/plays.php?ch=91&f=.m3u8",
+  "url":"http://cdn1host.online:2999/kratorius/opLcbhlXaT/68998",
                  "userAgent":""
 
 
@@ -42,6 +42,11 @@
                       "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
                          "url": "https://streamtp2.com/global1.php?stream=tudn_usa",
                                "userAgent":"9XtreamPlayer LibVLC/3.0.18"   
+       }, {
+                    "name": "TELEMUNDO USA SENIAL 2",
+                      "image": "https://www.telegratishd.com/imge/telemundo51.png",
+  "url":"http://belami.top/DATAS/arm/plays.php?ch=91&f=.m3u8",
+                 "userAgent":""
 
 
 
