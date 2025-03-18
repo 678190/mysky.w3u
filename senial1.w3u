@@ -213,9 +213,9 @@
       }, {
                   "name": "SPACE PELICULAS",
                     "image": "https://www.televall.online/gallery/space_thumb_h2eryh2u.png",
-              "url": "http://89.117.146.57:80//televall/YbVVqpeaWU/78",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
+              "url": "https://www.telegratishd.com/live2/space.php",
+"referer":"https://www.telegratishd.com/space-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
 
@@ -226,8 +226,27 @@
               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/199",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
+      }, {
+                  "name": "HBO EXTREME",
+                    "image": "https://www.televall.online/gallery/hbo-xtreme_thumb_6csyxksr.png",
+              "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/298",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
 
 
+      }, {
+                  "name": "CINEMAX PELICULAS",
+                    "image": "https://www.televall.online/gallery/cinemax_thumb_abe5wzdj.png",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/65",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
+
+      }, {
+                  "name": "CINECANAL PELIS",
+                    "image": "https://www.televall.online/gallery/cinecanal_thumb_i8kmf17d.png",
+              "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/63",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
 
  
 
