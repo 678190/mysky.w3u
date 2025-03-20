@@ -30,7 +30,7 @@
        }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://www.televall.online/gallery/telemundo_thumb_48sqz4hb.png",
-                          "url": " http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
+                          "url": "http://172.93.102.112:8989/158736_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -481,7 +481,7 @@
 
                   "name": "WWE USA5",
                       "image": "https://logos-world.net/wp-content/uploads/2021/12/WWE-Logo-500x281.png",
-   "url":"https://dokoplay.xyz/premiumtv/daddyhd.php?id=376?referer=https://daddylive.mp/embed/stream-376.php",
+   "url":"http://172.93.102.112:8989/161183_.m3u8",
                  "referer":"https://s10.histats.com/js15_as.js",
                   "userAgent":"https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
 
