@@ -306,8 +306,8 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://tse2.mm.bing.net/th?id=OIP.1G2duTUirfpipQQ-xEO-8gHaHa&pid=Api&P=0&h=220",
-                        "url": "http://181.78.105.146:8800/play/a08h",             
-                "userAgent":""
+                        "url": "https://s1.latinclub.xyz:443/LVKtxrKX4h/aagNxQA4nS/18",             
+                "userAgent":"SOLzY3LCJzZXNzadjflasudnodinnfsoisW9uIjoiNjkuMTEYLunajc4JwYXJhbXMiOnsiZXhwIjoxNTY5eyJwYXJhbXMiOnsiZXhwIjoxNTY5MDgyMzY3LCJzZXNzadjflasudnodinnfsoisW9uIjoiNjkuMTE0LjQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MS43OCJdfSwic2lnbmF0dXJlIj123 ExoPlayerLib/2.15.1"
 
 
 
@@ -450,11 +450,7 @@
 
 
 
-  }, {
-                    "name": "CNBC",
-                      "image": "https://img.balo.live/static/common/img/tv-channel/iptv/light/2295.png",
-                    "url": "https://livecdn-iptv001.rumsport.com/livetv2/1438/index.m3u8",
-"referer":"https://live-streamfootball.com/index.php?m3u8="
+
 
 
 
@@ -480,22 +476,8 @@
 
 
 
- }, {
-
-                  "name": "COWW BOY CHANNEL.TO",
-                      "image": "https://cowboypluschannel.com/wp-content/uploads/2023/10/Cowboy-Channel.jpg",
-                 "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/1460",
-"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
-
- }, {
-
-                  "name": "WWE USA5",
-                      "image": "https://logos-world.net/wp-content/uploads/2021/12/WWE-Logo-500x281.png",
-   "url":"http://172.93.102.112:8989/161183_.m3u8",
-                 "referer":"https://s10.histats.com/js15_as.js",
-                  "userAgent":"https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
 
 
      
