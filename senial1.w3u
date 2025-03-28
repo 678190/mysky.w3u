@@ -262,7 +262,7 @@
       }, {
                   "name": "CINEMAX PELICULAS",
                     "image": "https://www.televall.online/gallery/cinemax_thumb_abe5wzdj.png",
-              "url": "https://www.telegratishd.com/live4/cinemax.php",
+              "url": "http://104.243.38.5:8989/278467_.m3u8",
 "referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -290,6 +290,14 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
+	 
+   }, {
+                  "name": "CINEMA DINAMITA",
+                    "image": "https://www.tv.maocal.com/images/dinamita.jpg",
+                  "url": "http://172.93.102.112:8989/158780_.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
  
 
 	 
@@ -306,7 +314,7 @@
 
    }, {
                     "name": "VIDEO ROLAS",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png",
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple6/v4/ae/3c/20/ae3c2045-8e74-a7b7-cff2-7479c2f53270/source/256x256bb.jpg",
                     "url": "https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8",             
                "referer":" "
 
