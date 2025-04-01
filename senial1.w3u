@@ -219,7 +219,7 @@
                     "name": "📶EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
                                                                   "url": "http://172.93.102.112:8989/158679_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+"userAgent":""
 
  
  
@@ -298,14 +298,18 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
- 
-
+       }, {
+                  "name": "TERROR PELICULAS",
+                    "image": "https://www.telegratishd.com/imge/terror.png",
+              "url": "https://www.telegratishd.com/live4/terror.php",
+"referer":"https://www.telegratishd.com/terror-24-horas-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 	 
    }, {
                   "name": "DE PELICULA MEX",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
                   "url": "http://172.93.102.112:8989/158781_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+"userAgent":""
 
 
              
