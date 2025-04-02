@@ -397,9 +397,9 @@
   }, {
                     "name": "TLC",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/TLC-Free-Stream-Online.png",
-   "url":"https://fbcdntv247.cfd/memfs/5281d7f6-3ffb-4b38-b273-f1bad18ddcbb_output_0.m3u8",
-                 "referer":"https://tv247.us/watch/tlc-us-free-live-stream/",
-                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
+   "url":"https://tvpass.org/live/TLCEast/sd",
+                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
+                  "userAgent":""
      
 
 
@@ -436,16 +436,9 @@
   }, {
                     "name": "CINEMAX SPANGLISH",
                       "image": "https://tvlibre.org/img/cinemax.webp",
-   "url":"https://sv3.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c_output_0.m3u8",
-                 "referer":"https://tv247.us/watch/cinemax-us-free-live-stream/",
-                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
-     
-  }, {
-                    "name": "TEST 1",
-                      "image": "",
-   "url":"https://tv247.us/watch/espn-u-free-live-stream/",
-                 "referer":"https://tv247.us/watch/espn-u-free-live-stream/",
-                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
+   "url":"https://tvpass.org/live/CinemaxEast/sd",
+                 "referer":"https://tvpass.org/channel/cinemax-eastern-feed",
+                  "userAgent":""
      
 
 
