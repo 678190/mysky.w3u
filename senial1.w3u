@@ -402,13 +402,23 @@
                   "userAgent":""
      
 
-
+  }, {
+                    "name": "HGTV USA",
+                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
+   "url":"https://tvpass.org/live/TLCEast/sd",
+                 "referer":"",
+                  "userAgent":""
+     
 
   }, {
-                    "name": "PARAMOUNT ENGLISH",
-                      "image": "https://btv.mx/posters/1724853147155.png",
-                    "url":"http://170.254.18.106/PARAMOUNT/index.m3u8",
-"Host":""
+                    "name": "AMC",
+                      "image": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
+   "url":"https://tvpass.org/live/AMCEast/sd",
+                 "referer":"",
+                  "userAgent":""
+     
+
+
 
   }, {
                     "name": "FX ENGLISH",
@@ -459,7 +469,7 @@
 
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                  "url": "http://fl3.moveonjoy.com/BOOMERANG/index.m3u8",
+                  "url": "https://tvpass.org/live/Boomerang/sd",
 "referer":"",
 "Host":true
 
