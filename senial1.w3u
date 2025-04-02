@@ -436,9 +436,10 @@
   }, {
                     "name": "CINEMAX SPANGLISH",
                       "image": "https://tvlibre.org/img/cinemax.webp",
-                    "url":"http://170.254.18.106/CINEMAX/index.m3u8",
-"Host":""
-
+   "url":"https://sv3.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c_output_0.m3u8",
+                 "referer":"https://tv247.us/watch/cinemax-us-free-live-stream/",
+                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
+     
 
 
 
