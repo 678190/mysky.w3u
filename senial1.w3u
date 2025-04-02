@@ -440,6 +440,13 @@
                  "referer":"https://tv247.us/watch/cinemax-us-free-live-stream/",
                   "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
      
+  }, {
+                    "name": "TEST 1",
+                      "image": "",
+   "url":"https://tv247.us/watch/espn-u-free-live-stream/",
+                 "referer":"https://tv247.us/watch/espn-u-free-live-stream/",
+                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
+     
 
 
 
