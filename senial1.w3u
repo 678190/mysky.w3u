@@ -397,8 +397,10 @@
   }, {
                     "name": "TLC",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/TLC-Free-Stream-Online.png",
-                    "url":"http://fl2.moveonjoy.com/TLC/index.m3u8",
-"Host":""
+   "url":"https://fbcdntv247.cfd/memfs/5281d7f6-3ffb-4b38-b273-f1bad18ddcbb_output_0.m3u8",
+                 "referer":"https://tv247.us/watch/tlc-us-free-live-stream/",
+                  "userAgent":"https://tv247.us/wp-content/themes/auberge/assets/js/scripts-global.js?ver=2.7.2"
+     
 
 
 
@@ -429,12 +431,6 @@
                       "image": "https://d2po7v53a8yrck.cloudfront.net/ovd-images/crave-ca.png",
                     "url":"http://fl2.moveonjoy.com/CRAVE_2/index.m3u8",
 "Host":""
-  }, {
-                    "name": "SHOWTIME 2",
-                      "image": "https://static.wikia.nocookie.net/logopedia/images/f/f1/SHO2.gif/revision/latest?cb=20211121191812",
-                    "url":"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
-"Host":""
-
 
 
   }, {
