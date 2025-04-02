@@ -405,7 +405,7 @@
   }, {
                     "name": "HGTV USA",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
-   "url":"https://tvpass.org/live/TLCEast/sd",
+   "url":"https://tvpass.org/live/HGTVEast/sd",
                  "referer":"",
                   "userAgent":""
      
@@ -481,6 +481,17 @@
                   "name": "CARTOON NETWORK ENGLISH",
                       "image": "https://s.yimg.com/zb/imgv1/95d9fa69-837d-36e3-9957-8b6a4b11748c/t_1024x1024",
                          "url": "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
+"referer":"",
+"Host":true
+
+
+
+
+ }, {
+
+                  "name": "DISNEY XD",
+                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
+                         "url": "https://tvpass.org/live/DisneyXDEast/sd",
 "referer":"",
 "Host":true
 
