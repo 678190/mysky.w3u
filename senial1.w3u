@@ -12,8 +12,9 @@
 {
                                   "name": "📶UNIVISION ",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-                          "url": "http://172.93.102.112:8989/158774_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                          "url": "https://tvpass.org/live/UnivisionEast/sd",
+"userAgent":""
+
 
 
 
@@ -30,8 +31,8 @@
        }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://www.televall.online/gallery/telemundo_thumb_48sqz4hb.png",
-                          "url": "http://172.93.102.112:8989/158736_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                          "url": "https://tvpass.org/live/TelemundoEast/sd",
+"userAgent":""
 
 
 
@@ -45,8 +46,8 @@
        }, {
                     "name": "TELEMUNDO USA SENIAL 2",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                          "url": "https://tvpass.org/live/TelemundoEast/sd",
-"userAgent":""
+                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
