@@ -401,6 +401,22 @@
    "url":"https://tvpass.org/live/TLCEast/sd",
                  "referer":"https://tvpass.org/channel/tlc-usa-eastern",
                   "userAgent":""
+
+  }, {
+                    "name": "BRAVO ENGLISH",
+                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png"
+   "url":"https://tvpass.org/live/BravoEast/sd",
+                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
+                  "userAgent":""
+     
+  }, {
+                    "name": "A&E ENGLISH",
+                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png"
+   "url":"https://tvpass.org/live/AEEast/sd",
+                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
+                  "userAgent":""
+     
+
      
 
   }, {
