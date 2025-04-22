@@ -316,6 +316,15 @@
               "url": "https://www.telegratishd.com/live4/terror.php",
 "referer":"https://www.telegratishd.com/terror-24-horas-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+
+     }, {
+                  "name": "CINE TERROR 3",
+                    "image": "http://x.playerlatino.live/cine247.png",
+      "url":"https://original24.x10.mx/chanelupax/orion.php?id=1550",
+"userAgent":"Ultimate Player/1.0.7",
+"referer":"https://original24.x10.mx/chanelupax/index.php"
+
 	 
    }, {
                   "name": "DE PELICULA MEX",
