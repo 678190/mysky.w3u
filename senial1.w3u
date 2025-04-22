@@ -149,6 +149,14 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
+  }, {
+                    "name": "CINE INFANTIL",
+                      "image": "http://x.playerlatino.live/cine247.png",
+          "url":"https://original24.x10.mx/chanelupax/orion.php?id=702",
+"userAgent":"Ultimate Player/1.0.7",
+"referer":"https://original24.x10.mx/chanelupax/index.php"
+
+
                       },
                 {
                     "name": "📶NATIONAL GEOGRAPHIC ",
@@ -477,12 +485,7 @@
 "Host":""
 
 
-  }, {
-                    "name": "CINE INFANTIL",
-                      "image": "http://x.playerlatino.live/cine247.png",
-          "url":"https://original24.x10.mx/chanelupax/orion.php?id=702",
-"userAgent":"Ultimate Player/1.0.7",
-"Host":"https://original24.x10.mx/chanelupax/index.php"
+
 
 
 
