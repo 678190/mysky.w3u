@@ -148,6 +148,19 @@
                                                      "url": "http://172.93.102.112:8989/158662_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+    }, {
+                  "name": "CINE INFANTIL 1",
+                    "image": "http://x.playerlatino.live/cine247.png",
+          "url":"http://clubtv.link/abr2604/phpcode/android2.php?c=687&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org",
+"userAgent":"",
+"referer":""
+
+     }, {
+                  "name": "CINE INFANTIL 2 ",
+                    "image": "http://x.playerlatino.live/cine247.png",
+          "url":"http://clubtv.link/abr2604/phpcode/android2.php?c=687&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org",
+"userAgent":"",
+"referer":""
 
  
 
