@@ -300,11 +300,11 @@
 "":""
 
     }, {
-                  "name": "MOVISTAR ACCION 31",
+                  "name": "MOVISTAR ACCION 22",
                     "image": "http://x.playerlatino.live/maccion.png",
           "url":"https://original24.x10.mx/volcan/player.php?id=157",
 "referer":"https://original24.x10.mx/volcan/tvlite.html",
-"userAgent":"https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"
+"id":"player"
 
 
 
