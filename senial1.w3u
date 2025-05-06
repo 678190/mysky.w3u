@@ -300,11 +300,11 @@
 "":""
 
     }, {
-                  "name": "MOVISTAR ACCION",
+                  "name": "MOVISTAR ACCION 33",
                     "image": "http://x.playerlatino.live/maccion.png",
           "url":"https://original24.x10.mx/volcan/player.php?id=157",
-"userAgent":"https://original24.x10.mx/volcan/tvlite.html",
-"referer":""
+"referer":"https://original24.x10.mx/volcan/tvlite.html",
+"userAgent":"https://cdn.jsdelivr.net/gh/Amir-abu/playlistdaxtv/playlist/complement-canal.js"
 
 
 
