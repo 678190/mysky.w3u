@@ -56,14 +56,15 @@
 
 
 
-               
-                    
-    }, {
+                 }, {
                     "name": "📶UNIVERSO LATINO",
                       "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
-                          "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/329"
+                          "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/329",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
-	      
+                     
+                    
+
 
          }, {
                     "name": "📶UNIMAS",
