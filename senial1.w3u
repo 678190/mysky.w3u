@@ -383,14 +383,14 @@
 
                   "name": "ENGLISH discovery",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
+               "url": "https://tvpass.org/live/DiscoveryChannelEast/sd"
      
 
  }, {
 
                   "name": "NATGEO",
                       "image": "https://www.telegratishd.com/imge/natgeo.png",
-                                           "url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
+                                           "url": "https://tvpass.org/live/NationalGeographicEast/sd",
 "Host":true       
 
  }, {
