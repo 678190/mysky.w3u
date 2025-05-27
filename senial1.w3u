@@ -467,10 +467,19 @@
 "Host":""
 
 
+  }, {
+                    "name": "MOVIE MAX ENGLISH",
+                      "image": "https://www.moviemaxonline.eu/images/moviemax.png",
+                    "url":"https://tvpass.org/live/MovieMaxEast/sd",
+"Host":""
+
+
+
 
 
   }, {
-                    "name": "CINEMAX SPANGLISH",
+                    "name": "CINEMAX ENGLISH",
+
                       "image": "https://tvlibre.org/img/cinemax.webp",
    "url":"https://tvpass.org/live/CinemaxEast/sd",
                  "referer":"https://tvpass.org/channel/cinemax-eastern-feed",
@@ -482,7 +491,7 @@
   }, {
                     "name": "MTV 1",
                       "image": "https://tvlibre.org/img/mtvhts.webp",
-                    "url":"https://tvpass.org/live/mtv-2-east/sd",
+                    "url":"https://tvpass.org/live/MTVEast/hd",
 "Host":""
 
 
