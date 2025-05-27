@@ -405,7 +405,7 @@
 
                   "name": "ID_DISCOVERY USA",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                 "url": "http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8",
+                 "url": "https://tvpass.org/live/InvestigationDiscoveryEast/sd",
 "userAgent":"WEIB-Tv"
 
 
@@ -454,7 +454,7 @@
   }, {
                     "name": "FX ENGLISH",
                       "image": "https://www.telegratishd.com/imge/fx.png",
-                    "url":"http://fl2.moveonjoy.com/FX/index.m3u8",
+                    "url":"https://tvpass.org/live/FXMovieChannel/sd",
 "Host":""
 
 
@@ -463,15 +463,10 @@
   }, {
                     "name": "HBO ENGLISH",
                       "image": "https://tvlibre.org/img/hbo.webp",
-                    "url":"https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8",
+                    "url":"https://tvpass.org/live/HBOEast/sd",
 "Host":""
 
 
-  }, {
-                    "name": "CRAVE CINEMA ENGLISH",
-                      "image": "https://d2po7v53a8yrck.cloudfront.net/ovd-images/crave-ca.png",
-                    "url":"http://fl2.moveonjoy.com/CRAVE_2/index.m3u8",
-"Host":""
 
 
   }, {
@@ -487,7 +482,7 @@
   }, {
                     "name": "MTV 1",
                       "image": "https://tvlibre.org/img/mtvhts.webp",
-                    "url":"https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
+                    "url":"https://tvpass.org/live/mtv-2-east/sd",
 "Host":""
 
 
