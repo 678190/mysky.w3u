@@ -30,7 +30,7 @@
 
        }, {
                     "name": "TELEMUNDO USA 1",
-                      "image": "https://www.televall.online/gallery/telemundo_thumb_48sqz4hb.png",
+                      "image": "http://x.playerlatino.live/telemundo.png",
                           "url": "http://user.tvcluboficial.com/live/m/m/92.m3u8",
 "referer":""
 
@@ -76,7 +76,7 @@
 
             }, {
                     "name": "📶GALAVISION",
-                      "image": "https://www.televall.online/gallery/galavision_thumb_tvfj2eus.png",
+                      "image": "http://x.playerlatino.live/unimas.png",
                           "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/360",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
@@ -87,7 +87,7 @@
                 }, 
                 { 
                 "name": "📶ESTRELLAS TV",
-                "image": "https://img3.static-ottera.com/prod/est/nav_link/thumbnails/square/213x213/etv_-_1920x1920_new.jpg", 
+                "image": "http://x.playerlatino.live/lasestrellas.png", 
                 "url": " https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8  ", 
 "EMBED":true
 
@@ -253,7 +253,7 @@
 
     }, {
                   "name": "BEIN OPCION 1 ",
-                    "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
+                    "image": "https://x.playerlatino.live/beinsportsn.png",
                                                      "url": "http://user.tvcluboficial.com/live/m/m/376.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
@@ -261,7 +261,7 @@
  
       }, {
                   "name": "SPACE PELICULAS",
-                    "image": "https://www.televall.online/gallery/space_thumb_h2eryh2u.png",
+                    "image": "http://x.playerlatino.live/space.png",
               "url": "http://172.93.102.112:8989/158793_.m3u8",
 "referer":"https://www.telegratishd.com/space-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
@@ -277,7 +277,7 @@
 "":""
       }, {
                   "name": "HBO EXTREME",
-                    "image": "https://www.televall.online/gallery/hbo-xtreme_thumb_6csyxksr.png",
+                    "image": "http://x.playerlatino.live/hboxtreme.png",
               "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/298",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
@@ -285,7 +285,7 @@
 
       }, {
                   "name": "CINEMAX PELICULAS",
-                    "image": "https://www.televall.online/gallery/cinemax_thumb_abe5wzdj.png",
+                    "image": "http://x.playerlatino.live/cinemax.png",
               "url": "http://104.243.38.5:8989/278467_.m3u8",
 "referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
@@ -294,7 +294,7 @@
 
       }, {
                   "name": "CINECANAL PELIS",
-                    "image": "https://www.televall.online/gallery/cinecanal_thumb_i8kmf17d.png",
+                    "image": "http://x.playerlatino.live/cinecanal.png",
               "url": "http://172.93.102.112:8989/278463_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
@@ -361,7 +361,7 @@
 
  }, {
                     "name": "BANDA MAX SDMX",
-                    "image": "https://www.televall.online/gallery/bandamax_thumb_jt86gcah.png",
+                    "image": "http://x.playerlatino.live/bandamax.png",
                                      "url": "http://user.tvcluboficial.com/live/m/m/8.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
