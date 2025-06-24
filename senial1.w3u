@@ -617,17 +617,15 @@
 
 
 
-   }, {
-                    "name": "TEST 111",
-                      "image": "",
-                 "url":"http://104.238.205.28:25461/btvts/websline/eWmWuCeW3j9F/278605.m3u8?tk=NTljZjAxYThjZTBiN2YwYmIxOWY2OTYyMzFjNTk5ZjM5ZTNhYmIyZDdlOTMyYTkwZjA3M2Q4MDkwMGUzNWVmZjoxNzUwNzM4NDA5&token=HRNfAEBQEwMVBVJRAlYAUFYDDggICFhYUlIEBlQIC1QCBQRRAlxSCFMVHUMQF0dQUlxmWVUaAwtRCwBVUB0aFxVURT5aXBMDFQMFUFJRDBcfE01ZXF0bA1YfFBUMVRpYRAIHUwUNExUVUkkVBhFbVF9uXVVHUVpcRAlYEAldFEAJX2gFVlVQV1MVC0NTQRkXWkJJEgtWTFUKHxQHDEVKAxJUFVsRCwkAFRsTAgwWW0FBSBsKE21qG0oRUx0RVFYRD15ZQwkaXApCDxNNQQpGakFUSkRDXVhUA0EUX0cBGk5EXFYZbFteV1lSUhUKDFtGEQsbABMUG1QJXV8RCkNnEg9VFVsRDQQMBxVM",
-                      "referer":"http://w.btv.mx/web/js/scriptmin4242.js"
+
 
    }, {
-                    "name": "TEST 222",
-                      "image": "",
-                 "url":"http://w.btv.mx/web/play-live/?t=6",
-                      "referer":"http://w.btv.mx/web/js/scriptmin4242.js"
+                    "name": "test11",
+                      "image": "https://www.telegratishd.com/imge/paramountchannel.png",
+              "url": "https://www.telegratishd.com/live6/cinemax.php",
+"referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
 
 
 
