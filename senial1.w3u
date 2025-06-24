@@ -271,13 +271,13 @@
 
       }, {
                   "name": "HBO 2",
-                    "image": "https://pwmuzl.bgneldsat.com/public/images/3edf44ee-ecfb-4df4-8334-a1a77f9b0c69.png",
+                    "image": "https://btv.mx/posters/1724852501490.png",
               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/199",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
       }, {
                   "name": "HBO EXTREME",
-                    "image": "http://x.playerlatino.live/hboxtreme.png",
+                    "image": "https://btv.mx/posters/1720895755572.png",
               "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/298",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
@@ -285,7 +285,7 @@
 
       }, {
                   "name": "CINEMAX PELICULAS",
-                    "image": "http://x.playerlatino.live/cinemax.png",
+                    "image": "https://www.telegratishd.com/imge/cinemax.png",
               "url": "http://104.243.38.5:8989/278467_.m3u8",
 "referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
@@ -294,7 +294,7 @@
 
       }, {
                   "name": "CINECANAL PELIS",
-                    "image": "http://x.playerlatino.live/cinecanal.png",
+                    "image": "https://www.telegratishd.com/imge/cinecanal.png",
               "url": "http://172.93.102.112:8989/278463_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
@@ -361,7 +361,7 @@
 
  }, {
                     "name": "BANDA MAX SDMX",
-                    "image": "http://x.playerlatino.live/bandamax.png",
+                    "image": "https://btv.mx/posters/1724880919544.png",
                                      "url": "http://user.tvcluboficial.com/live/m/m/8.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
@@ -616,6 +616,12 @@
 
 
 
+
+   }, {
+                    "name": "TEST 1",
+                      "image": "",
+                 "url":"http://w.btv.mx/web/play-live/?t=6",
+                      "referer":"https://code.jquery.com/jquery-3.2.1.js"
 
 
 
