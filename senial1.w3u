@@ -618,10 +618,10 @@
 
 
    }, {
-                    "name": "TEST 2",
+                    "name": "TEST 3",
                       "image": "",
                  "url":"http://w.btv.mx/web/play-live/?t=6",
-                      "referer":"https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700&ver=1.53"
+                      "referer":"https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
 
 
 
