@@ -618,10 +618,10 @@
 
 
    }, {
-                    "name": "TEST 5",
+                    "name": "TEST 11",
                       "image": "",
                  "url":"http://w.btv.mx/web/play-live/?t=6",
-                      "referer":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+                      "referer":"http://cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js"
 
 
 
