@@ -392,14 +392,15 @@
 
                   "name": "NAT GEO ENGLISH",
                       "image": "https://www.telegratishd.com/imge/natgeo.png",
-               "url": "https://tvpass.org/live/NationalGeographicEast/sd"
+               "url": "https://tvpass.org/live/NationalGeographicEast/sd",
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
  }, {
 
                   "name": "HISTORY CHANNEL",
                       "image": "https://www.telegratishd.com/imge/history.png",
-               "url": "https://tvpass.org/live/HistoryEast/sd"
-     
+               "url": "https://tvpass.org/live/HistoryEast/sd",
+     "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -408,29 +409,26 @@
                   "name": "ID_DISCOVERY USA",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
                  "url": "https://tvpass.org/live/InvestigationDiscoveryEast/sd",
-"userAgent":"WEIB-Tv"
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
   }, {
                     "name": "TLC",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/TLC-Free-Stream-Online.png",
    "url":"https://tvpass.org/live/TLCEast/sd",
-                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
-                  "userAgent":""
+            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
   }, {
                     "name": "BRAVO ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png",
    "url":"https://tvpass.org/live/BravoEast/sd",
-                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
-                  "userAgent":""
+              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
   }, {
                     "name": "A&E ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png",
    "url":"https://tvpass.org/live/AEEast/sd",
-                 "referer":"https://tvpass.org/channel/tlc-usa-eastern",
-                  "userAgent":""
+                "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
 
      
@@ -439,17 +437,14 @@
                     "name": "HGTV USA",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
    "url":"https://tvpass.org/live/HGTVEast/sd",
-                 "referer":"",
-                  "userAgent":""
+        "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"       
      
 
   }, {
                     "name": "AMC",
                       "image": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
    "url":"https://tvpass.org/live/AMCEast/sd",
-                 "referer":"",
-                  "userAgent":""
-     
+             "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -457,7 +452,7 @@
                     "name": "FX ENGLISH",
                       "image": "https://www.telegratishd.com/imge/fx.png",
                     "url":"https://tvpass.org/live/FXMovieChannel/sd",
-"Host":""
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -473,8 +468,7 @@
                     "name": "MOVIE MAX ENGLISH",
                       "image": "https://www.moviemaxonline.eu/images/moviemax.png",
                     "url":"https://tvpass.org/live/MovieMaxEast/sd",
-"Host":""
-
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -484,9 +478,7 @@
 
                       "image": "https://tvlibre.org/img/cinemax.webp",
    "url":"https://tvpass.org/live/CinemaxEast/sd",
-                 "referer":"https://tvpass.org/channel/cinemax-eastern-feed",
-                  "userAgent":""
-     
+           "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -494,9 +486,7 @@
                     "name": "MTV 1",
                       "image": "https://tvlibre.org/img/mtvhts.webp",
                     "url":"https://tvpass.org/live/MTVEast/hd",
-"Host":""
-
-
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -508,9 +498,7 @@
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
                   "url": "https://tvpass.org/live/Boomerang/sd",
-"referer":"",
-"Host":true
-
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -556,8 +544,8 @@
 
                   "name": "NFL",
                       "image": "https://img.balo.live/static/common/img/tv-channel/iptv/light/2369.png",
-               "url": "https://tvpass.org/live/NFLNetwork/sd"
-              
+               "url": "https://tvpass.org/live/NFLNetwork/sd",
+              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
