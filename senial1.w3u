@@ -336,7 +336,7 @@
    }, {
                   "name": "DE PELICULA MEX",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-              "url": "http://104.238.205.28:8989/278457_.m3u8"
+              "url": "http://104.238.205.28:8989/278458_.m3u8"
 
 
 
@@ -458,11 +458,7 @@
 
 
 
-  }, {
-                    "name": "HBO ENGLISH",
-                      "image": "https://tvlibre.org/img/hbo.webp",
-                    "url":"https://tvpass.org/live/HBOEast/sd",
-"Host":""
+
 
 
   }, {
