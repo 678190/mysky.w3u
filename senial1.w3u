@@ -298,18 +298,71 @@
 "referer":"",
 "id":"player"
 
-  }, {
-                  "name": "NETFLIX AXION 1",
-                    "image": "https://btv.mx/posters/1721261460552.png",
-          "url":"http://104.238.222.251:8989/168559_.m3u8"
+
 
 
 
   }, {
-                  "name": "SKY MOVIES 1",
+                  "name": "SKY MOVIES PREMIERE 2",
                     "image": "https://btv.mx/posters/1728457493382.png",
           "url":"http://104.243.38.5:8989/285409_.m3u8"
 
+  }, {
+                  "name": "SKY MOVIES PREMIERE 2",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285410_.m3u8"
+
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 3",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285411_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 4",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285412_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 5",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285413_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 6",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285414_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 7",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285416_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 8",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285417_.m3u8"
+
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 9",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285418_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 10",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285419_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 20",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285420_.m3u8"
+
+ }, {
+                  "name": "SKY MOVIES PREMIERE 21",
+                    "image": "https://btv.mx/posters/1728457493382.png",
+          "url":"http://104.243.38.5:8989/285421_.m3u8"
 
 
 
