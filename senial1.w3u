@@ -51,9 +51,9 @@
        }, {
                     "name": "TELEMUNDO USA SENIAL 51",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-              "url": "https://www.tvporinternet2.com/live4/telemundo51.php",
-"referer":"https://www.tvporinternet2.com/telemundo-51-en-vivo-por-internet.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+              "url": "http://user.tvcluboficial.com/live/m/m/92.m3u8",
+"referer":"",
+"userAgent":""
 
 
 
@@ -151,7 +151,7 @@
                                      
                "name": "📶CARTOON NW",
                     "image": "https://www.televisiongratishd2.com/imge/cartoonnetwork.png",
-                                                     "url": "http://user.tvcluboficial.com/live/m/m/17.m3u8",
+                                                     "url": "",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
     }, {
