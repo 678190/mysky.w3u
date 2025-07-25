@@ -49,10 +49,11 @@
 
   
        }, {
-                    "name": "TELEMUNDO USA SENIAL 2",
+                    "name": "TELEMUNDO USA SENIAL 51",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/308",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+              "url": "https://www.tvporinternet2.com/live4/telemundo51.php",
+"referer":"https://www.tvporinternet2.com/telemundo-51-en-vivo-por-internet.html",
+"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
 
