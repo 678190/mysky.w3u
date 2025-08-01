@@ -257,7 +257,12 @@
 "userAgent":"https://www.televisiongratishd2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
- 
+     }, {
+                  "name": "ULTRA DOCU",
+                    "image": "https://btv.mx/posters/1723681807280.png",
+                                                     "url": "http://172.93.102.112:8989/180634_.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
 
 
 
@@ -314,6 +319,25 @@
                   "name": "MOVISTAR ACCION 00",
                     "image": "http://x.playerlatino.live/maccion.png",
           "url":"http://user.tvcluboficial.com/live/m/m/364.m3u8",
+"referer":"",
+"id":"player"
+
+
+   }, {
+                  "name": "ULTRA PELICULAS",
+                    "image": "https://btv.mx/posters/1723681744529.png",
+          "url":"http://172.93.102.112:8989/180632_.m3u8",
+"referer":"",
+"id":"player"
+
+
+
+
+
+   }, {
+                  "name": "ULTRA CINE MEX",
+                    "image": "https://btv.mx/posters/1723681985133.png",
+          "url":"http://172.93.102.112:8989/180638_.m3u8",
 "referer":"",
 "id":"player"
 
