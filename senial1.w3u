@@ -30,7 +30,7 @@
        }, {
                     "name": "TELEMUNDO USA 1",
                       "image": "http://x.playerlatino.live/telemundo.png",
-                          "url": "http://104.238.205.28:8989/278678_.m3u8",
+                          "url": "http://172.93.102.112:8989/158740_.m3u8",
 "referer":""
 
 
@@ -50,7 +50,7 @@
        }, {
                     "name": "TELEMUNDO USA STREAM",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                    "url":"http://104.238.205.28:8989/278683_.m3u8",
+                    "url":"http://172.93.102.112:8989/158745_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
