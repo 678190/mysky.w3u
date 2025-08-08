@@ -481,13 +481,13 @@
   }, {
                     "name": "TLC",
                       "image": "https://i1.wp.com/redditsport.cc/imgs/TLC-Free-Stream-Online.png",
-   "url":"https://tvpass.org/live/TLCEast/sd",
+   "url":"http://212.102.60.231/TLC/tracks-v1a1/mono.m3u8",
             "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
   }, {
                     "name": "BRAVO ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png",
-   "url":"https://tvpass.org/live/BravoEast/sd",
+   "url":"http://212.102.60.231/BRAVO/tracks-v1a1/mono.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
   }, {
@@ -502,7 +502,7 @@
   }, {
                     "name": "HGTV USA",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
-   "url":"https://tvpass.org/live/HGTVEast/sd",
+   "url":"http://212.102.60.231/HGTV/tracks-v1a1/mono.m3u8",
         "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"       
      
 
@@ -517,7 +517,7 @@
   }, {
                     "name": "FX ENGLISH",
                       "image": "https://www.telegratishd.com/imge/fx.png",
-                    "url":"https://tvpass.org/live/FXMovieChannel/sd",
+                    "url":"http://212.102.60.231/FX/tracks-v1a1/mono.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -539,7 +539,7 @@
                     "name": "CINEMAX ENGLISH",
 
                       "image": "https://tvlibre.org/img/cinemax.webp",
-   "url":"https://tvpass.org/live/CinemaxEast/sd",
+   "url":"http://212.102.60.231/CINEMAX/tracks-v1a1/mono.m3u8",
            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
   }, {
@@ -552,7 +552,7 @@
   }, {
                     "name": "MTV 1",
                       "image": "https://tvlibre.org/img/mtvhts.webp",
-                    "url":"https://tvpass.org/live/MTVEast/hd",
+                    "url":"http://212.102.60.231/MTV/tracks-v1a1/mono.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -564,7 +564,7 @@
 
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                  "url": "https://tvpass.org/live/Boomerang/sd",
+                  "url": "http://212.102.60.231/BOOMERANG/tracks-v1a1/mono.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
