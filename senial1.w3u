@@ -97,7 +97,7 @@
                                      
                "name": "📶LAS ESTRELLAS SENIAL MEX 01",
                     "image": "http://x.playerlatino.live/lasestrellas.png",
-              "url": "http://104.238.222.251:8989/278348_.m3u8",
+              "url": "http://104.238.222.251:8989/298380_.m3u8",
 "referer":"",
 "userAgent":""
 
@@ -441,7 +441,7 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "http://199.127.63.143:8989/279754_.m3u8",
+                        "url": "http://212.102.60.231/USA_NETWORK/tracks-v1a1/mono.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -622,7 +622,7 @@
 
                   "name": "NFL",
                       "image": "https://img.balo.live/static/common/img/tv-channel/iptv/light/2369.png",
-               "url": "https://tvpass.org/live/NFLNetwork/sd",
+               "url": "http://212.102.60.231/NFL_NETWORK/tracks-v1a1/mono.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
