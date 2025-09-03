@@ -334,7 +334,7 @@
       }, {
                   "name": "HBO 2",
                     "image": "https://btv.mx/posters/1724852501490.png",
-              "url": "http://104.243.38.5:8989/278493_.m3u8",
+              "url": "http://104.238.222.251:8989/278488_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
       }, {
@@ -348,7 +348,7 @@
       }, {
                   "name": "CINEMAX PELICULAS",
                     "image": "https://www.telegratishd.com/imge/cinemax.png",
-              "url": "http://104.243.38.5:8989/278467_.m3u8",
+              "url": "http://104.238.222.251:8989/278468_.m3u8",
 "referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -362,17 +362,17 @@
 "":""
 
     }, {
-                  "name": "MOVISTAR ACCION 00",
-                    "image": "http://x.playerlatino.live/maccion.png",
-          "url":"http://172.93.102.112:8989/278848_.m3u8",
+                  "name": "NETFLIX 1",
+                    "image": "https://btv.mx/posters/1737851205149.png",
+          "url":"http://104.238.222.251:8989/168559_.m3u8",
 "referer":"",
 "id":"player"
 
 
     }, {
-                  "name": "COMEDIA MOVISTAR",
-                    "image": "https://btv.mx/posters/1725561516394.png",
-          "url":"http://172.93.102.112:8989/278848_.m3u8",
+                  "name": "NETFLIX 2",
+                    "image": "https://btv.mx/posters/1737851205149.png",
+          "url":"http://104.238.222.251:8989/168560_.m3u8",
 "referer":"",
 "id":"player"
 
