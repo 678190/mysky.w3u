@@ -22,7 +22,7 @@
     }, {
                     "name": "📶TUDN USA",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                          "url": "http://212.102.60.231/TUDN/tracks-v1a1/mono.m3u8",
+                          "url": "http://user.tvcluboficial.com/live/m/m/86.m3u8",
 "userAgent":""
 
 
@@ -468,7 +468,7 @@
 
                   "name": "USA NETWORK ENGLISH",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "http://212.102.60.231/USA_NETWORK/tracks-v1a1/mono.m3u8",
+                        "url": "http://199.127.63.143:8989/279754_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -477,7 +477,7 @@
 
                   "name": "ENGLISH discovery",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "http://172.93.102.119:8989/279516_.m3u8",
+               "url": "http://104.243.40.13:8989/279516_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
 
@@ -485,14 +485,14 @@
 
                   "name": "NAT GEO ENGLISH",
                       "image": "https://www.telegratishd.com/imge/natgeo.png",
-               "url": "http://212.102.60.231/National_Geographic/tracks-v1a1/mono.m3u8",
+               "url": "http://104.243.40.13:8989/279523_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
  }, {
 
                   "name": "HISTORY CHANNEL",
                       "image": "https://www.telegratishd.com/imge/history.png",
-               "url": "https://tvpass.org/live/HistoryEast/sd",
+               "url": "http://172.93.102.112:8989/161201_.m3u8",
      "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -501,20 +501,16 @@
 
                   "name": "ID_DISCOVERY USA",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                 "url": "http://212.102.60.231/INVESTIGATION_DISCOVERY/tracks-v1a1/mono.m3u8",
+                 "url": "http://104.243.40.13:8989/279521_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
-  }, {
-                    "name": "TLC",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/TLC-Free-Stream-Online.png",
-   "url":"http://212.102.60.231/TLC/tracks-v1a1/mono.m3u8",
-            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+ 
 
   }, {
                     "name": "BRAVO ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png",
-   "url":"http://212.102.60.231/BRAVO/tracks-v1a1/mono.m3u8",
+   "url":"http://199.127.63.143:8989/279762_.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
   }, {
@@ -529,7 +525,7 @@
   }, {
                     "name": "HGTV USA",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
-   "url":"http://212.102.60.231/HGTV/tracks-v1a1/mono.m3u8",
+   "url":"http://199.127.63.143:8989/279739_.m3u8",
         "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"       
      
 
@@ -539,13 +535,6 @@
    "url":"https://tvpass.org/live/AMCEast/sd",
              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
-
-
-  }, {
-                    "name": "FX ENGLISH",
-                      "image": "https://www.telegratishd.com/imge/fx.png",
-                    "url":"http://212.102.60.231/FX/tracks-v1a1/mono.m3u8",
-"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
@@ -566,23 +555,16 @@
                     "name": "CINEMAX ENGLISH",
 
                       "image": "https://tvlibre.org/img/cinemax.webp",
-   "url":"http://212.102.60.231/CINEMAX/tracks-v1a1/mono.m3u8",
+   "url":"http://199.127.63.143:8989/161239_.m3u8",
            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
   }, {
                     "name": "HBO ENGLISH",
                    "image": "https://btv.mx/posters/1724852501490.png",
-   "url":"http://212.102.60.231/HBO/tracks-v1a1/mono.m3u8",
+   "url":"http://104.243.40.13:8989/279552_.m3u8",
            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
    
-  }, {
-                    "name": "MTV 1",
-                      "image": "https://tvlibre.org/img/mtvhts.webp",
-                    "url":"http://212.102.60.231/MTV/tracks-v1a1/mono.m3u8",
-"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-
-
 
 
 
@@ -591,7 +573,7 @@
 
                   "name": "BOOMERANG",
                       "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
-                  "url": "http://212.102.60.231/BOOMERANG/tracks-v1a1/mono.m3u8",
+                  "url": "http://104.194.8.54:8989/279412_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -600,7 +582,7 @@
 
                   "name": "CARTOON NETWORK ENGLISH",
                       "image": "https://s.yimg.com/zb/imgv1/95d9fa69-837d-36e3-9957-8b6a4b11748c/t_1024x1024",
-                         "url": "http://212.102.60.231/CARTOON_NETWORK/tracks-v1a1/mono.m3u8",
+                         "url": "http://199.127.63.143:8989/161305_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -609,7 +591,7 @@
 
                   "name": "DISNEY XD",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
-                         "url": "http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8",
+                         "url": "http://104.194.8.54:8989/279407_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -642,8 +624,8 @@
  }, {
 
                   "name": "NFL",
-                      "image": "https://img.balo.live/static/common/img/tv-channel/iptv/light/2369.png",
-               "url": "http://212.102.60.231/NFL_NETWORK/tracks-v1a1/mono.m3u8",
+                      "image": "https://btv.mx/posters/1721524927141.png",
+               "url": "http://199.127.63.143:8989/158841_.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
