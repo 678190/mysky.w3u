@@ -516,10 +516,15 @@
   }, {
                     "name": "A&E ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png",
-   "url":"https://tvpass.org/live/AEEast/sd",
+   "url":"http://199.127.63.143:8989/279723_.m3u8",
                 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
-
+  }, {
+                    "name": "TLC ENGLIS",
+                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
+   "url":"http://199.127.63.143:8989/279751_.m3u8",
+                "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+     
      
 
   }, {
@@ -532,7 +537,7 @@
   }, {
                     "name": "AMC",
                       "image": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
-   "url":"https://tvpass.org/live/AMCEast/sd",
+   "url":"http://199.127.63.143:8989/279724_.m3u8",
              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -543,9 +548,9 @@
 
 
   }, {
-                    "name": "MOVIE MAX ENGLISH",
-                      "image": "https://www.moviemaxonline.eu/images/moviemax.png",
-                    "url":"https://tvpass.org/live/MovieMaxEast/sd",
+                    "name": "5 STAR MAX",
+                      "image": "https://btv.mx/posters/1737760698315.png",
+                    "url":"http://104.243.40.13:8989/279542_.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -553,10 +558,10 @@
 
   }, {
                     "name": "CINEMAX ENGLISH",
-
-                      "image": "https://tvlibre.org/img/cinemax.webp",
-   "url":"http://199.127.63.143:8989/161239_.m3u8",
-           "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+            "image": "https://tvlibre.org/img/cinemax.webp",
+   "url":"http://104.243.40.13:8989/279544_.m3u8"
+        
+          
 
   }, {
                     "name": "HBO ENGLISH",
@@ -598,17 +603,20 @@
 
 
 
+ }, {
+
+                  "name": "ACC SPORT NETWORK",
+                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/ACC-Network.webp",
+               "url": "http://104.243.40.13:8989/279459_.m3u8",
+              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+
+ 
 
 
 
 
-
-   }, {
-                    "name": "CBS NEWS PHILADELPHIA",
-                      "image": "https://btv.mx/posters/1730437021132.png",
-                 "url":"http://172.93.102.119:8989/279646_.m3u8",
-                      "UserAgent":"Mozilla/5.0 (Linux; Android 13; SM-A236U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-
+ 
 
  }, {
 
