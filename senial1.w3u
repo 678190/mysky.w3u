@@ -68,7 +68,7 @@
          }, {
                     "name": "📶UNIMAS",
                       "image": "http://x.playerlatino.live/unimas.png",
-                                                                             "url": "http://104.238.205.28:8989/278729_.m3u8",
+                                                                             "url": "http://user.tvcluboficial.com/live/m/m/144.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
@@ -277,7 +277,7 @@
                 {
                     "name": "📶TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                                                        "url": "http://104.238.222.251:8989/278413_.m3u8",
+                                                        "url": "http://user.tvcluboficial.com/live/m/m/87.m3u8",
 "userAgent":""
 
  
@@ -287,7 +287,7 @@
                 {
                     "name": "📶EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-              "url": "http://104.238.222.251:8989/278421_.m3u8",
+              "url": "http://user.tvcluboficial.com/live/m/m/157.m3u8",
 "referer":"https://www.televisiongratishd2.com/el-gourmet-en-vivo.html",
 "userAgent":"https://www.televisiongratishd2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -323,7 +323,7 @@
       }, {
                   "name": "SPACE PELICULAS",
                     "image": "http://x.playerlatino.live/space.png",
-              "url": "http://104.238.222.251:8989/278516_.m3u8",
+              "url": "http://104.238.205.28:8989/299269_.m3u8",
 "referer":"https://www.telegratishd.com/space-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -333,13 +333,13 @@
       }, {
                   "name": "HBO 2",
                     "image": "https://btv.mx/posters/1724852501490.png",
-              "url": "http://104.238.222.251:8989/278488_.m3u8",
+              "url": "http://104.243.40.13:8989/279525_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
       }, {
-                  "name": "HBO EXTREME",
+                  "name": "HBO EXTREME IZZI",
                     "image": "https://btv.mx/posters/1720895755572.png",
-              "url": "http://104.238.222.251:8989/278508_.m3u8",
+              "url": "http://104.238.222.251:8989/298372_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
@@ -360,20 +360,9 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
-    }, {
-                  "name": "NETFLIX 1",
-                    "image": "https://btv.mx/posters/1737851205149.png",
-          "url":"http://104.238.222.251:8989/168559_.m3u8",
-"referer":"",
-"id":"player"
+ 
 
 
-    }, {
-                  "name": "NETFLIX 2",
-                    "image": "https://btv.mx/posters/1737851205149.png",
-          "url":"http://104.238.222.251:8989/168560_.m3u8",
-"referer":"",
-"id":"player"
 
 
     }, {
