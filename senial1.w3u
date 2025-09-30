@@ -12,8 +12,8 @@
 {
                                   "name": "📶UNIVISION 1 ",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-                    "url":"https://embed.saohgdasregions.fun/embed/univision.html",
-"userAgent":"https://embed.saohgdasregions.fun/"
+                    "url":"http://104.238.205.28:8989/278686_.m3u8",
+"userAgent":""
 
 
 
@@ -52,8 +52,8 @@
        }, {
                     "name": "TELEMUNDO USA STREAM",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                    "url":"http://user.tvcluboficial.com/live/m/m/92.m3u8",
-"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+                    "url":"http://104.243.40.13:8989/286107_.m3u8",
+"userAgent":""
 
 
 
@@ -70,7 +70,7 @@
          }, {
                     "name": "📶UNIMAS",
                       "image": "http://x.playerlatino.live/unimas.png",
-                                                                             "url": "http://user.tvcluboficial.com/live/m/m/144.m3u8",
+                                                                             "url": "http://172.93.102.112:8989/158759_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
@@ -78,7 +78,7 @@
             }, {
                     "name": "📶GALAVISION",
                       "image": "https://btv.mx/posters/1724211270188.png",
-                          "url": "http://user.tvcluboficial.com/live/m/m/56.m3u8",
+                          "url": "http://104.238.205.28:8989/278722_.m3u8",
 "userAgent":""
 
            
@@ -129,8 +129,8 @@
                                      
                "name": "📶CANAL 5",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-              "url": "http://user.tvcluboficial.com/live/m/m/941.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+              "url": "http://104.238.205.28:8989/278328_.m3u8",
+"userAgent":"",
 "":""
       
 
@@ -165,13 +165,6 @@
                     "image": "https://www.televisiongratishd2.com/imge/cartoonnetwork.png",
                                                      "url": "http://104.238.205.28:8989/299276_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
-    }, {
-                  "name": "CINE INFANTIL 1",
-                    "image": "http://x.playerlatino.live/cine247.png",
-          "url":"http://user.tvcluboficial.com/live/m/m/687.m3u8",
-"userAgent":"",
-"referer":""
 
 
  
@@ -224,13 +217,7 @@
 
 
  
-         },
-                {
-                    "name": "📶DMAX ESPANIA",
-                    "image": "https://www.tvguia.es/sites/default/files/logo/dmax.png",
-              "url": "http://user.tvcluboficial.com/live/m/m/923.m3u8",
-"referer":"",
-"userAgent":""     
+    
 
 
          },
@@ -279,7 +266,7 @@
                 {
                     "name": "📶TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                                                        "url": "http://user.tvcluboficial.com/live/m/m/87.m3u8",
+                                                        "url": "http://199.127.63.105:8989/278413_.m3u8",
 "userAgent":""
 
  
@@ -289,7 +276,7 @@
                 {
                     "name": "📶EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-              "url": "http://user.tvcluboficial.com/live/m/m/157.m3u8",
+              "url": "http://199.127.63.105:8989/278421_.m3u8",
 "referer":"https://www.televisiongratishd2.com/el-gourmet-en-vivo.html",
 "userAgent":"https://www.televisiongratishd2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -311,7 +298,7 @@
     }, {
                   "name": "BEIN OPCION 1 ",
                     "image": "https://x.playerlatino.live/beinsportsn.png",
-                                                     "url": "http://user.tvcluboficial.com/live/m/m/376.m3u8",
+                                                     "url": "http://199.127.63.143:8989/279422_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  }, {
@@ -398,10 +385,10 @@
 
       }, {
                   "name": "PANICO CANAL TERROR",
-                    "image": "https://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/paginasProgramasCanales/_0003_panico-copy-361985.jpg",
-          "url":"http://user.tvcluboficial.com/live/m/m/704.m3u8",
-"userAgent":"plpro.org",
-"referer":"https://original24.x10.mx/chanelupax/index.php"
+                    "image": "https://cdn.vaughnsoft.net/profile/1759256157/terror_mania.jpg",
+          "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv",
+"userAgent":"https://vaughn.live/terror_mania",
+"referer":""
 	 
  
 
@@ -409,7 +396,7 @@
        }, {
                   "name": "TERROR PELICULAS",
                     "image": "https://www.telegratishd.com/imge/terror.png",
-              "url": "http://user.tvcluboficial.com/live/m/m/693.m3u8",
+              "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_terrorasiatico24h.flv",
 "userAgent":"Magma Player/9",
 "referer":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
