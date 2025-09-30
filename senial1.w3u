@@ -384,10 +384,10 @@
 
 
       }, {
-                  "name": "PANICO CANAL TERROR",
+                  "name": "PANICO CANAL TERROR 2",
                     "image": "https://cdn.vaughnsoft.net/profile/1759256157/terror_mania.jpg",
           "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv",
-"userAgent":"https://vaughn.live/terror_mania",
+"UserAgent":"Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36",
 "referer":""
 	 
  
@@ -397,7 +397,7 @@
                   "name": "TERROR PELICULAS 1",
                     "image": "https://www.telegratishd.com/imge/terror.png",
               "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_terrorasiatico24h.flv",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+"userAgent":"Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36",
 "referer":"https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
 
 
