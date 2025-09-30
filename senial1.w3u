@@ -22,8 +22,10 @@
     }, {
                     "name": "📶TUDN USA",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                          "url": "http://user.tvcluboficial.com/live/m/m/86.m3u8",
-"userAgent":""
+                          "url":"https://www.futbollibre2.com/envivo4/tudn.php",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+                   
+
 
 
 
