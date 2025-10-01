@@ -50,10 +50,10 @@
 
   
        }, {
-                    "name": "TELEMUNDO USA STREAM 00",
+                    "name": "TELEMUNDO USA STREAM AIRE",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                    "url":"https://www.tvporinternet2.com/live/telemundo51.php",
-"referer":"https://acscdn.com/script/aclib.js"
+                    "url":"https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=1",
+"referer":"https://platform-api.sharethis.com/js/sharethis.js#property=6809c8edbc16930012085fdf&product=sop"
 
 
 
@@ -174,7 +174,7 @@
                 {
                     "name": "📶NATIONAL G. 1",
                     "image": "https://x.playerlatino.live//natgeo.png",
-              "url":"http://user.tvcluboficial.com/live/m/m/76.m3u8",
+              "url":"http://104.243.40.13:8989/279519_.m3u8",
 "userAgent":""
 
 
@@ -281,11 +281,7 @@
 "userAgent":"https://www.televisiongratishd2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
-     }, {
-                  "name": "ULTRA DOCU",
-                    "image": "https://btv.mx/posters/1723681807280.png",
-                                                     "url": "http://172.93.102.112:8989/180634_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+  
 
   }, {
                   "name": "ADRENALINA SPORT",
@@ -350,7 +346,12 @@
 "":""
 
  
-
+      }, {
+                  "name": "GOLDEN PREMIERE",
+                    "image": "https://btv.mx/posters/1724852370506.png",
+              "url": "http://104.194.8.54:8989/278487_.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
 
 
 
