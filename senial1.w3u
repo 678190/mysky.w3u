@@ -50,10 +50,10 @@
 
   
        }, {
-                    "name": "TELEMUNDO USA STREAM",
+                    "name": "TELEMUNDO USA STREAM 2",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                    "url":"http://104.243.40.13:8989/286107_.m3u8",
-"userAgent":""
+                    "url":"https://www.tvporinternet2.com/live/telemundo51.php",
+"referer":"https://www.tvporinternet2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
 
