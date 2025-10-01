@@ -22,9 +22,10 @@
     }, {
                     "name": "📶TUDN USA",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                          "url":"https://www.futbollibre2.com/envivo4/tudn.php",
+                    "url":"https://live.saohgdasregions.fun/stream.php?canal=tudn&target=2",
                      "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-                   
+               
+                         
 
 
 
@@ -50,11 +51,12 @@
 
   
        }, {
-                    "name": "TELEMUNDO USA STREAM 51",
+                    "name": "TELEMUNDO USA STREAM 00",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-                    "url":"https://www.telegratishd.com/live4/telemundo51.php",
-"referer":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
+  "url":"https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=2",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
+                         
 
 
                  }, {
