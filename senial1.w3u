@@ -658,18 +658,18 @@
 
 
 
-      }
+ }
          ]
-      }
-   ],
-   "stations": [
-      {
-                     "name": "PELICULAS DE ESTRENO",
+      },
+      { 
+         "name": "PELICULAS DE ESTRENO",
+         "image": "https://www.peelink2.com/wp-content/uploads/2025/05/peelink2_banner_85_optimized.webp",
+         "stations": [ 
+            { 
+
+                  "name": "LA HORA DE LA DESAPARICION",
                       "image": "https://www.peelink2.com/wp-content/uploads/2025/08/ver-La-hora-de-la-desaparicion-2025-Online2.webp",
-                    "url": "https://dsvplay.com/e/talaz06q6v9h"
-
-
-
+                        "url": "https://dsvplay.com/e/talaz06q6v9h"
 
 
 
