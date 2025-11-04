@@ -423,6 +423,15 @@
                "referer":" "
 
 
+ }, {
+                    "name": "TELEHIT MX",
+                    "image": "https://www.telegratishd.com/imge/telehit.png",
+                                     "url": "http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+
 
  }, {
                     "name": "BANDA MAX SDMX",
