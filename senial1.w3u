@@ -658,18 +658,19 @@
 
 
 
- }
-         ]
-      },
-      { 
-         "name": "PELICULAS DE ESTRENO",
-         "image": "https://www.peelink2.com/wp-content/uploads/2025/05/peelink2_banner_85_optimized.webp",
-         "stations": [ 
-            { 
 
-                  "name": "LA HORA DE LA DESAPARICION",
-                      "image": "https://www.peelink2.com/wp-content/uploads/2025/08/ver-La-hora-de-la-desaparicion-2025-Online2.webp",
-                        "url": "https://dsvplay.com/e/talaz06q6v9h"
+      }
+         ]
+      }
+   ],
+   "stations": [
+      {
+                     "name": "CINE CASA 1",
+                      "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
+                    "url": "https://playflixgo.blogspot.com/?m=1",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+
 
 
 
