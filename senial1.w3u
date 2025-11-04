@@ -659,19 +659,22 @@
 
 
 
-      }
+ 
+  
+ 
+     }
          ]
-      }
-   ],
-   "stations": [
-      {
-                     "name": "CINE CASA 1",
-                      "image": "https://files.merca20.com/uploads/2017/12/Cine-1.jpg",
-                    "url": "https://playflixgo.blogspot.com/?m=1",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-"embed":true
+      },
+      { 
+         "name": "USA TV",
+         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
+         "stations": [ 
+            { 
 
-
+                  "name": "USA NETWORK ENGLISH",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+                        "url": "http://199.127.63.143:8989/279754_.m3u8",
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
 
