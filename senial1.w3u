@@ -12,7 +12,7 @@
 {
                                   "name": "📶UNIVISION 1 ",
                     "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
-                    "url":"http://104.238.205.28:8989/278686_.m3u8",
+                    "url":"https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
 "userAgent":""
 
 
@@ -100,7 +100,7 @@
                                      
                "name": "📶LAS ESTRELLAS SENIAL MEX 01",
                     "image": "http://x.playerlatino.live/lasestrellas.png",
-              "url": "http://104.238.222.251:8989/298380_.m3u8",
+              "url": "http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8",
 "referer":"",
 "userAgent":""
 
