@@ -499,7 +499,7 @@
   }, {
                     "name": "BRAVO ENGLISH",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png",
-   "url":"http://199.127.63.143:8989/279762_.m3u8",
+   "url":"https://streamer1.nexgen.bz/BRAVO/index.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
   }, {
@@ -519,14 +519,14 @@
   }, {
                     "name": "HGTV USA",
                       "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
-   "url":"http://199.127.63.143:8989/279739_.m3u8",
+   "url":"https://streamer1.nexgen.bz/HGTV/index.m3u8",
         "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"       
      
 
   }, {
                     "name": "AMC",
                       "image": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
-   "url":"http://199.127.63.143:8989/279724_.m3u8",
+   "url":"https://streamer1.nexgen.bz/AMC/index.m3u8",
              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
