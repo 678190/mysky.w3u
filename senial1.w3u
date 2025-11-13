@@ -292,9 +292,9 @@
 
 
     }, {
-                  "name": "BEIN OPCION 1 ",
+                  "name": "BEIN FULL TV ",
                     "image": "https://x.playerlatino.live/beinsportsn.png",
-                    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/a9524cb5-aab9-47a1-9cca-ca55d4096d39/2.m3u8",
+                    "url": "http://104.238.222.251:8989/279422_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  }, {
@@ -322,9 +322,9 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
       }, {
-                  "name": "HBO EXTREME HD",
+                  "name": "HBO EXTREME FULL TV",
                     "image": "https://btv.mx/posters/1720895755572.png",
-              "url": "http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8",
+              "url": "http://104.238.222.251:8989/278507_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
@@ -638,7 +638,7 @@
 
                   "name": "UFC",
                       "image": "https://tv.goluchas.com/wp-content/uploads/2022/04/Ultimate-Fighting-Championship-UFC-Logo.png",
-                                           "url": "http://199.127.63.143:8989/279457_.m3u8",
+                                           "url": "http://172.93.102.112:8989/161182_.m3u8",
 "Host":true       
 
 
@@ -646,7 +646,7 @@
 
                   "name": "WWE",
                       "image": "http://x.playerlatino.live/wwe.png",
-                                           "url": "http://199.127.63.143:8989/279458_.m3u8",
+                                           "url": "http://172.93.102.112:8989/161183_.m3u8",
 "Host":true       
 
 
