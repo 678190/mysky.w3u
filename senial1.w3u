@@ -152,9 +152,9 @@
 	 	        },
                 {
                                      
-               "name": "📶COMEDY CENTRAL ",
-                    "image": "https://btv.mx/posters/1721514575447.png",
-                                                     "url": "http://104.238.205.28:8989/158673_.m3u8",
+               "name": "📶DISTRITO COMEDIA",
+                    "image": "https://btv.mx/posters/1724209263135.png",
+                                                     "url": "http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -331,7 +331,7 @@
       }, {
                   "name": "HBO FAMILIA",
                     "image": "https://btv.mx/posters/1750389849338.png",
-              "url": "http://104.238.205.28:8989/299284_.m3u8",
+              "url": "http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
