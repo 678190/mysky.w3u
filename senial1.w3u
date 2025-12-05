@@ -502,17 +502,8 @@
    "url":"https://streamer1.nexgen.bz/BRAVO/index.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
-  }, {
-                    "name": "A&E ENGLISH",
-                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png",
-   "url":"http://199.127.63.143:8989/279723_.m3u8",
-                "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-     
-  }, {
-                    "name": "TLC ENGLIS",
-                      "image": "https://ustvgo.live/wp-content/uploads/2023/01/tlcllogo-1.webp",
-   "url":"http://199.127.63.143:8989/279751_.m3u8",
-                "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+ 
+
      
      
 
