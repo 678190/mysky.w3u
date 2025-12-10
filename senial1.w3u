@@ -303,6 +303,16 @@
                                                      "url": "http://104.238.205.28:8989/299287_.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
+
+
+
+ }, {
+                  "name": "ESPN",
+                    "image": "https://www.tvporinternet2.com/imge/espnpremium.png",
+                                                     "url": "https://www.tvporinternet2.com/live4/espnpremium.php",
+"userAgent":"https://acscdn.com/script/aclib.js"
+
+
  
  
       }, {
