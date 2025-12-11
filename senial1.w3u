@@ -130,10 +130,8 @@
                                      
                "name": "📶CANAL 5",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-              "url": "http://199.127.63.143:8989/158620_.m3u8",
-"userAgent":"",
-"":""
-      
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/46",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
 
 
 
@@ -144,8 +142,9 @@
                                      
                "name": "📶AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-                                                     "url": "http://104.194.8.54:8989/167825_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+     "url":"https://lostfascinate.net/embed/53qmo",
+                     "referer":"https://bolaloca.my/player/lib.js?10xsx"
+               
 
 
 
@@ -175,7 +174,7 @@
                 {
                     "name": "📶NATIONAL G. 1",
                     "image": "https://x.playerlatino.live//natgeo.png",
-              "url":"http://104.243.40.13:8989/279519_.m3u8",
+              "url":"http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8",
 "userAgent":""
 
 
@@ -184,7 +183,7 @@
                                      
                "name": "📶DISCOVERY CH",
                     "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-                  "url": "http://199.127.63.105:8989/278620_.m3u8",
+                  "url": "http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -195,7 +194,7 @@
                 {
                     "name": "📶HISTORY CH",
                     "image": "https://www.telegratishd.com/imge/history.png",
-              "url": "http://104.238.205.28:8989/299285_.m3u8",
+              "url": "http://190.11.225.124:5000/live/history_hd/playlist.m3u8",
 "referer":"https://www.telegratishd.com/history-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -276,10 +275,8 @@
                 {
                     "name": "📶EL GOURMET",
                     "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-              "url": "http://199.127.63.105:8989/278421_.m3u8",
-"referer":"https://www.televisiongratishd2.com/el-gourmet-en-vivo.html",
-"userAgent":"https://www.televisiongratishd2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
   
 
