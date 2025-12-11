@@ -537,15 +537,14 @@
 
 
 
-
-
-
-
   }, {
-                    "name": "5 STAR MAX",
-                      "image": "https://btv.mx/posters/1737760698315.png",
-                    "url":"http://104.243.40.13:8989/279542_.m3u8",
-"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+                    "name": "TRU TV TVTAPP",
+                      "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
+   "url":"https://thetvapp.to/tv/trutv-live-stream/",
+             "referer":"https://jwpconnatix.com/hs/hsstatic/HubspotToolsMenu/static-1.563/js/index.js"
+
+
+
 
 
 
