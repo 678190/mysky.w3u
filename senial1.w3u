@@ -514,7 +514,11 @@
      
  
 
-     
+      }, {
+                    "name": "DISCOVERY TLC",
+                      "image": "https://btv.mx/posters/1724209016471.png",
+   "url":"https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8",
+              "userAgent":"" 
      
 
   }, {
