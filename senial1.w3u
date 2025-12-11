@@ -30,11 +30,6 @@
 
 
 
-       }, {
-                    "name": "TELEMUNDO USA 1",
-                      "image": "http://x.playerlatino.live/telemundo.png",
-                          "url": "http://104.238.205.28:8989/278683_.m3u8",
-"referer":""
 
 
 
@@ -182,8 +177,8 @@
                                      
                "name": "📶DISCOVERY CH",
                     "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-                  "url": "http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/86",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
 
 
 
@@ -323,9 +318,13 @@
       }, {
                   "name": "HBO 2",
                     "image": "https://btv.mx/posters/1724852501490.png",
-              "url": "http://104.243.40.13:8989/279525_.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/199",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
+
+
+
+
+
       }, {
                   "name": "HBO EXTREME FULL TV",
                     "image": "https://btv.mx/posters/1720895755572.png",
