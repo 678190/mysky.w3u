@@ -163,9 +163,8 @@
                                      
                "name": "📶CARTOON NW",
                     "image": "https://btv.mx/posters/1720836379577.png",
-                                                     "url": "http://104.238.205.28:8989/299276_.m3u8",
+                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/51",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
 
  
 
@@ -314,7 +313,7 @@
       }, {
                   "name": "SPACE PELICULAS",
                     "image": "http://x.playerlatino.live/space.png",
-              "url": "http://104.238.205.28:8989/299269_.m3u8",
+              "url": "http://190.11.225.124:5000/live/space_hd/playlist.m3u8",
 "referer":"https://www.telegratishd.com/space-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -346,18 +345,16 @@
       }, {
                   "name": "CINEMAX PELICULAS",
                     "image": "https://www.telegratishd.com/imge/cinemax.png",
-              "url": "http://199.127.63.105:8989/278468_.m3u8",
-"referer":"https://www.telegratishd.com/cinemax-en-vivo.html",
-"userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/65",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
       }, {
                   "name": "CINECANAL PELIS",
                     "image": "https://www.telegratishd.com/imge/cinecanal.png",
-              "url": "http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
+                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/63",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
       }, {
@@ -414,9 +411,8 @@
    }, {
                   "name": "DE PELICULA MEX",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-              "url": "http://104.238.205.28:8989/278458_.m3u8"
-
-
+                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/79",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
              
                
