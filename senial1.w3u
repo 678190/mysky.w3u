@@ -538,10 +538,10 @@
 
 
   }, {
-                    "name": "TRU TV TVTAPP",
+                    "name": "TRU TV TVTAPP 1",
                       "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
    "url":"https://thetvapp.to/tv/trutv-live-stream/",
-             "referer":"https://jwpconnatix.com/hs/hsstatic/HubspotToolsMenu/static-1.563/js/index.js"
+             "referer":"https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"
 
 
 
