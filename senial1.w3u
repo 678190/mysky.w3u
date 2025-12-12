@@ -475,10 +475,14 @@
 
                   "name": "NAT GEO ENGLISH",
                       "image": "https://www.telegratishd.com/imge/natgeo.png",
-               "url": "http://104.243.40.13:8989/279523_.m3u8",
+               "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279523.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
      
  }, {
+
+
+
+
 
                   "name": "HISTORY CHANNEL",
                       "image": "https://www.telegratishd.com/imge/history.png",
@@ -491,7 +495,7 @@
 
                   "name": "ID_DISCOVERY USA",
                       "image": "https://tse4.mm.bing.net/th?id=OIP.G8rS8mLIRslB__b8PPdRxAHaFF&pid=Api&P=0&h=220",
-                 "url": "http://104.243.40.13:8989/279521_.m3u8",
+                 "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279521.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -532,7 +536,7 @@
                     "name": "TRU TV TVTAPP 1",
                       "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
    "url":"https://thetvapp.to/tv/trutv-live-stream/",
-             "referer":"https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
 
@@ -585,7 +589,7 @@
 
                   "name": "ACC SPORT NETWORK",
                       "image": "https://ustvgo.live/wp-content/uploads/2023/01/ACC-Network.webp",
-               "url": "http://104.243.40.13:8989/279459_.m3u8",
+               "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279459.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -611,7 +615,7 @@
 
                   "name": "NFL",
                       "image": "https://btv.mx/posters/1721524927141.png",
-               "url": "http://104.238.222.251:8989/158841_.m3u8",
+               "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158841.m3u8",
               "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
@@ -627,7 +631,7 @@
 
                   "name": "UFC",
                       "image": "https://tv.goluchas.com/wp-content/uploads/2022/04/Ultimate-Fighting-Championship-UFC-Logo.png",
-                                           "url": "http://172.93.102.112:8989/158853_.m3u8",
+                                           "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158853.m3u8",
 "Host":true       
 
 
