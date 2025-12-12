@@ -74,10 +74,10 @@
             }, {
                     "name": "📶GALAVISION",
                       "image": "https://btv.mx/posters/1724211270188.png",
-                          "url": "http://104.238.205.28:8989/278722_.m3u8",
+                          "url": "  http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278722.m3u8",
 "userAgent":""
 
-           
+         
 
 
 
@@ -196,9 +196,9 @@
                 {
                     "name": "📶Hiistori 2",
                     "image": "https://btv.mx/posters/1724890124178.png",
-  "url":"http://104.194.8.54:8989/278629_.m3u8",
+  "url":"  http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8",
                      "referer":""
-               
+             
  
                     },
                 {
@@ -216,7 +216,7 @@
                 {
                     "name": "📶CAZA & PESCA",
                     "image": "https://34eb8650.delivery.rocketcdn.me/wp-content/uploads/2023/07/logo-horizontal-dark.png",
-              "url": "http://172.93.102.112:8989/278819_.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278819.m3u8",
 "referer":"",
 "userAgent":""  
 
@@ -225,7 +225,7 @@
                 {
                     "name": "📶A3SERIES SPAIN",
                     "image": "https://www.tvguia.es/sites/default/files/logo/atreseries_1.png",
-              "url": "http://104.243.40.13:8989/278860_.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278860.m3u8",
 "referer":"",
 "userAgent":""  
 
@@ -235,7 +235,7 @@
                 {
                     "name": "📶ENERGY SERIES SPAIN",
                     "image": "https://www.tvguia.es/sites/default/files/logo/energy_1.png",
-              "url": "http://172.93.102.112:8989/278809_.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278809.m3u8",
 "referer":"",
 "userAgent":""  
 
@@ -245,7 +245,7 @@
                 {
                     "name": "📶A&E DISCOVERY",
                     "image": "https://btv.mx/posters/1724207500419.png",
-              "url": "http://104.238.205.28:8989/278388_.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278388.m3u8",
 "referer":"",
 "userAgent":""       
 
@@ -258,7 +258,7 @@
                 {
                     "name": "📶TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                                                        "url": "http://199.127.63.105:8989/278413_.m3u8",
+                                                        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278413.m3u8",
 "userAgent":""
 
  
@@ -276,7 +276,7 @@
   }, {
                   "name": "ADRENALINA SPORT",
                     "image": "https://btv.mx/posters/1724853682455.png",
-                                                     "url": "http://104.238.205.28:8989/278572_.m3u8",
+                                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278572.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -284,13 +284,13 @@
     }, {
                   "name": "BEIN FULL TV ",
                     "image": "https://x.playerlatino.live/beinsportsn.png",
-                    "url": "http://104.238.222.251:8989/279422_.m3u8",
+                    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279422.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  }, {
                   "name": "FOX SPORT 2 ",
                     "image": "https://btv.mx/posters/1724884284139.png",
-                                                     "url": "http://104.238.205.28:8989/299287_.m3u8",
+                                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/299287.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -328,9 +328,11 @@
       }, {
                   "name": "HBO EXTREME FULL TV",
                     "image": "https://btv.mx/posters/1720895755572.png",
-              "url": "http://199.127.63.105:8989/278507_.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278507.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
+
+
 
       }, {
                   "name": "HBO FAMILIA",
@@ -366,7 +368,7 @@
     }, {
                   "name": "SENIAL ESPANIA 1",
                     "image": "https://btv.mx/posters/1725561509146.png",
-          "url":"http://172.93.102.112:8989/278847_.m3u8",
+          "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278847.m3u8",
 "referer":"",
 "id":"player"
 
@@ -375,7 +377,7 @@
    }, {
                   "name": "ULTRA PELICULAS",
                     "image": "https://btv.mx/posters/1723681744529.png",
-          "url":"http://172.93.102.112:8989/180632_.m3u8",
+          "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/180632.m3u8",
 "referer":"",
 "id":"player"
 
@@ -386,7 +388,7 @@
    }, {
                   "name": "ULTRA CINE MEX",
                     "image": "https://btv.mx/posters/1723681985133.png",
-          "url":"http://172.93.102.112:8989/180638_.m3u8",
+          "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/180638.m3u8",
 "referer":"",
 "id":"player"
 
@@ -435,7 +437,7 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                                     "url": "http://104.238.205.28:8989/278604_.m3u8",
+                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278604.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
