@@ -302,21 +302,12 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
-
-
- }, {
-                  "name": "ESPN",
-                    "image": "https://www.tvporinternet2.com/imge/espnpremium.png",
-                                                     "url": "https://www.tvporinternet2.com/live4/espnpremium.php",
-"userAgent":"https://acscdn.com/script/aclib.js"
-
-
  
  
       }, {
                   "name": "SPACE PELICULAS",
                     "image": "http://x.playerlatino.live/space.png",
-              "url": "http://190.11.225.124:5000/live/space_hd/playlist.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/299269.m3u8",
 "referer":"https://www.telegratishd.com/space-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
