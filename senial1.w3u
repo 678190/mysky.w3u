@@ -60,7 +60,15 @@
 "referer":"https://rereyano.ru/player/lib.js?2xxx9"
 
                      
-                    
+     }, {
+                    "name": "TELEMUNDO PHILADELPHIA",
+                      "image": "https://btv.mx/posters/1720843598393.png",
+  "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158736.m3u8",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
+
+
+
 
 
          }, {
@@ -95,7 +103,7 @@
                                      
                "name": "📶LAS ESTRELLAS SENIAL MEX 01",
                     "image": "http://x.playerlatino.live/lasestrellas.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278346.m3u8",
+              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278348.m3u8",
 "referer":"",
 "userAgent":""
 
