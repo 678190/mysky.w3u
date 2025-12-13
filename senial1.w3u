@@ -392,6 +392,15 @@
 "id":"player"
 
 
+   }, {
+                  "name": "NETFLIX",
+                    "image": "https://btv.mx/posters/1721261132530.png",
+          "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/168561.m3u8",
+"referer":"",
+"id":"player"
+
+
+
 
       }, {
                   "name": "PANICO CANAL TERROR 2",
