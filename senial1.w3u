@@ -47,11 +47,12 @@
        }, {
                     "name": "TELEMUNDO USA STREAM 00",
                       "image": "https://www.telegratishd.com/imge/telemundo51.png",
-  "url":"http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8",
-                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-               
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/305",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
                          
 
+                         
 
                  }, {
                     "name": "📶UNIVERSO LATINO",
@@ -63,10 +64,9 @@
      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://btv.mx/posters/1720843598393.png",
-                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/305",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-
-
+ "url":"http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8",
+    "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
 
 
 
