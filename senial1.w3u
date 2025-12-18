@@ -350,13 +350,28 @@
 
 
       }, {
-                  "name": "CINECANAL PELIS",
-                    "image": "https://www.telegratishd.com/imge/cinecanal.png",
-                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/63",
+                  "name": "GOLDEN EDGE",
+                    "image": "https://btv.mx/posters/1741915016570.png",
+                                                          "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298422.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
-   
+        }, {
+                  "name": "GOLDEN PLUS",
+                    "image": "https://btv.mx/posters/1741914460316.png",
+                                                          "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298423.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+ 
+
+
+        }, {
+                  "name": "MOSAICO PELIS",
+                    "image": "https://btv.mx/posters/1741919581382.jpeg",
+                                                          "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298452.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+ 
+
+
 
 
 
