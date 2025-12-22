@@ -555,7 +555,7 @@
                     "name": "TRU TV TVTAPP 2",
                       "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
    "url":"https://thetvapp.to/tv/trutv-live-stream/",
-             "referer":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+             "referer":"https://thetvapp.to/build/assets/app-6301f12e.js"
 
 
 
