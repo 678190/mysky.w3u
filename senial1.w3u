@@ -573,12 +573,26 @@
   }, {
                     "name": "HBO ENGLISH",
                    "image": "https://btv.mx/posters/1724852501490.png",
-   "url":"http://23.237.104.106:8080/USA_HBO/index.m3u8",
+   "url":"http://23.237.104.106:8080/USA_HBO2/index.m3u8",
            "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
-   
+ 
+
+ }, {
+                    "name": "HBO ENGLISH",
+                   "image": "https://btv.mx/posters/1724852501490.png",
+   "url":"http://23.237.104.106:8080/USA_HBO2/index.m3u8",
+           "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+ 
+ }, {
+                    "name": "FX MOVIES ENGLISH",
+                   "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",
+  "url":"https://tvpass.org/live/FXEast/sd",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
+ 
 
 
  }, {
