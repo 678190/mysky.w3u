@@ -565,7 +565,7 @@
 
   }, {
                     "name": "CINEMAX ENGLISH",
-            "image": "https://tvlibre.org/img/cinemax.webp",
+            "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png",
    "url":"http://23.237.104.106:8080/USA_CINEMAX/index.m3u8"
         
           
@@ -612,8 +612,21 @@
               "userAgent":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
- 
+  }, {
 
+                  "name": "ESPN U",
+                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",
+               "url": "https://tvpass.org/live/ESPNU/sd",
+              "userAgent":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+
+ 
+ }, {
+
+                  "name": "ESPN ",
+                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",
+               "url": "https://tvpass.org/live/ESPN/sd",
+              "userAgent":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
 
