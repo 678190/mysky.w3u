@@ -497,8 +497,17 @@
 
                   "name": "HISTORY CHANNEL",
                       "image": "https://www.telegratishd.com/imge/history.png",
-               "url": "https://streamer1.nexgen.bz/HISTORY/index.m3u8",
+               "url": "http://23.237.104.106:8080/USA_HISTORY/index.m3u8",
      "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+
+   }, {
+
+                  "name": "DISCOVERY ID",
+                      "image": "https://btv.mx/posters/1724891395400.png",
+               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/92",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+    
 
 
 
@@ -509,26 +518,13 @@
               "userAgent":"" 
      
 
-  }, {
-                    "name": "HGTV USA",
-                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
-   "url":"https://streamer1.nexgen.bz/HGTV/index.m3u8",
-        "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"       
-     
-
-  }, {
-                    "name": "AMC",
-                      "image": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
-   "url":"https://streamer1.nexgen.bz/AMC/index.m3u8",
-             "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-
 
 
 
   }, {
                     "name": "TRU TV TVTAPP1",
                       "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
-   "url":"https://streamer1.nexgen.bz/TRUTV/index.m3u8",
+   "url":"http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
              "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
