@@ -476,10 +476,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWORK ENGLISHH",
+                  "name": "USA NETWORK ENGLISH1",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
                         "url": "https://tv247us.live/embed/usa-network/",
-"userAgent":"https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+"referer":"https://tv247us.live/watch/usa-network/"
 
 
 
