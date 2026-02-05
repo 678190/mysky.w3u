@@ -557,7 +557,7 @@
  
  }, {
                     "name": "SHOW TIME MOVIES",
-                   "image": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png",
+                   "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",
   "url":"http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
              "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
