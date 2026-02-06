@@ -302,6 +302,15 @@
 
 
  }, {
+                  "name": "MOVISTAR LA LIGA",
+                    "image": "https://www.cablevisionhd.com/imge/movistarlaliga.png",
+                                                     "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtNDM1JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+
+ }, {
                   "name": "ESPN MX",
                     "image": "https://btv.mx/posters/1724883256326.png",
                                                      "url": "https://dawngloom.live/embed/22hothctx",
@@ -457,8 +466,8 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278604.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                    "url": "http://104.238.205.28:25461/get/_2bKPuKugDuBoVoUL1pHdm9Yb1NtQXZCd1BjaURoVVUzOVlPTVZIZHZva0RUbzZxTnZpQWZKaFcrcmhSbDdNdUJZVEZkMGVDcFNYWm9JR1UzSCtZdWdFL2lHYURiTDVNS3FsU2hRPT0.m3u8",
+"userAgent":""
 
 
 
