@@ -302,10 +302,10 @@
 
 
  }, {
-                  "name": "MOVISTAR LA LIGA",
+                  "name": "MOVISTAR LA LIGA1",
                     "image": "https://www.cablevisionhd.com/imge/movistarlaliga.png",
                                                      "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ3aW5kbmV3LmR2YWxuYS5ydSUyRndpbmQlMkZwcmVtaXVtODQlMkZtb25vLm0zdTglMjZkYXRhJTNEVDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBJTNEJTNE&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
-"Host":true
+"referer":"https://tv247us.vip/embed/movistar-laliga/"
 
 
 
@@ -488,7 +488,7 @@
                   "name": "USA NETWORK ENGLISH..",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
                         "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTM0MyUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
-"referer":""
+"referer":"https://tv247us.vip/embed/usa-network/"
 
 
 
@@ -507,7 +507,7 @@
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
                "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMyMiUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=",
-     "Host":true
+     "referer":"https://tv247us.vip/embed/history-usa/"
 
 
    }, {
