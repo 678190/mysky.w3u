@@ -495,10 +495,10 @@
  }, {
 
 
-                  "name": "HISTORY CHANNEL",
+                  "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
-               "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMyMiUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
-     "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+               "url": "https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMyMiUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=",
+     "Host":true
 
 
    }, {
