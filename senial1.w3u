@@ -517,6 +517,12 @@
    "url":"https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.m3u8",
               "userAgent":"" 
      
+      }, {
+                    "name": "HGTV ENGLISH",
+                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
+   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtMzgyJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
+              "userAgent":"" 
+     
 
 
 
@@ -529,6 +535,11 @@
 
 
 
+  }, {
+                    "name": "BRAVO",
+                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",
+   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMwNyUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=",
+             "referer":""
 
 
 
@@ -615,6 +626,12 @@
 
 
 
+      }, {
+                    "name": "WWE",
+                      "image": "https://legacymedia.sportsplatform.io/image/upload/v1665275468/nizymyxqxfbiaepw4yor.jpg",
+   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ3aW5kbmV3LmR2YWxuYS5ydSUyRndpbmQlMkZwcmVtaXVtMzc2JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
+              "userAgent":"" 
+     
 
 
 
