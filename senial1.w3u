@@ -487,8 +487,8 @@
 
                   "name": "USA NETWEST03",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://frontillano.blogspot.com/2026/02/embed-daddy.html",
-"referer":"https://daddylives.top/embed/relay.php?v=lgWLl51bM9u0ltHjEu4VyKoLemi80SoS73xGHXajhXRqnI1PW%2FIFzCZo5USZ8Dc61TjuxI1M9Fwa5RSkgYD0Yg%3D%3D"
+                        "url": "https://tvpass.org/live/USANetworkEast/sd",
+"referer":""
 
 
 
@@ -506,8 +506,8 @@
 
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
-               "url": "https://frontillano.blogspot.com/2025/10/hls-player-embed-basic-styling-to-make.html",
-     "referer":"https://frontillano.blogspot.com/2025/10/hls-player-embed-basic-styling-to-make.html"
+               "url": "https://tvpass.org/live/HistoryEast/sd",
+     "referer":""
 
 
    }, {
@@ -523,13 +523,13 @@
       }, {
                     "name": "DISCOVERY TLC",
                       "image": "https://btv.mx/posters/1724209016471.png",
-   "url":"https://frontillano.blogspot.com/2026/02/telce.html",
-              "referer":"https://frontillano.blogspot.com/2026/02/telce.html" 
+   "url":"https://tvpass.org/live/TLCEast/sd",
+              "referer":"" 
      
       }, {
                     "name": "HGTV ENGLISH",
                       "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
-   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtMzgyJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
+   "url":"https://tvpass.org/live/HGTVEast/sd",
               "userAgent":"" 
      
 
@@ -547,7 +547,7 @@
   }, {
                     "name": "BRAVO",
                       "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",
-   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZuZnNuZXcuZHZhbG5hLnJ1JTJGbmZzJTJGcHJlbWl1bTMwNyUyRm1vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=",
+   "url":"https://tvpass.org/live/BravoEast/sd",
              "referer":""
 
 
@@ -634,17 +634,6 @@
 
 
 
-
-      }, {
-                    "name": "WWE1",
-                      "image": "https://legacymedia.sportsplatform.io/image/upload/v1665275468/nizymyxqxfbiaepw4yor.jpg",
-   "url":"https://telecloud.sbs/?url=aHR0cHMlM0ElMkYlMkZ3aW5kbmV3LmR2YWxuYS5ydSUyRndpbmQlMkZwcmVtaXVtMzc2JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA=",
-              "referer":"https://tv247us.vip/embed/wwe-network/" 
-     
-
-
-
-     
 
 
  }, {
