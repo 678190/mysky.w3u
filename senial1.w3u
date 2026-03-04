@@ -176,8 +176,8 @@
                 {
                     "name": "📶NATIONAL G. 1",
                     "image": "https://x.playerlatino.live//natgeo.png",
-              "url":"http://cloud.flynet.sv:1935/live/canal-091/playlist.m3u8",
-"userAgent":""
+              "url":"https://regionales.saohgdasregions.fun/stream.php?canal=natgeo&target=2",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
       },
@@ -194,8 +194,8 @@
                 {
                     "name": "📶HISTORY CH 1",
                     "image": "https://www.telegratishd.com/imge/history.png",
-                                                     "url": "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
-"userAgent":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+                                                     "url":"https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
               },
