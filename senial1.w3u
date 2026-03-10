@@ -288,16 +288,16 @@
 
 
     }, {
-                  "name": "BEIN FULL TV ",
+                  "name": "BEIN SPORT ",
                     "image": "https://x.playerlatino.live/beinsportsn.png",
-                    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279422.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                  "url": "https://fibretower.net/embed/oga0ahtwrbbgpd",
+"referer":"https://bolaloca.my/player/lib.js?25x"
 
  }, {
                   "name": "FOX SPORT 2 ",
                     "image": "https://btv.mx/posters/1724884284139.png",
-                                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278591.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+                                                     "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=foxsports2mexico&target=2",
+"userAgent":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
  }, {
@@ -323,7 +323,7 @@
       }, {
                   "name": "SPACE PELICULAS",
                     "image": "http://x.playerlatino.live/space.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/299269.m3u8",
+              "url": "http://190.11.225.124:5000/live/space_hd/playlist.m3u8",
 "referer":"https://www.telegratishd.com/space-en-vivo.html",
 "userAgent":"https://www.telegratishd.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
@@ -369,15 +369,11 @@
       }, {
                   "name": "GOLDEN EDGE",
                     "image": "https://btv.mx/posters/1741915016570.png",
-                                                          "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298422.m3u8",
+                                                          "url": "http://190.11.225.124:5000/live/golden_hd/playlist.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
-        }, {
-                  "name": "GOLDEN PLUS",
-                    "image": "https://btv.mx/posters/1741914460316.png",
-                                                          "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298423.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+       
  
 
 
@@ -390,18 +386,6 @@
 
 
 
-
-
-
-
-
-
-   }, {
-                  "name": "ULTRA CINE MEX",
-                    "image": "https://btv.mx/posters/1723681985133.png",
-          "url":"http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/180638.m3u8",
-"referer":"",
-"id":"player"
 
 
        }, {
