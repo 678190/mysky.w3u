@@ -217,43 +217,8 @@
 
 
 
+ 
 
-         },
-                {
-                    "name": "📶CAZA & PESCA",
-                    "image": "https://34eb8650.delivery.rocketcdn.me/wp-content/uploads/2023/07/logo-horizontal-dark.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278819.m3u8",
-"referer":"",
-"userAgent":""  
-
-
-         },
-                {
-                    "name": "📶A3SERIES SPAIN",
-                    "image": "https://www.tvguia.es/sites/default/files/logo/atreseries_1.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278860.m3u8",
-"referer":"",
-"userAgent":""  
-
-
-
-         },
-                {
-                    "name": "📶ENERGY SERIES SPAIN",
-                    "image": "https://www.tvguia.es/sites/default/files/logo/energy_1.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278809.m3u8",
-"referer":"",
-"userAgent":""  
-
-
-
-              },
-                {
-                    "name": "📶A&E DISCOVERY",
-                    "image": "https://btv.mx/posters/1724207500419.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278388.m3u8",
-"referer":"",
-"userAgent":""       
 
  
 
@@ -290,8 +255,8 @@
     }, {
                   "name": "BEIN SPORT ",
                     "image": "https://x.playerlatino.live/beinsportsn.png",
-                                  "url": "https://fibretower.net/embed/oga0ahtwrbbgpd",
-"referer":"https://bolaloca.my/player/lib.js?25x"
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/35",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  }, {
                   "name": "FOX SPORT 2 ",
