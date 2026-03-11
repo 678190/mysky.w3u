@@ -324,7 +324,11 @@
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
-       
+        }, {
+                  "name": "ESPN MX1",
+                    "image": "https://btv.mx/posters/1724883256326.png",
+                                                     "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=19_",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
  
 
 
@@ -336,7 +340,11 @@
  
 
 
-
+   }, {
+                  "name": "CINEPREMIUM",
+                    "image": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
+                                                     "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=79_",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
        }, {
