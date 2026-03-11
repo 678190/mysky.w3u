@@ -81,9 +81,8 @@
             }, {
                     "name": "📶GALAVISION",
                       "image": "https://btv.mx/posters/1724211270188.png",
-                          "url": "https://regionales.saohgdasregions.fun/stream2.php?canal=galavision&target=1",
-"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/342",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
          
 
 
@@ -229,7 +228,7 @@
                 {
                     "name": "📶TLC",
                     "image": "http://x.playerlatino.live//tlc.png",
-                                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278441.m3u8",
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/316",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
@@ -242,13 +241,7 @@
                                                      "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
-  
 
-  }, {
-                  "name": "ADRENALINA SPORT",
-                    "image": "https://btv.mx/posters/1724853682455.png",
-                                                     "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278572.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
 
@@ -304,13 +297,6 @@
 
 
 
-
-      }, {
-                  "name": "HBO EXTREME FULL TV",
-                    "image": "https://btv.mx/posters/1720895755572.png",
-              "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278507.m3u8",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
-"":""
 
 
 
@@ -408,7 +394,7 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278605.m3u8",
+                    "url": "http://190.11.225.124:5000/live/bandamax/playlist.m3u8",
 "userAgent":""
 
 
