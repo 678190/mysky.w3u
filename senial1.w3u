@@ -131,9 +131,8 @@
                                      
                "name": "📶CANAL 5",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-              "url": "https://regionales.saohgdasregions.fun/stream.php?canal=canal5&target=2",
+              "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=2_",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-
 
 
 
@@ -143,7 +142,7 @@
                                      
                "name": "📶AZTECA 7 MEX",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-              "url": "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2",
+              "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
@@ -180,9 +179,9 @@
       },
                 {
                                      
-               "name": "📶DISCOVERY CH",
+               "name": "📶DISCOVERY CH MEX",
                     "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-                                 "url": "https://regionales.saohgdasregions.fun/stream.php?canal=discoverychannel&target=2",
+                                 "url": "https://www.cablevisionhd.com/stream/discoverychannel.php",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
@@ -191,7 +190,7 @@
                 {
                     "name": "📶HISTORY CH 1",
                     "image": "https://www.telegratishd.com/imge/history.png",
-                                                     "url":"https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
+              "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=37_",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 
 
