@@ -558,19 +558,19 @@
 
  }, {
 
-                  "name": "WWE",
+                  "name": "WWE1",
                       "image": "",
                "url": "https://player.freecdnllm.sbs/embed/wwe-network/",
-              "embed":true
+              "referer":"https://cdn.tailwindcss.com/3.4.17"
 
 
 
  }, {
 
-                  "name": "NFL",
+                  "name": "NFL2",
                       "image": "",
                "url": "https://player.freecdnllm.sbs/embed/nfl-network/",
-              "referer":"https://player.freecdnllm.sbs/assets/streamService-Xem5hCdE.js"
+              "referer":"https://cdn.plyr.io/3.7.8/plyr.js"
 
 
 
