@@ -570,7 +570,7 @@
                   "name": "NFL",
                       "image": "",
                "url": "https://player.freecdnllm.sbs/embed/nfl-network/",
-              "embed":true
+              "referer":"https://player.freecdnllm.sbs/assets/streamService-Xem5hCdE.js"
 
 
 
