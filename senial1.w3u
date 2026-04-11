@@ -558,19 +558,19 @@
 
  }, {
 
-                  "name": "WWE3",
+                  "name": "WWE",
                       "image": "",
                "url": "https://player.freecdnllm.sbs/embed/wwe-network/",
-              "referer":"https://player.freecdnllm.sbs/assets/vendor-CxM7EHDW.js"
+              "embed":true
 
 
 
  }, {
 
-                  "name": "NFL4",
+                  "name": "NFL",
                       "image": "",
                "url": "https://player.freecdnllm.sbs/embed/nfl-network/",
-              "referer":"https://player.freecdnllm.sbs/assets/channelData-lc7FX_-V.css"
+              "embed":true
 
 
 
