@@ -561,7 +561,8 @@
                   "name": "WWE",
                       "image": "",
                "url": "http://tvmate.icu:8080//Alan/Alan1234/260495",
-              "embed":true
+              "Host":true
+
 
 
 
@@ -570,7 +571,7 @@
                   "name": "NFL",
                       "image": "",
                "url": "http://tvmate.icu:8080//Alan/Alan1234/208896",
-              "embed":true
+              "Host":true
 
 
 
