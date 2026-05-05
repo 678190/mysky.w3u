@@ -232,8 +232,8 @@
  }, {
                   "name": "FOX SPORT 2 ",
                     "image": "https://btv.mx/posters/1724884284139.png",
-                                                                 "url": "https://bolaloca.my/player/3/102",
-"referer":"https://bolaloca.my/player/lib.js?25x"
+                                                                 "url": "https://bolaloca.my/player/3/102|referer=https://bolaloca.my/player/lib.js?25x",
+"Host":""
 
 
  }, {
