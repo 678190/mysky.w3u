@@ -230,10 +230,11 @@
 
 
  }, {
-                  "name": "FOX SPORT 2 ",
+                  "name": "FOX SPORT 2 LAT ",
                     "image": "https://btv.mx/posters/1724884284139.png",
-                                                                 "url": "https://hoca6.com/footy.php?player=desktop&live=ufeed102",
-"referer":"https://bolaloca.my/player/lib.js?25x"
+         "url": "https://bolaloca.my/player/3/102",
+"referer":"https://bolaloca.my/player/lib.js?25x",
+"userAgent":"https://hoca6.com/footy.php?player="
 
 
  }, {
