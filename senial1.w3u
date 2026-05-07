@@ -222,19 +222,19 @@
 
 
     }, {
-                  "name": "BEIN SPORTTT",
+                  "name": "BEIN SPORT 0",
                     "image": "https://logos.streamsites.eu/3536_beinsports_overview.png",
            "url": "https://hoca6.com/footy.php?player=desktop&live=ufeed69",
-"referer":"https://hoca6.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+"referer":"https://hoca6.com:443/sw.js",
+"userAgent":"https://cdn.jsdelivr.net/npm/@swarmcloud/hls/hls-proxy.js"
 
 
  }, {
                   "name": "FOX SPORT 2 LAT ",
                     "image": "https://btv.mx/posters/1724884284139.png",
          "url": "https://bolaloca.my/player/2/102",
-"referer":"https://bolaloca.my/player/lib.js?25x",
-"userAgent":"https://hoca6.com/footy.php?player="
+"referer":"https://hoca6.com:443/sw.js",
+"userAgent":"https://cdn.jsdelivr.net/npm/@swarmcloud/hls/hls-proxy.js"
 
 
  }, {
