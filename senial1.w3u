@@ -73,7 +73,7 @@
          }, {
                     "name": "📶UNIMAS M",
                       "image": "https://telelibree.com/img/unimas.png",
-                                                                             "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8",
+                               "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
  
@@ -214,13 +214,13 @@
 "referer":""
 
   
- 
-    }, {
-                    "name": "TLC ECU",
+     },
+                {
+                    "name": "📶TLC",
                     "image": "",
-                    "url": "http://38.134.250.110:8000/play/a00n/index.m3u8?hls",             
-               "r
-
+                                                     "url": "http://38.134.250.110:8000/play/a00n/index.m3u8?hls",
+"userAgent":""
+  
 
 
        },
