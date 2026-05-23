@@ -194,7 +194,7 @@
                 {
                     "name": "📶HISTORY CH 1",
                     "image": "https://www.telegratishd.com/imge/history.png",
- "url":"http://185.56.109.253/History/playlist.m3u8",
+ "url":"http://181.118.150.27:8000/play/a00i/index.m3u8?hls",
                      "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
                
 
@@ -203,7 +203,7 @@
                 {
                     "name": "📶HISTORY 2",
                     "image": "https://btv.mx/posters/1724890124178.png",
-           "url":"http://185.56.109.253/History2/playlist.m3u8",
+           "url":"http://190.102.120.20:8000/play/a01i/index.m3u8?hls",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
              
  
@@ -401,7 +401,7 @@
   }, {
                     "name": "Depelicula",
                     "image": "https://www.tvporinternet2.com/imge/dpeliculaplus.png",
-                    "url": "http://185.56.109.253/DePelicula/playlist.m3u8",             
+                    "url": "http://181.118.150.27:8000/play/a00e/index.m3u8?hls",             
                "referer":" "
  
 
@@ -409,7 +409,7 @@
  }, {
                     "name": "TELEHIT MX",
                     "image": "https://www.telegratishd.com/imge/telehit.png",
-                                     "url": "http://185.56.109.253/Telehit/playlist.m3u8",
+                                     "url": "http://190.102.120.20:8000/play/a03d/index.m3u8?hls",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
