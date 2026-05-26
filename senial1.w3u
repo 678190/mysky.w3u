@@ -506,8 +506,9 @@
   }, {
                     "name": "BRAVO",
                       "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",
-   "url":"https://tvpass.org/live/BravoEast/sd",
-             "referer":""
+                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=BRAVO",
+"referer":"https://stmify.com/live-tv/usa-network/",
+"embed":true
 
 
 
