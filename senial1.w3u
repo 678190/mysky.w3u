@@ -511,6 +511,17 @@
 "embed":true
 
 
+ }, {
+                    "name": "UFC",
+                      "image": "",
+                        "url": "https://cdn.stmify.com/tubi/embed/ufc",
+"referer":"https://stmify.com/live-tv/usa-network/",
+"embed":true
+
+
+
+
+
 
 
   }, {
