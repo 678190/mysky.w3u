@@ -482,8 +482,8 @@
       }, {
                     "name": "DISCOVERY TLC",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=TLC",
-"referer":"https://stmify.com/live-tv/usa-network/",
+                        "url": "https://cdn.stmify.com/mytvnet/embed/tlc",
+"referer":"https://cdn.stmify.com/mytvnet/live-tv/tlc",
 "embed":true
 
      
@@ -514,8 +514,8 @@
  }, {
                     "name": "UFC1",
                       "image": "",
-                        "url": "https://cdn.stmify.com/cignal/embed/history-hd",
-"referer":"https://cdn.stmify.com/cignal/live-tv/history-hd",
+                        "url": "https://cdn.stmify.com/embed-free/v1/nbc-sports-philadelphia-us-jw",
+"referer":"https://stmify.com/live-tv/nbc-sports-philadelphia/",
 "embed":true
 
 
