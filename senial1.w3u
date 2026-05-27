@@ -505,19 +505,6 @@
 
 
 
- }, {
-                    "name": "UFC2",
-                      "image": "",
-                        "url": "https://cdn.stmify.com/embed-free/v1/ufc-tv-us-jw",
-"referer":"https://stmify.com/live-tv/ufc-tv/",
-"embed":true
-
-
-
-
-
-
-
   }, {
                     "name": "CINEMAX ENGLISH 1",
             "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png",
@@ -590,12 +577,21 @@
 
  }, {
 
-                  "name": "NFL",
-                      "image": "",
-                "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=104_",
-"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+                  "name": "UFC ",
+                      "image": "https://stmify.com/wp-content/uploads/2025/11/634-s.webp",
+                        "url": "https://cdn.stmify.com/embed-free/v1/ufc-tv-us-jw",
+"referer":"https://stmify.com/live-tv/ufc-tv/",
+"embed":true
 
 
+
+ }, {
+
+                  "name": "WWE",
+                      "image": "https://stmify.com/wp-content/uploads/2025/02/266-s.webp",
+                        "url": "https://cdn.stmify.com/embed-free/v1/wwe-us-jw",
+"referer":"https://stmify.com/live-tv/wwe-network/",
+"embed":true
 
 
        
