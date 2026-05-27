@@ -464,8 +464,8 @@
 
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
-                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=HISTORY",
-"referer":"https://stmify.com/live-tv/usa-network/",
+                         "url": "https://cdn.stmify.com/cignal/embed/history-hd",
+"referer":"https://cdn.stmify.com/cignal/live-tv/history-hd",
 "embed":true
 
 
@@ -585,16 +585,7 @@
 
 
 
- }, {
 
-                  "name": "WWE",
-                      "image": "https://stmify.com/wp-content/uploads/2025/02/266-s.webp",
-                        "url": "https://cdn.stmify.com/embed-free/v1/wwe-us-jw",
-"referer":"https://stmify.com/live-tv/wwe-network/",
-"embed":true
-
-
-       
 
 
       }
