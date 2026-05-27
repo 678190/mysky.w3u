@@ -483,7 +483,7 @@
                     "name": "DISCOVERY TLC",
                       "image": "https://btv.mx/posters/1724209016471.png",
                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=TLC",
-"referer":"https://stmify.com/live-tv/usa-network/",
+"referer":"https://stmify.com/live-tv/tlc/",
 "embed":true
 
      
@@ -491,7 +491,7 @@
                     "name": "HGTV ENGLISH1",
                       "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=HGTV",
-"referer":"https://stmify.com/live-tv/usa-network/",
+"referer":"https://stmify.com/live-tv/hgtv/",
 "embed":true
 
 
@@ -508,7 +508,7 @@
  }, {
                     "name": "UFC2",
                       "image": "",
-                        "url": "//cdn.stmify.com/embed/v1/ufc-tv-us-jw",
+                        "url": "https://cdn.stmify.com/embed-free/v1/ufc-tv-us-jw",
 "referer":"https://stmify.com/live-tv/ufc-tv/",
 "embed":true
 
