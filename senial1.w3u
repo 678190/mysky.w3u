@@ -482,8 +482,8 @@
       }, {
                     "name": "DISCOVERY TLC",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "https://cdn.stmify.com/mytvnet/embed/tlc",
-"referer":"https://cdn.stmify.com/mytvnet/live-tv/tlc",
+                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=TLC",
+"referer":"https://stmify.com/live-tv/usa-network/",
 "embed":true
 
      
