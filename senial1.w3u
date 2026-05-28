@@ -246,8 +246,8 @@
  }, {
                   "name": "FOX SPORT 00  ",
                     "image": "https://btv.mx/posters/1724884284139.png",
-         "url":"http://cdn.stmify.com/embed-free/v1/fox-spores-2-mx-jw",
-"referer":"https://stmify.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstmify.com%2Flive-tv%2Fxtrm%2F",
+                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=XTRM",
+"referer":"https://stmify.com/live-tv/usa-network/",
 "embed":true
 
 
