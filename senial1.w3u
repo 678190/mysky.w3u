@@ -577,10 +577,10 @@
 
  }, {
 
-                  "name": "UFC ",
+                  "name": "UFC TUBI",
                       "image": "https://stmify.com/wp-content/uploads/2025/11/634-s.webp",
-                        "url": "https://cdn.stmify.com/embed-free/v1/ufc-tv-us-jw",
-"referer":"https://stmify.com/live-tv/ufc-tv/",
+                        "url": "https://cdn.stmify.com/tubi/embed/ufc",
+"referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
 "embed":true
 
 
