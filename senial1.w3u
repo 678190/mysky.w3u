@@ -214,7 +214,16 @@
                              "url": "http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8", 
 "referer":""
 
-  
+
+                    },
+                {
+                    "name": "📶HGTV",
+                    "image": "",
+                             "url": "http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8", 
+"referer":""
+
+
+
 
 
 
