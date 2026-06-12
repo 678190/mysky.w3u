@@ -575,10 +575,11 @@
 
  }, {
 
-                  "name": "NFL NEW CHANNEL",
+                  "name": "NFL NEW CHANNEL11",
                       "image": "",
-                         "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-"userAgent":""
+                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=WWE",
+"referer":"https://stmify.com/live-tv/wwe-network/",
+"embed":true
 
 
 
