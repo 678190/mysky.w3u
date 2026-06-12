@@ -573,6 +573,13 @@
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 
+ }, {
+
+                  "name": "NFL NEW CHANNEL",
+                      "image": "",
+                         "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
+"userAgent":""
+
 
 
 
