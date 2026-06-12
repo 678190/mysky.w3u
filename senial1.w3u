@@ -152,8 +152,9 @@
                 {
                                      
                "name": "📶ANTENA 3",
-                    "image": "https://cdn.stmify.com/izzigo/embed/antena-3-internacional",
-  "url":"https://cdn.stmify.com/izzigo/live-tv/antena-3-internacional",
+                    "image": "https://cdn.stmify.com/izzigo/assets/img/channels/Antena_3_ES.svg",
+  "url":"https://cdn.stmify.com/izzigo/embed/antena-3-internacional",
+"referer":"https://cdn.stmify.com/izzigo/live-tv/antena-3-internacional",
  "embed":true
    
 
