@@ -37,7 +37,7 @@
        }, {
                     "name": "TUDN .. STREAM 11",
                       "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
-  "url":"https://streamvidex.qzz.io/videx/vix4/index.m3u8",
+  "url":"http://201.151.118.136:8000/play/a00g/index.m3u8",
                      "referer":"https://resources.blogblog.com/blogblog/data/res/2395151956-indie_compiled.js"
                
                          
@@ -63,7 +63,7 @@
      }, {
                     "name": "TELEMUNDO USA",
                       "image": "https://btv.mx/posters/1720843598393.png",
-  "url":"https://bolaloca.my/player/1/73",
+  "url":"https://bolaloca.my/player/2/73",
                      "referer":"https://frontillano.blogspot.com/2026/06/test.html"
                             
 
