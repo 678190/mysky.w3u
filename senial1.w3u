@@ -605,6 +605,15 @@
 "referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
 "embed":true
 
+ }, {
+
+                  "name": "TEST 2026",
+                      "image": "",
+                        "url": "https://cdn.stmify.com/tubi/embed/ufc",
+"referer":"https://vix.com/es-es/canales/noticias/channel-callsign-Local_Noticias_Univision_24_7_Los_Angeles",
+"referer":"https://w3.mp.lura.live/lura-player/web/4.0.29/lura-player.js",
+"embed":true
+
 
 
 
