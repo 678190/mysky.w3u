@@ -607,11 +607,11 @@
 
  }, {
 
-                  "name": "TEST 203",
+                  "name": "TEST 204",
                       "image": "",
                         "url": "https://vix.com/es-es/canales/noticias/channel-callsign-Local_Noticias_Univision_24_7_Los_Angeles",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-"referer":"Google Chrome;v=149, Chromium;v=149, Not)A;Brand;v=24",
+"referer":"Firefox[/\s](\d+\.\d+)/);return Array.isArray(e)&&e.length>=2?+e[1]:0})(),f=Date.now()-(0,n.t)(),h=()=>",
 "embed":true
 
 
