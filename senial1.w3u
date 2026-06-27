@@ -22,7 +22,7 @@
     }, {
                     "name": "📶TUDN USA 2025",
                       "image": "https://btv.mx/posters/1724886491294.png",
-              "url": "http://201.151.118.136:8000/play/a00g/index.m3u8",
+              "url": "http://190.61.101.11:7050/play/a04m/index.m3u8?hls",
 "referer":"",
 "userAgent":""
     
@@ -37,7 +37,7 @@
        }, {
                     "name": "TUDN .. STREAM 11",
                       "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
-  "url":"http://201.151.118.136:8000/play/a00g/index.m3u8",
+  "url":"https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/68.m3u8",
                      "referer":""
                
                          
@@ -47,7 +47,7 @@
        }, {
                     "name": "TELEMUNDO51",
                       "image": "https://www.tvplusgratis2.com/imge/telemundo51.webp",
-                                                     "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
+                                                     "url": "https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/73.m3u8",
 "userAgent":""
                   
 
@@ -56,7 +56,7 @@
                  }, {
                     "name": "📶UNIVERSO LATINO",
                       "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
-            "url":"https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/73.m3u8",
+            "url":"https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/72.m3u8",
  "EMBED":true
 
                      
@@ -176,7 +176,7 @@
                 {
                     "name": "📶NATIONAL G. 2",
                     "image": "https://www.telegratishd.com/imge/natgeo.webp",
-   "url":"http://181.118.153.15:8000/play/tb45/index.m3u8?hls",
+   "url":"http://181.119.108.43:9001/play/a05w/index.m3u8",
                      "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
                
 
@@ -240,7 +240,7 @@
                 {
                     "name": "📶TLC",
                     "image": "https://www.tvporinternet2.com/imge/discoverytlc.png",
-                                                     "url": "http://38.134.250.110:8000/play/a00n/index.m3u8?hls",
+                                                     "url": "http://45.5.117.3:4000/play/a053/index.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
