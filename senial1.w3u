@@ -240,7 +240,7 @@
                 {
                     "name": "📶TLC",
                     "image": "https://www.tvporinternet2.com/imge/discoverytlc.png",
-                        "url": "https://000963.videx.lol/daddy2/337/index.m3u8",
+                        "url": "http://45.5.117.3:4000/play/a053/index.m3u8",
 "referer":"https://dlhd.st/watch.php?id=343"
 
 
@@ -478,11 +478,10 @@
 
 
       }, {
-                    "name": "DISCOVERY TLC",
+                    "name": "DISCOVERY TLC ENG",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=TLC",
-"referer":"https://stmify.com/live-tv/tlc/",
-"embed":true
+                        "url": "https://000963.videx.lol/daddy2/337/index.m3u8",
+"referer":"https://dlhd.st/watch.php?id=343"
 
      
       }, {
