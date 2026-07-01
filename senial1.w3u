@@ -466,21 +466,16 @@
 "embed":true
 
 
-   }, {
 
-                  "name": "DISCOVERY ID",
-                      "image": "https://btv.mx/posters/1724891395400.png",
-               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/92",
-"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
-    
 
 
 
       }, {
-                    "name": "DISCOVERY TLC ENG",
+                    "name": "DISCOVERY TLC ENG my tv",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "https://000963.videx.lol/daddy2/337/index.m3u8",
-"referer":"https://dlhd.st/watch.php?id=343"
+                        "url": "https://cdn.stmify.com/mytvnet/embed/tlc",
+"referer":"https://cdn.stmify.com/mytvnet/live-tv/tlc",
+"embed":true
 
      
       }, {
