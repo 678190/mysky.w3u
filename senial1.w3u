@@ -471,10 +471,10 @@
 
 
       }, {
-                    "name": "DISCOVERY TLC ENG my tv",
+                    "name": "DISCOVERY TLC TELIA TV",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "https://cdn.stmify.com/mytvnet/embed/tlc",
-"referer":"https://cdn.stmify.com/mytvnet/live-tv/tlc",
+                        "url": "https://cdn.stmify.com/teliatv/embed/tlc",
+"referer":"https://cdn.stmify.com/teliatv/live-tv/tlc",
 "embed":true
 
      
