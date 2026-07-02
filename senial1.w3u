@@ -553,6 +553,13 @@
 
 
 
+ }, {
+
+                  "name": "NFL NETWORK",
+                      "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NFL._SL500_FMpng_.png",
+               "url": "https://cdn.stmify.com/primevideo/embed/nfl-channel",
+              "userAgent":"https://cdn.stmify.com/primevideo/live-tv/nfl-channel",
+              "embed":true
 
 
  
