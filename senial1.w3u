@@ -396,7 +396,7 @@
                
                             
   }, {
-                    "name": "Depelicula",
+                    "name": "Depelicula1",
                     "image": "https://www.tvporinternet2.com/imge/dpeliculaplus.png",
                     "url": "http://190.102.120.20:8000/play/a037/index.m3u8?hls",             
                "referer":" "
@@ -420,7 +420,7 @@
  }, {
                     "name": "BANDA MAX SDMX",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                                                          "url": "http://181.118.153.15:8000/play/ui91/index.m3u8?hls",
+                                                          "url": "http://190.102.120.20:8000/play/a03f/index.m3u8?hls",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
  
 
