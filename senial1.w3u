@@ -630,11 +630,11 @@
 
  }, {
 
-                  "name": "TEST embed",
+                  "name": "TES111",
                       "image": "",
                         "url": "https://inproviszon.st/usanetwork-usa.m3u8",
-"data-mpd-key":"https://s10.histats.com/js15_as.js",
-"data-mpd-id":""
+"referer":"https://s10.histats.com/js15_as.js"
+
 
 
 
