@@ -445,8 +445,8 @@
 
                   "name": "USA NETWEST03",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://vileembeds.pages.dev/embed/usanetwork-usa?channel=&autostart=true",
-"referer":"https://s10.histats.com/js15_as.js"
+                        "url": "https://000963.videx.lol/daddy3/343/index.m3u8",
+"referer":"https://dlhd.st/watch/stream-343.php"
 
 
 
@@ -623,16 +623,10 @@
                   "name": "UFC TUBI",
                       "image": "https://stmify.com/wp-content/uploads/2025/11/634-s.webp",
                         "url": "https://cdn.stmify.com/tubi/embed/ufc",
-"data-mpd-key":"https://cdn.stmify.com/tubi/live-tv/ufc",
+"referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
 "embed":true
 
 
- }, {
-
-                  "name": "TEst0101",
-                      "image": "",
-                        "url": "https://ss.domain77654422122.sbs/global/telemundo/tracks-v1a1/mono.m3u8",
-"referer":"http://videx/telemundo/sub/"
 
 
 
