@@ -438,9 +438,9 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWEST..",
+                  "name": "USA NETWEST",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://000963.videx.lol/daddy1/343/index.m3u8?RESOLUTION=480px720p",
+                        "url": "https://000963.videx.lol/daddy1/343/index.m3u8?RESOLUTION=360x480",
 "referer":""
 
 
