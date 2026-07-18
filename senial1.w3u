@@ -438,10 +438,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWEST03",
+                  "name": "USA NETWEST00",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://000963.videx.lol/daddy1/343/index.m3u8",
-"referer":"https://dlhd.st/stream/stream-343.php"
+                        "url": "http://138.121.15.230:9002/USA/index.m3u8?RESOLUTION=720x1080",
+"referer":""
 
 
 
