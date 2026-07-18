@@ -132,7 +132,7 @@
                                      
                "name": "📶AZTECA 7 MEX01",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-  "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?hls",
+  "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?RESOLUTION=480x720",
  "referer":""
    
 
@@ -144,7 +144,7 @@
                                      
                "name": "📶DISTRITO COMEDIA",
                     "image": "https://btv.mx/posters/1724209263135.png",
-                                                     "url": "http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8",
+                                                     "url": "http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8?RESOLUTION=480x720",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
 
 
@@ -417,9 +417,9 @@
 
 
  }, {
-                    "name": "BANDA MAX SDMX",
+                    "name": "BANDA MAX RESOLUTION",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                                                          "url": "http://190.61.101.11:7050/play/a04n/index.m3u8?hls",
+                                                          "url": "http://190.61.101.11:7050/play/a04n/index.m3u8?RESOLUTION=480x720",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
  
 
