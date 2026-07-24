@@ -64,7 +64,7 @@
      }, {
                     "name": "TELEMUNDO USA 11",
                       "image": "https://btv.mx/posters/1720843598393.png",
-  "url":"https://videxlol.ultraflixapp.workers.dev/929292993939939393020200120938384848748488393939999/73.m3u8",
+  "url":"http://177.10.184.193:8000/play/a0hp/index.m3u8",
                      "referer":""
                             
 
@@ -155,7 +155,7 @@
                                      
                "name": "📶CARTOON NW",
                     "image": "https://btv.mx/posters/1720836379577.png",
-                                                          "url": "http://45.190.184.79:5800/play/a014/index.m3u8?hls",
+                                                          "url": "http://177.10.184.193:8000/play/a0eq/index.m3u8",
 "userAgent":""
 
  
@@ -342,7 +342,7 @@
    }, {
                   "name": "CINE PREMIUM",
                     "image": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
-                  "url": "http://201.77.60.62:8002/play/a0nk/index.m3u8?hls",
+                  "url": "http://177.10.184.193:8000/play/a0a3/index.m3u8",
 "referer":""
 
 
