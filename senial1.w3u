@@ -624,6 +624,34 @@
 
 
 
+  
+ 
+     }
+         ]
+      },
+      { 
+         "name": "USA TV",
+         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
+         "stations": [ 
+            { 
+
+                  "name": "USA NETWEST",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+                        "url": "http://40.160.24.55/USA_NETWORK/index.m3u8",
+"referer":""
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -640,24 +668,6 @@
                     "url": "https://tubitv.com/espanol",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
-
-
-
-{
-                                  "name": "📶ENGLISH MOVIE 2 ",
-                    "image": "https://www.lookmovie2.to/images/logo1.webp",
-                    "url":"https://www.lookmovie2.to/movies/page/41?tr_uuid=20260814-0528-1204-8f05-6b7077fa175b&fp=-7",
-"embed":true
-
-
-
-
-  
-
-
-
-
-
 
 
 
