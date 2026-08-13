@@ -57,15 +57,17 @@
                  }, {
                     "name": "📶UNIVERSO LATINO",
                       "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
-            "url":"https://bolaloca.my/player/3/72",
- "referer":"https://bolaloca.my/player/3/72"
+            "url":"https://cdn.stmify.com/peacock/embed/universo-east",
+ "referer":"https://cdn.stmify.com/peacock/live-tv/universo-east",
+"embed":true
 
                      
      }, {
-                    "name": "TELEMUNDO USA 11",
+                    "name": "TELEMUNDO CHICAGO",
                       "image": "https://btv.mx/posters/1720843598393.png",
-  "url":"https://bolaloca.my/player/3/73",
-                     "referer":"https://bolaloca.my/player/3/73"
+  "url":"https://cdn.stmify.com/peacock/embed/telemundo-chicago",
+                     "referer":"https://cdn.stmify.com/peacock/embed/telemundo-chicago",
+"embed":true
                             
 
 
@@ -477,12 +479,7 @@
 "embed":true
 
      
-      }, {
-                    "name": "HGTV ENGLISH1",
-                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
-                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=HGTV",
-"referer":"https://stmify.com/live-tv/hgtv/",
-"embed":true
+ 
 
 
   }, {
@@ -506,8 +503,9 @@
   }, {
                     "name": "HBO ENGLISH",
                    "image": "https://btv.mx/posters/1724852501490.png",
-  "url":"http://23.237.104.106:8080/USA_HBO2/index.m3u8",
-             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+  "url":"https://cdn.stmify.com/primevideo/embed/hbo-2",
+             "referer":"https://cdn.stmify.com/primevideo/live-tv/hbo-2",
+"embed":true
  
 
  }, {
@@ -518,10 +516,11 @@
 
  
  }, {
-                    "name": "SHOW TIME MOVIES",
-                   "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",
-  "url":"http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
-             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+                    "name": "MIRAMAX MOVIES",
+                   "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png",
+  "url":"https://cdn.stmify.com/primevideo/embed/miramax-movie-channel",
+             "referer":"https://cdn.stmify.com/primevideo/live-tv/miramax-movie-channel",
+"embed":true
 
 
   }, {
