@@ -625,27 +625,6 @@
 
 
   
- 
-     }
-         ]
-      },
-      { 
-         "name": "ENGLISH MOVIES",
-         "image": "https://www.lookmovie2.to/images/logo1.webp",
-         "stations": [ 
-            { 
-
-                  "name": "LIVE MOVIES",
-                      "image": "https://www.lookmovie2.to/images/logo1.webp",
-                        "url": "https://www.lookmovie2.to/movies/page/41?tr_uuid=20260814-0528-1204-8f05-6b7077fa175b&fp=-7",
-"embed":true
-
-
-
-
-
-
-
 
 
 
@@ -668,6 +647,17 @@
                     "url": "https://tubitv.com/espanol",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 "embed":true
+
+
+
+ }, {
+
+                  "name": "ENGLISH MOVIES",
+                      "image": "https://www.lookmovie2.to/images/logo1.webp",
+                        "url": "https://www.lookmovie2.to/movies/page/41?tr_uuid=20260814-0528-1204-8f05-6b7077fa175b&fp=-7",
+"referer":"",
+"embed":true
+
 
 
 
