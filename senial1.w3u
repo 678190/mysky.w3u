@@ -122,9 +122,9 @@
 	 	        },
                 {
                                      
-               "name": "📶CANAL 5 LAT 1",
+               "name": "📶CANAL 5 LAT..",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-  "url":"http://190.61.101.11:7050/play/a098/index.m3u8?hls"
+  "url":"http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8"
         
 
 
