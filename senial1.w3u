@@ -440,10 +440,11 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWEST22",
+                  "name": "USA NETWEST33",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://xameleon.phantemlis.top/one/secure/70c757e3f8bf8b9b6a6a3296da61f55f/1787085576/premium343/tracks-v1a1/mono.m3u8",
-"referer":"https://hamis.romponalis.st/"
+                        "url": "https://dlstreams.st/stream/stream-343.php",
+"referer":"https://hamis.romponalis.st/",
+"UserAgent":"Not=A?Brand;v=99, Google Chrome;v=151, Chromium;v=151"
 
 
 
