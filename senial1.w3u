@@ -440,10 +440,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWEST",
+                  "name": "USA NETWEST11",
                       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
-                        "url": "https://livestreamlinks.net/en/live-tv/united-states/telemundo",
-"embed":true
+                        "url": "https://hamis.romponalis.st/premiumtv/daddy.php?id=343",
+"referer":"https://dlstreams.st/watch.php?id=343"
 
 
 
