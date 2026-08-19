@@ -441,7 +441,7 @@
             { 
 
                   "name": "USA NETWEST44",
-                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+                      "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/pag-1.html",
 "referer":"https://dlstreams.st/watch.php?id=343",
 "UserAgent":"Not=A?Brand;v=99, Google Chrome;v=151, Chromium;v=151"
@@ -588,7 +588,7 @@
  }, {
 
                   "name": "DISNEY XD",
-                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
+                      "image": "https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-xd.png",
                          "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
 "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
