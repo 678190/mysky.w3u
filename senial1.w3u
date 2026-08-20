@@ -601,6 +601,13 @@
               "referer":"https://cdn.stmify.com/primevideo/live-tv/nfl-channel",
               "embed":true
 
+ }, {
+
+                  "name": "NBC SPORT PHILADELPHIA",
+                      "image": "https://images.fubo.tv/station_logos/nbc-sports-philadelphia_m.png",
+               "url": "https://cdn.stmify.com/peacock/embed/nbc-sports-philadelphia",
+              "referer":"https://cdn.stmify.com/peacock/live-tv/nbc-sports-philadelphia",
+              "embed":true
 
  
 
@@ -617,6 +624,35 @@
 
                   "name": "UFC TUBI",
                       "image": "https://stmify.com/wp-content/uploads/2025/11/634-s.webp",
+                        "url": "https://cdn.stmify.com/tubi/embed/ufc",
+"referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
+"embed":true
+
+
+ }, {
+
+                  "name": "MLB",
+                      "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MLB_Network_US_16x9._SL500_FMpng_.png",
+                        "url": "https://cdn.stmify.com/primevideo/embed/mlb",
+"referer":"https://cdn.stmify.com/primevideo/live-tv/mlb",
+"embed":true
+
+
+ }, {
+
+                  "name": "TOP GEAR",
+                      "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MLB_Network_US_16x9._SL500_FMpng_.png",
+                        "url": "https://cdn.stmify.com/peacock/embed/top-gear",
+"referer":"https://cdn.stmify.com/peacock/live-tv/top-gear",
+"embed":true
+
+
+
+
+ }, {
+
+                  "name": "HBO BOXING",
+                      "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png",
                         "url": "https://cdn.stmify.com/tubi/embed/ufc",
 "referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
 "embed":true
