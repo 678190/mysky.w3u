@@ -156,10 +156,29 @@
                                      
                "name": "📶CARTOON NW",
                     "image": "https://btv.mx/posters/1720836379577.png",
-                                                          "url": "http://177.10.184.193:8000/play/a0eq/index.m3u8",
+                                                          "url": "http://181.119.108.43:9001/play/a0dr/index.m3u8?hls",
 "userAgent":""
 
- 
+
+ }, {
+                    "name": "TOON CAST",
+                    "image": "",
+                    "url": "http://181.119.108.43:9001/play/a0e5/index.m3u8?hls",             
+               "referer":""
+
+
+ }, {
+                    "name": "ANTENA 7",
+                    "image": "",
+                    "url": "http://181.119.108.43:9001/play/a05f/index.m3u8?hls",             
+               "referer":""
+
+ }, {
+                    "name": "A3 CINE",
+                    "image": "",
+                    "url": "http://181.119.108.43:9001/play/a04z/index.m3u8?hls",             
+               "referer":""
+
 
 
                       },
@@ -214,6 +233,12 @@
 "referer":""
 
 
+                  },
+                {
+                    "name": "📶DISCOVERY TURBO",
+                    "image": "",
+                             "url": "http://181.119.108.43:9001/play/a0od/index.m3u8?hls", 
+"referer":""
 
 
 
@@ -377,11 +402,11 @@
      
                  
  }, {
-                    "name": "WESTERN",
-                    "image": "https://m.media-amazon.com/images/X/lsmP/M/XlsmPx2m-bjpcDI._SL500_FMpng_.png",
-                    "url": "https://cdn.stmify.com/primevideo/embed/amc-westrern",             
-               "referer":"https://cdn.stmify.com/primevideo/live-tv/amc-westrern",
-               "embed":true
+                    "name": "STAR CHANNEL",
+                    "image": "",
+                    "url": "http://181.119.108.43:9001/play/a0e5/index.m3u8?hls",             
+               "referer":""
+           
  
 
  }, {
