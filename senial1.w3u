@@ -47,7 +47,7 @@
        }, {
                     "name": "TELEMUNDO51",
                       "image": "https://www.tvplusgratis2.com/imge/telemundo51.webp",
-                                                     "url": "http://170.254.17.2/TELEMUNDO/index.m3u8",
+                                                     "url": "http://181.119.108.43:9001/play/a0qa/index.m3u8?hls",
 "referer":""
 
                   
@@ -65,7 +65,7 @@
      }, {
                     "name": "TELEMUNDO MIAMI",
                       "image": "https://btv.mx/posters/1720843598393.png",
-  "url":"http://181.119.108.43:9001/play/a0qa/index.m3u8?hls",
+  "url":"http://170.254.17.2/TELEMUNDO/index.m3u8",
                      "referer":""
 
                             
