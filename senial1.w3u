@@ -224,7 +224,7 @@
                     },
                 {
                     "name": "📶HGTV NEW CHANNEL",
-                    "image": "",
+                    "image": "https://i.ibb.co/gbtDnLhS/hgtv-jpg.jpg",
                              "url": "http://181.118.153.15:8000/play/cs59/index.m3u8?hls", 
 "referer":""
 
@@ -267,7 +267,7 @@
 
     }, {
                   "name": "SKYSPOT LA LIGA",
-                    "image": "",
+                    "image": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
   "url":"http://190.61.101.11:7050/play/a04g/index.m3u8?hls",
  "referer":""
 
@@ -399,7 +399,7 @@
                  
  }, {
                     "name": "STAR CHANNEL",
-                    "image": "",
+                    "image": "https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png",
                     "url": "http://181.119.108.43:9001/play/a0e5/index.m3u8?hls",             
                "referer":""
            
@@ -407,7 +407,7 @@
 
  }, {
                     "name": "AMC",
-                    "image": "",
+                    "image": "https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg",
                     "url": "http://190.61.101.11:7050/play/a07z/index.m3u8?hls",             
                "referer":""
          
