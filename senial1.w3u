@@ -58,7 +58,7 @@
                     "name": "📶UNIVERSO LATINO WEST",
                       "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
             "url":"https://frontillano.blogspot.com/p/univeshoo.html",
- "referer":"https://dlstreams.st/watch.php?id=845"
+ "referer":"https://telelibrefull.icu/en-vivo/stream-845.php"
 
 
                      
@@ -162,20 +162,16 @@
 
  }, {
                     "name": "TOON CAST",
-                    "image": "",
+                    "image": "https://www.telegratis2.com/imge/tooncast.webp",
                     "url": "http://181.119.108.43:9001/play/a0e5/index.m3u8?hls",             
                "referer":""
 
 
- }, {
-                    "name": "ANTENA 7",
-                    "image": "",
-                    "url": "http://181.119.108.43:9001/play/a05f/index.m3u8?hls",             
-               "referer":""
+
 
  }, {
                     "name": "A3 CINE",
-                    "image": "",
+                    "image": "https://televenmax.com.ve/images/channels/zip/a3-cine.png",
                     "url": "http://181.119.108.43:9001/play/a04z/index.m3u8?hls",             
                "referer":""
 
@@ -236,7 +232,7 @@
                   },
                 {
                     "name": "📶DISCOVERY TURBO",
-                    "image": "",
+                    "image": "https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png",
                              "url": "http://181.119.108.43:9001/play/a0od/index.m3u8?hls", 
 "referer":""
 
