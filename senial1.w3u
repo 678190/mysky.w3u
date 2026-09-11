@@ -151,19 +151,13 @@
 
 
 
- 	        },
-                {
-                                     
-               "name": "📶CARTOON NW",
-                    "image": "https://btv.mx/posters/1720836379577.png",
-                                                          "url": "http://181.119.108.43:9001/play/a0dr/index.m3u8?hls",
-"userAgent":""
+ 	
 
 
  }, {
                     "name": "TOON CAST",
                     "image": "https://www.telegratis2.com/imge/tooncast.webp",
-                    "url": "http://181.119.108.43:9001/play/a0e5/index.m3u8?hls",             
+                    "url": "http://190.61.101.11:7050/play/a08d/index.m3u8?hls",             
                "referer":""
 
 
