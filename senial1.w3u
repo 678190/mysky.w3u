@@ -123,7 +123,7 @@
                                      
                "name": "📶CANAL 5 LAT..",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-  "url":"http://177.10.184.193:8000/play/a0ej/index.m3u8"
+  "url":"http://190.61.101.11:7050/play/a098/index.m3u8?hls"
         
 
 
@@ -169,19 +169,12 @@
 
 
 
- }, {
-                    "name": "A3 CINE",
-                    "image": "https://televenmax.com.ve/images/channels/zip/a3-cine.png",
-                    "url": "http://181.119.108.43:9001/play/a04z/index.m3u8?hls",             
-               "referer":""
-
-
 
                       },
                 {
                     "name": "📶NATIONAL G. 2",
                     "image": "https://www.telegratishd.com/imge/natgeo.webp",
-   "url":"http://181.119.108.43:9001/play/a05w/index.m3u8",
+   "url":"http://190.61.101.11:7050/play/a05f/index.m3u8?hls",
                      "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
                
 
@@ -233,7 +226,7 @@
                 {
                     "name": "📶DISCOVERY TURBO",
                     "image": "https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png",
-                             "url": "http://181.119.108.43:9001/play/a0od/index.m3u8?hls", 
+                             "url": "http://190.61.101.11:7050/play/a061/index.m3u8?hls", 
 "referer":""
 
 
@@ -360,11 +353,6 @@
 
 	 
  
-   }, {
-                  "name": "CINE PREMIUM",
-                    "image": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
-                  "url": "http://177.10.184.193:8000/play/a0a3/index.m3u8",
-"referer":""
 
 
    }, {
