@@ -600,10 +600,10 @@
 
  }, {
 
-                  "name": "NBC SPORT PHILADELPHIA",
+                  "name": "NBC SPORT PHILADELPHIA1",
                       "image": "https://images.fubo.tv/station_logos/nbc-sports-philadelphia_m.png",
-               "url": "https://cdn.stmify.com/peacock/embed/nbc-sports-philadelphia",
-              "referer":"https://cdn.stmify.com/peacock/live-tv/nbc-sports-philadelphia",
+               "url": "https://cdn.stmify.com/primevideo/embed/nbc-sports-philadelphia",
+              "referer":"https://cdn.stmify.com/primevideo/live-tv/",
               "embed":true
 
  
