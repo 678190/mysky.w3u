@@ -664,10 +664,10 @@
   
  }, {
 
-                  "name": "TEST",
-                      "image": "https://stmify.com/wp-content/uploads/2025/02/266-s.webp",
-                        "url": "https://therokuchannel.roku.com/watch/42523afdfa3a0230d7268a238df5ef65",
-"UserAgent":"Google Chrome;v=153, Not_A Brand;v=8, Chromium;v=153",
+                  "name": "TEST1",
+                      "image": "https://therokuchannel.roku.com/s/1789418208814/index/page.js",
+                        "url": "https://therokuchannel.roku.com/browse/w.xWvaD8v8B1HPbvLeY9pWCq4VZGGwoktG5NA1w1WgCVYNBL8D2M/live-tv",
+"referer":"https://therokuchannel.roku.com/s/1789418208814/index/page.js",
 "embed":true
 
 
