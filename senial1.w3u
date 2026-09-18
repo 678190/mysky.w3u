@@ -195,7 +195,7 @@
                 {
                     "name": "📶CSI SERIES",
                     "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png?format=webp&trim=true",
-                             "url": "http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8", 
+                             "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8", 
 "referer":""
              
  
@@ -360,7 +360,13 @@
 
 
 
-
+                },
+                {
+                    "name": "📶CINE TERROR",
+                    "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png?format=webp&trim=true",
+                             "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8", 
+"referer":""
+            
 
 
 
@@ -668,8 +674,8 @@
 
                   "name": "VEVO MTV",
                       "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png?format=webp&trim=true",
-                        "url": "https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8",
-"referer":""
+                        "url": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8",
+"referer":"https://pluto.tv/us/watch/live-tv/category/music-videos/#31774"
 
 
  }, {
