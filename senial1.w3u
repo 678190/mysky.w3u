@@ -577,6 +577,30 @@
               "embed":true
 
 
+ }, {
+
+                  "name": "TERROR PLU",
+                      "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png?format=webp&trim=true",
+               "url": "https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8",
+              "referer":""
+
+
+}, {
+
+                  "name": "TERROR PLUTO 2",
+                      "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png?format=webp&trim=true",
+               "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8",
+              "referer":""
+           
+
+}, {
+
+                  "name": "POLICE",
+                      "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png?format=webp&trim=true",
+               "url": "https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8",
+              "referer":""
+           
+
 
 
 
