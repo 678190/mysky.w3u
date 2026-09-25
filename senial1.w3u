@@ -521,8 +521,8 @@
  }, {
                     "name": "FXX",
                    "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",
-  "url":"https://frontillano.blogspot.com/p/cinecito-fxx.html",
-             "referer":"https://dlive.sx/watch.php?id=298"
+  "url":"https://frontillano.blogspot.com/p/movies-fxx.html",
+             "referer":"https://tvnow247.top/watch/fxx-usa/"
 
  
  }, {
@@ -536,8 +536,8 @@
   }, {
                     "name": "HBO FAMILY",
                    "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
-  "url":"http://23.237.104.106:8080/USA_HBO/index.m3u8",
-             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+  "url":"https://frontillano.blogspot.com/p/movies-hbo-fam.html",
+             "referer":"https://tvnow247.top/watch/hbo-family-usa/"
 
 
  }, {
@@ -630,9 +630,9 @@
 
                   "name": "NFL NETWORK",
                       "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NFL._SL500_FMpng_.png",
-               "url": "https://cdn.stmify.com/primevideo/embed/nfl-channel",
-              "referer":"https://cdn.stmify.com/primevideo/live-tv/nfl-channel",
-              "embed":true
+               "url": "https://frontillano.blogspot.com/p/sport-nfl.html",
+              "referer":"https://frontillano.blogspot.com/p/sport-nfl.html"
+            
 
  }, {
 
