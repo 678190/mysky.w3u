@@ -28,10 +28,10 @@
     
 
         }, {
-                    "name": "📶ESPN2 MEX011",
+                    "name": "📶ESPN2 MEXEMBED",
                       "image": "https://televenmax.com.ve/images/channels/zip/espn-2.png",
               "url": "https://frontillano.blogspot.com/p/sport-esp2-mex.html",
-"isHost":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
+"EMBED":true
 
            
                          
@@ -464,7 +464,7 @@
                   "name": "USA NETWEST0p",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/univeshoo.html",
-"Host":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
+"isHost":"https://tvnow247.top/watch/usa-network/"
 
 
 
@@ -475,7 +475,7 @@
                   "name": "ENGLISH discovery1",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
                "url": "https://frontillano.blogspot.com/p/covery-disc.html",
-"referer":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
+"EMBED":"https://tvnow247.top/watch/discovery-channel/"
     
 
      
