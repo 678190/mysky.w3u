@@ -59,7 +59,8 @@
                     "name": "TUDN STREAM",
                       "image": "https://static.wikia.nocookie.net/logopedia/images/9/98/Univision_tdn_1.png/revision/latest?cb=20120805063727",
   "url":"https://frontillano.blogspot.com/p/ntude.html",
-                     "referer":"https://tvnow247.top/watch/nbc-universo/"
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
                      
 
@@ -261,8 +262,8 @@
                   "name": "BEIN SPORT44 ",
                     "image": "https://logos.streamsites.eu/3536_beinsports_overview.png",
   "url":"https://frontillano.blogspot.com/p/sport-bein.html",
- "Host":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
-
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
 
     }, {
@@ -465,7 +466,8 @@
                   "name": "USA NETWEST0p",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/univeshoo.html",
-"isHost":"https://tvnow247.top/watch/usa-network/"
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
 
 
@@ -476,8 +478,9 @@
                   "name": "ENGLISH discovery1",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
                "url": "https://frontillano.blogspot.com/p/covery-disc.html",
-"EMBED":"https://tvnow247.top/watch/discovery-channel/"
-    
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
+  
 
      
  }, {
@@ -486,8 +489,8 @@
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
                          "url": "https://frontillano.blogspot.com/p/test_01395507629.html",
-"referer":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
-
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
 
 
@@ -498,7 +501,8 @@
                     "name": "DISCOVERY TLC TELIA TV",
                       "image": "https://btv.mx/posters/1724209016471.png",
                         "url": "https://frontillano.blogspot.com/p/tlc-us.html",
-"referer":"https://tvnow247.top/assets/vendor-CM5GYzo6-mu2yzy48.js"
+"referer":"https://tvnow247.top/",
+ "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
 
      
