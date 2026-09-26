@@ -27,14 +27,15 @@
 "userAgent":""
     
 
-        }, {
-                    "name": "📶ESPN2 LAT4",
-                      "image": "https://televenmax.com.ve/images/channels/zip/espn-2.png",
-              "url": "https://frontillano.blogspot.com/p/sport-esp2-mex.html",
-"referer":"https://pub-ac0ba41ae0e44cc28ac9f38ccf646acb.r2.dev/aclib.js"
 
-
-           
+         }, {
+                    "name": "📶ESPN",
+                      "image": "https://la18hd.su/vivo/canales.php?stream=espn2",
+              "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
+"referer":"https://la18hd.su/",
+"userAgent":""
+    
+      
                          
 
 
