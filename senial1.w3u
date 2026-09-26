@@ -42,8 +42,8 @@
      }, {
                     "name": "TELEMUNDO ",
                       "image": "https://www.tvplusgratis2.com/imge/telemundo51.webp",
-  "url":"http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8 ",
-                     "referer":""
+  "url":"https://la18hd.su/vivo/canales.php?stream=telemundo",
+                     "referer":"https://la18hd.su/"
 
                            
                  
@@ -51,8 +51,8 @@
          }, {
                     "name": "UNIVERSO LATINO",
                       "image": "https://www.cabletv.com/app/uploads/2026/05/Que-Canal-Es-Universo.webp",
-  "url":"http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-                     "referer":""
+  "url":"https://la18hd.su/vivo/canales.php?stream=universo",
+                     "referer":"https://la18hd.su/"
 
                                              
 
