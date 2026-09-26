@@ -28,10 +28,10 @@
     
 
         }, {
-                    "name": "📶ESPN2 MEX13",
+                    "name": "📶ESPN2 MEX011",
                       "image": "https://televenmax.com.ve/images/channels/zip/espn-2.png",
               "url": "https://frontillano.blogspot.com/p/sport-esp2-mex.html",
-"referer":"https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNDMiLCJ0cyI6MTc5MDM4NjA3NzUxMH0"
+"isHost":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
 
            
                          
@@ -260,7 +260,7 @@
                   "name": "BEIN SPORT44 ",
                     "image": "https://logos.streamsites.eu/3536_beinsports_overview.png",
   "url":"https://frontillano.blogspot.com/p/sport-bein.html",
- "referer":"https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.11/hls.min.js"
+ "Host":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
 
 
 
@@ -464,7 +464,7 @@
                   "name": "USA NETWEST0p",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/univeshoo.html",
-"referer":"https://tvnow247.top/assets/channels-BO0sdlCB-mu2yzy48.js"
+"Host":"https://tvnow247.top/assets/streamService-8uOPVyle-mu2yzy48.js"
 
 
 
