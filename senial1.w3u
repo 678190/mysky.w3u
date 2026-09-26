@@ -40,20 +40,25 @@
 
 
      }, {
-                    "name": "TELEMUNDO ",
+                    "name": "TELEMUNDO 2",
                       "image": "https://www.tvplusgratis2.com/imge/telemundo51.webp",
   "url":"https://la18hd.su/vivo/canales.php?stream=telemundo",
-                     "referer":"https://la18hd.su/"
+                "referer":"https://la18hd.su/",
+"userAgent":""
+    
+    
 
                            
                  
 
          }, {
-                    "name": "UNIVERSO LATINO",
+                    "name": "UNIVERSO LATINO 2",
                       "image": "https://www.cabletv.com/app/uploads/2026/05/Que-Canal-Es-Universo.webp",
   "url":"https://la18hd.su/vivo/canales.php?stream=universo",
-                     "referer":"https://la18hd.su/"
-
+                 "referer":"https://la18hd.su/",
+"userAgent":""
+    
+    
                                              
 
          }, {
