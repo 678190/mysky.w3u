@@ -28,10 +28,10 @@
     
 
         }, {
-                    "name": "📶ESPN2 MEXEMBED",
+                    "name": "📶ESPN2 MEX11",
                       "image": "https://televenmax.com.ve/images/channels/zip/espn-2.png",
               "url": "https://frontillano.blogspot.com/p/sport-esp2-mex.html",
-"EMBED":true
+"Host":"https://frontillano.blogspot.com/p/sport-esp2-mex.html"
 
            
                          
@@ -41,7 +41,7 @@
                     "name": "TELEMUNDO ",
                       "image": "https://www.tvplusgratis2.com/imge/telemundo51.webp",
   "url":"http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8 ",
-                     "referer":"https://frontillano.blogspot.com/p/mundo-tele.html "
+                     "referer":""
 
                            
                  
