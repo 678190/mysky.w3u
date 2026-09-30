@@ -660,11 +660,12 @@
 
  }, {
 
-                  "name": "NBC SPORT PHILADELPHIA2",
+                  "name": "NBC SPORT PHILADELPHIA33",
                       "image": "https://images.fubo.tv/station_logos/nbc-sports-philadelphia_m.png",
                "url": "https://frontillano.blogspot.com/p/sport-phila.html",
-              "referer":"https://imasdk.googleapis.com/js/sdkloader/ima3.js"
-           
+            "referer":"https://cdn.plyr.io/3.7.8/plyr.js",
+ "userAgent":"https://cdn.plyr.io/3.7.8/plyr.css"
+
 
  
 
