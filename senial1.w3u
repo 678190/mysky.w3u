@@ -470,11 +470,11 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWES44",
+                  "name": "USA NETWES55",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/univeshoo.html",
-"referer":"https://imasdk.googleapis.com/js/sdkloader/ima3.js",
- "userAgent":""
+"referer":"https://cdn.plyr.io/3.7.8/plyr.css",
+ "userAgent":"https://cdn.plyr.io/3.7.8/plyr.js"
 
 
 
