@@ -470,10 +470,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA NETWES11",
+                  "name": "USA NETWES44",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "https://frontillano.blogspot.com/p/univeshoo.html",
-"referer":"https://frontillano.blogspot.com/p/univeshoo.html",
+"referer":"https://imasdk.googleapis.com/js/sdkloader/ima3.js",
  "userAgent":""
 
 
@@ -660,10 +660,10 @@
 
  }, {
 
-                  "name": "NBC SPORT PHILADELPHIA1",
+                  "name": "NBC SPORT PHILADELPHIA2",
                       "image": "https://images.fubo.tv/station_logos/nbc-sports-philadelphia_m.png",
                "url": "https://frontillano.blogspot.com/p/sport-phila.html",
-              "referer":"https://frontillano.blogspot.com/p/sport-phila.html"
+              "referer":"https://imasdk.googleapis.com/js/sdkloader/ima3.js"
            
 
  
