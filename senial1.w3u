@@ -752,10 +752,10 @@
 
  }, {
 
-                  "name": "VAGHN ENGLISH STREAM",
+                  "name": "VAGHN ENGLISH STREAM 1",
                       "image": "https://mundokodi.com/wp-content/uploads/2023/12/14-portada-acestream-mac-800x445.webp",
                         "url": "https://vaughn.live/browse/all",
-"referer":"",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
 "embed":true
 
 
@@ -773,10 +773,10 @@
 
  }, {
 
-                  "name": "VAGHN SPANISH",
+                  "name": "VAGHN LIVE SPANISH 2",
                       "image": "https://iwf1.com/scrapekod/icons/plugin.stream.vaughnlive.tv.png",
                         "url": "https://vaughn.live/browse/espanol",
-"referer":"",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
 "embed":true
 
 
