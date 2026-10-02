@@ -470,10 +470,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA 9EXTREAM00",
+                  "name": "USA 9EXTREAM55",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
                         "url": "http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/2229",
-                      "referer":"https://9xtream.net/"
+                      "userAgent":"Ng9mohpKHSjd69IxBYg"
 
 
 
