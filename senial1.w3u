@@ -470,9 +470,9 @@
          "stations": [ 
             { 
 
-                  "name": "USA 9EXTREAM0101",
+                  "name": "USA 9EXTREAM0103",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                           "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1150.m3u8",
+                           "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1728.m3u8",
                       "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
@@ -493,8 +493,7 @@
 
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
-                         "url": "http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1145",
-        "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1166.m3u8",
+                 "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/36706.m3u8",
                       "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
