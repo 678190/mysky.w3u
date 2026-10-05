@@ -472,7 +472,7 @@
 
                   "name": "USA 9EXTREAM0101",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                        "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/36706.m3u8",
+                           "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1150.m3u8",
                       "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
@@ -482,10 +482,10 @@
 
                   "name": "ENGLISH discovery2",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-               "url": "http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1154",
-"referer":"http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1154",
- "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
-  
+        "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1175.m3u8",
+                      "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
+
+ 
 
      
  }, {
@@ -494,8 +494,8 @@
                   "name": "HISTORY CHANNEL1",
                       "image": "https://www.telegratishd.com/imge/history.png",
                          "url": "http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1145",
-"referer":"http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1145",
- "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
+        "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1166.m3u8",
+                      "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
 
@@ -505,12 +505,10 @@
       }, {
                     "name": "DISCOVERY TLC TELIA TV",
                       "image": "https://btv.mx/posters/1724209016471.png",
-                        "url": "http://smarterstv99.dyndns.tv:25461//Juan823/XrrdxQgVwb2E/1126",
-"referer":"",
- "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
+     "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1147.m3u8",
+                      "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
-     
  
 
 
