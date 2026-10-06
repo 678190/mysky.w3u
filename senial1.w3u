@@ -470,9 +470,9 @@
          "stations": [ 
             { 
 
-                  "name": "USA 9EXTREAM0103",
+                  "name": "USA 9EXTREAM0111",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                           "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1728.m3u8",
+                           "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/1728.m3u8/VIDEO_2_1964000.m3u8",
                       "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
 
 
