@@ -146,9 +146,11 @@
                                      
                "name": "📶AZTECA 7 MEX01",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
-  "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?RESOLUTION=480px360p",
- "referer":""
-   
+  "url": "https://dlive.sx/casting/stream-844.php",
+                      "referer":"https://dlive.sx/watch.php?id=844"
+
+
+
 
 
 
@@ -657,9 +659,9 @@
 
                   "name": "NBC SPORT PHILADELPHIA33",
                       "image": "https://images.fubo.tv/station_logos/nbc-sports-philadelphia_m.png",
-               "url": "https://frontillano.blogspot.com/p/sport-phila.html",
-            "referer":"https://cdn.plyr.io/3.7.8/plyr.js",
- "userAgent":"https://cdn.plyr.io/3.7.8/plyr.css"
+        "url": "https://dlive.sx/casting/stream-777.php",
+                      "referer":"https://dlive.sx/watch.php?id=777"
+
 
 
  
@@ -686,9 +688,9 @@
 
                   "name": "MLB",
                       "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MLB_Network_US_16x9._SL500_FMpng_.png",
-                        "url": "https://cdn.stmify.com/primevideo/embed/mlb",
-"referer":"https://cdn.stmify.com/primevideo/live-tv/mlb",
-"embed":true
+        "url": "https://dlive.sx/casting/stream-399.php",
+                      "referer":"https://dlive.sx/watch.php?id=399"
+
 
 
 
