@@ -470,10 +470,10 @@
          "stations": [ 
             { 
 
-                  "name": "USA 9EXTREAM00",
+                  "name": "USA 9EXTREAM23",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                           "url": "http://138.121.15.230:9002/USA/index.m3u8",
-                      "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
+                           "url": "https://dlive.sx/casting/stream-343.php",
+                      "referer":"https://dlive.sx/watch.php?id=343"
 
 
 
