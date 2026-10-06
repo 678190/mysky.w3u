@@ -474,7 +474,7 @@
 
                   "name": "USA 9EXTREAM23",
                       "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                           "url": "https://dlive.sx/casting/stream-343.php",
+                           "url": "https://dlive.sx/stream/stream-343.php",
                       "referer":"https://dlive.sx/watch.php?id=343"
 
 
@@ -484,7 +484,7 @@
 
                   "name": "ENGLISH discovery2",
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-           "url": "https://dlive.sx/casting/stream-313.php",
+           "url": "https://dlive.sx/stream/stream-313.php",
                       "referer":"https://dlive.sx/watch.php?id=313"
 
 
@@ -504,9 +504,9 @@
 
 
       }, {
-                    "name": "DISCOVERY TLC TELIA TV",
+                    "name": "DISCOVERY TLC TV",
                       "image": "https://btv.mx/posters/1724209016471.png",
-   "url": "https://dlive.sx/casting/stream-337.php",
+   "url": "https://dlive.sx/stream/stream-337.php",
                       "referer":"https://dlive.sx/watch.php?id=337"
 
 
