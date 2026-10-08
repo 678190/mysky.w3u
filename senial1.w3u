@@ -291,11 +291,6 @@
               "url": "http://38.134.250.110:8000/play/a007/index.m3u8?hls",
                "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"                                    
 
-   }, {
-                  "name": "CINE AVENTURAS",
-                    "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png?format=webp&trim=true",
-              "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
-               "referer":""
 
 
 
@@ -366,13 +361,7 @@
 
 
 
-       }, {
-                  "name": "SONY BLACK LIST MOVIES",
-                    "image": "https://stmify.com/wp-content/uploads/2024/08/59-s.webp",
-          "url":"https://cdn.stmify.com/embed-free/jw/player.php?id=SONY_ONE_THE_BLACKLIST&country=es",
-"referer":"https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html"
-
-	 
+  
  
 
 
@@ -384,13 +373,7 @@
 
 
 
-                },
-                {
-                    "name": "📶CINE TERROR",
-                    "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png?format=webp&trim=true",
-                             "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8", 
-"referer":""
-            
+       
 
 
 
@@ -446,17 +429,10 @@
  }, {
                     "name": "BANDA MAX RESOLUTION1",
                     "image": "https://btv.mx/posters/1724880919544.png",
-                                                          "url": "http://190.61.101.11:7050/play/a04n/index.m3u8?RESOLUTION=480px360p",
+                                                          "url": "http://190.61.101.11:7050/play/a04n/index.m3u8",
 "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
  
 
-
- }, {
-                    "name": "FLOW LATINO",
-                    "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png?format=webp&trim=true",
-                                                          "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8",
-"referer":""
- 
 
 
 
