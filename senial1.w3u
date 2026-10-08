@@ -76,8 +76,8 @@
      }, {
                     "name": "TELEMUNDO MIAMI1212",
                       "image": "https://btv.mx/posters/1720843598393.png",
-  "url":"https://www.cablevisionhd.com/stream2/core.php?canal=telemundo51",
- "referer":"https://www.cablevisionhd.com/telemundo-51-ver.php",
+  "url":"https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
+ "referer":"",
                      "userAgent":""
 
                            
@@ -160,7 +160,7 @@
                                      
                "name": "📶DISTRITO COMEDIA 1",
                     "image": "https://btv.mx/posters/1724209263135.png",
-                                                     "url": "https://frontillano.blogspot.com/p/comedia-distt.html",
+                                                     "url": "http://45.5.117.3:4000/play/a0au/index.m3u8?hls",
 "userAgent":"https://embed.saohgdassregions.com/"
 
 
@@ -215,19 +215,13 @@
 
 
 
-                    },
-                {
-                    "name": "📶CSI SERIES",
-                    "image": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png?format=webp&trim=true",
-                             "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8", 
-"referer":""
-             
+        
  
                     },
                 {
                     "name": "📶DISCOVERY ID!",
                     "image": "https://www.telegratishd.com/imge/idinvestigation.png",
-                             "url": "https://frontillano.blogspot.com/p/crimen-id.html", 
+                             "url": "http://45.5.117.3:4000/play/a05v/index.m3u8?hls", 
 "referer":"https://embed.saohgdassregions.com/"
 
 
@@ -309,7 +303,7 @@
       }, {
                   "name": "HBO FAMILIA",
                     "image": "https://btv.mx/posters/1750389849338.png",
-              "url": "http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8",
+              "url": "http://45.5.117.3:4000/play/a06s/index.m3u8?hls",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "":""
 
@@ -326,7 +320,7 @@
       }, {
                   "name": "GOLDEN EDGE",
                     "image": "https://btv.mx/posters/1741915016570.png",
-                                                          "url": "https://frontillano.blogspot.com/p/golden-edge.html",
+                                                          "url": "http://45.5.117.3:4000/play/a04a/index.m3u8?hls",
 "userAgent":"https://embed.saohgdassregions.com/"
 
  
@@ -347,7 +341,7 @@
         }, {
                   "name": "FX",
                     "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",
-                "url": "https://frontillano.blogspot.com/p/cinecito-fxx.html",
+                "url": "http://45.5.117.3:4000/play/a03w/index.m3u8?hls",
 "referer":"https://embed.saohgdassregions.com/",
 "EMBED":true
 
