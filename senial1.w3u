@@ -62,9 +62,9 @@
                                              
 
          }, {
-                    "name": "TUDN STREAM",
+                    "name": "ZONA TUDN",
                       "image": "https://static.wikia.nocookie.net/logopedia/images/9/98/Univision_tdn_1.png/revision/latest?cb=20120805063727",
-  "url":"https://frontillano.blogspot.com/p/ntude.html",
+  "url":"https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8",
 "referer":"https://www.cablevisionhd.com/tudn-ver.php",
  "userAgent":"Chromium;v=154, Google Chrome;v=154, Not A(Brand;v=99"
 
