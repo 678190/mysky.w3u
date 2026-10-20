@@ -415,7 +415,7 @@
   }, {
                     "name": "DE PELICULA",
                     "image": "https://www.tvporinternet2.com/imge/dpeliculaplus.png",
-                    "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8"            
+                    "url": "http://38.134.250.110:8000/play/a01e/index.m3u8?hls"            
            
 
 
@@ -476,26 +476,7 @@
 "embed":true
  
 
- }, {
-                    "name": "FXX",
-                   "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",
-  "url":"https://frontillano.blogspot.com/p/movies-fxx.html",
-             "referer":"https://tvnow247.top/watch/fxx-usa/"
 
- 
- }, {
-                    "name": "MIRAMAX MOVIES",
-                   "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png",
-  "url":"https://cdn.stmify.com/primevideo/embed/miramax-movie-channel",
-             "referer":"https://cdn.stmify.com/primevideo/live-tv/miramax-movie-channel",
-"embed":true
-
-
-  }, {
-                    "name": "HBO FAMILY",
-                   "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
-  "url":"https://frontillano.blogspot.com/p/movies-hbo-fam.html",
-             "referer":"https://tvnow247.top/watch/hbo-family-usa/"
 
 
  }, {
