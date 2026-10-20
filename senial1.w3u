@@ -413,9 +413,9 @@
                
                             
   }, {
-                    "name": "Depelicula1",
+                    "name": "DE PELICULA",
                     "image": "https://www.tvporinternet2.com/imge/dpeliculaplus.png",
-                    "url": "http://45.5.117.3:4000/play/a0ay/index.m3u8?hls"            
+                    "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8"            
            
 
 
@@ -450,53 +450,11 @@
          "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
          "stations": [ 
             { 
-
-                  "name": "USA 9EXTREAM0103",
-                      "image": "https://cdn.stmify.com/primevideo/assets/img/channels/usa.png",
-                           "url": "https://dlive.sx/watch.php?id=343",
-                      "referer":"https://dlive.sx/watch.php?id=343"
-
-
-
-
- }, {
-
-                  "name": "ENGLISH discovery2",
-                      "image": "https://www.telegratishd.com/imge/discoverychannel.png",
-           "url": "https://dembed.top/premiumtv/daddy.php?id=655",
-                      "referer":"https://dlive.sx/stream/stream-655.php"
-
-
-
-     
- }, {
-
-
-                  "name": "HISTORY CHANNEL11",
-                      "image": "https://www.telegratishd.com/imge/history.png",
-                 "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/36706.m3u8",
-                      "referer":"9XtreamPlayer LibVLC/3.0.22-rc1"
-
-
-
-
-
-
-      }, {
-                    "name": "DISCOVERY TLC true",
-                      "image": "https://btv.mx/posters/1724209016471.png",
-   "url": "https://dlive.sx/stream/stream-337.php",
-                      "referer":"https://dembed.top/premiumtv/daddy.php?id=337"
-
-
- 
-
-
-  }, {
-                    "name": "TRU TV TVTAPP1",
+         "name": "TRU TV TVTAPP1",
                       "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
    "url":"http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
              "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
 
 
 
