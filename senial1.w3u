@@ -456,7 +456,11 @@
              "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
 
 
-
+  }, {
+                    "name": "TLC",
+            "image": "",
+  "url":"https://www.youtube.com/embed/oIr4_AOzh4I?rel=0&playsinline=1&enablejsapi=1&origin=https://watchnonstop.com",
+             "referer":"https://watchnonstop.com/channel/tlc/"
 
 
 
