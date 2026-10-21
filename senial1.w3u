@@ -461,10 +461,10 @@
 
 
   }, {
-                    "name": "CINEMAX ENGLISH 1",
-            "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png",
-  "url":"http://23.237.104.106:8080/USA_CINEMAX/index.m3u8",
-             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+                    "name": "HISTORY CHANNEL ENGLISH",
+            "image": "",
+  "url":"https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+             "referer":""
         
           
 
