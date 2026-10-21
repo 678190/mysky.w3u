@@ -457,10 +457,11 @@
 
 
   }, {
-                    "name": "TLC2",
+                    "name": "TLC00",
             "image": "",
-  "url":"https://watchnonstop.com/channel/tlc/",
-             "referer":"https://watchnonstop.com/channel/tlc/"
+  "url":"https://watchnonstop.com/embed/tlc/",
+             "referer":"https://watchnonstop.com/channel/tlc/",
+"embed":true
 
 
 
