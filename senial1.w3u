@@ -472,10 +472,11 @@
 
 
   }, {
-                    "name": "TLC ENGLISH",
+                    "name": "USA NETWOR ENGLISH",
             "image": "",
-  "url":"https://frontillano.blogspot.com/p/disc-tlc.html",
-             "embed":true
+      "url": "https://dlive.sx/casting/stream-343.php",
+                      "referer":"https://dlive.sx/watch.php?id=343"
+
 
 
 
@@ -629,6 +630,13 @@
                       "referer":"https://dlive.sx/watch.php?id=399"
 
 
+
+ }, {
+
+                  "name": "MLB",
+                      "image": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
+        "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+                      "referer":""
 
 
 
