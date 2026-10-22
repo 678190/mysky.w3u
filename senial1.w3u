@@ -298,7 +298,7 @@
       }, {
                   "name": "HBO 2",
                     "image": "https://btv.mx/posters/1724852501490.png",
-                                                     "url": "http://200.62.239.170:830/play/a08c/index.m3u8?hls",
+                                                     "url": "http://15.204.246.24:8080/HBO2HD/index.m3u8",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
 
 
@@ -471,13 +471,6 @@
 
 
 
-  }, {
-                    "name": "USA NETWOR ENGLISH",
-            "image": "",
-      "url": "https://dlive.sx/casting/stream-343.php",
-                      "referer":"https://dlive.sx/watch.php?id=343"
-
-
 
 
   }, {
@@ -634,6 +627,14 @@
  }, {
 
                   "name": "MLB",
+                      "image": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
+        "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+                      "referer":""
+
+
+ }, {
+
+                  "name": "STRONG MAN",
                       "image": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
         "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
                       "referer":""
