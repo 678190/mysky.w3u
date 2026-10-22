@@ -48,16 +48,6 @@
     
     
 
-                           
-                 
-
-         }, {
-                    "name": "UNIVERSO LATINO..",
-                      "image": "https://www.cabletv.com/app/uploads/2026/05/Que-Canal-Es-Universo.webp",
-  "url":"https://telelibre.st/mpd2.php?id=universo-op2",
-                 "referer":"https://telelibre.st/mpd2.php?id=universo-op2",
-"userAgent":""
-    
     
                                              
 
@@ -147,6 +137,15 @@
                "name": "📶AZTECA 7 MEX01",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
    "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?hls",
+                 "referer":"https://la18hd.su/",
+"userAgent":""
+    
+		 	        },
+                {
+                                     
+               "name": "📶CANAL 11",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
+   "url":"https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
                  "referer":"https://la18hd.su/",
 "userAgent":""
     
