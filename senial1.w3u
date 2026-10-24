@@ -538,7 +538,8 @@
                   "name": "NFL NETWORK",
                       "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NFL._SL500_FMpng_.png",
                "url": "https://cdn.stmify.com/tubi/embed/nfl-channel",
-              "referer":"https://cdn.stmify.com/tubi/live-tv/nfl-channel"
+              "referer":"https://cdn.stmify.com/tubi/live-tv/nfl-channel",
+"embed":true
             
 
 
@@ -564,21 +565,8 @@
 "embed":true
 
 
- }, {
-
-                  "name": "MLB",
-                      "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MLB_Network_US_16x9._SL500_FMpng_.png",
-        "url": "https://dlive.sx/casting/stream-399.php",
-                      "referer":"https://dlive.sx/watch.php?id=399"
 
 
-
- }, {
-
-                  "name": "MLB",
-                      "image": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
-        "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
-                      "referer":""
 
 
  }, {
