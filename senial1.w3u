@@ -494,7 +494,12 @@
 "embed":true
 
 
+ }, {
 
+                  "name": "HORROR TV",
+                      "image": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/kjcyuh.png",
+               "url": "https://www.yupptv.com/channels/horror-tv/live",
+              "referer":"https://www.yupptv.com/channels/horror-tv/live"
 
 
  }, {
