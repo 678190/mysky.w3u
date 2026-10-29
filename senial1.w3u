@@ -383,7 +383,14 @@
 
 
 
-       
+
+
+   }, {
+                  "name": "CINE PREMIUM",
+                    "image": "https://leg.tv/brand/cine-premium.png",
+                  "url": "http://190.61.101.11:7050/play/a052/index.m3u8?hls",
+"referer":""
+
 
 
 
@@ -414,6 +421,12 @@
                "referer":""
          
  
+                            
+  }, {
+                    "name": "CLARO CINEMA",
+                    "image": "https://www.vertvcable.com/wp-content/uploads/2024/07/images-150x150.png",
+                    "url": "http://45.5.117.3:4000/play/a057/index.m3u8?hls"            
+           
 
 
              
