@@ -601,10 +601,10 @@
 
  }, {
 
-                  "name": "EXTREM SPORT",
-                      "image": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/niushw.png",
-                        "url": "https://www.yupptv.com/channels/xtrem-sports/live",
-"referer":"https://www.yupptv.com/channels/xtrem-sports/live"
+                  "name": "NBA TEST",
+                      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+                        "url": "https://iptvgn.com/channel/nba-tv-us/",
+"Host":true
 
 
 
@@ -660,13 +660,7 @@
 "embed":true
 
 
-}, {
 
-                  "name": "SERIES 11",
-                      "image": "",
-                        "url": "https://compucalitv.tv/",
-"referer":"",
-"embed":true
 
 
  }, {
