@@ -114,10 +114,10 @@
          },
                 {
                                      
-               "name": "📶ADN 40",
+               "name": "📶ADN NOTICIAS",
                     "image": "https://tvazteca.brightspotcdn.com/dims4/default/04af7c5/2147483647/strip/true/crop/588x208+0+0/resize/130x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png",
-                                                                                     "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-"userAgent":""
+                      "url": "https://uvotv.com/live/categories/mexico-298/all/adn-noticias-1580",
+"referer":"https://uvotv.com/live/categories/mexico-298/all/adn-noticias-1580"
 
 
 	 	        },
@@ -144,10 +144,10 @@
        },
                 {
                                      
-               "name": "📶UNIVERSO",
+               "name": "📶AZTECA INTERNACIONAL",
                     "image": "",
-   "url":"https://la18hd.su/vivo/canales.php?stream=universo",
-                 "referer":"https://la18hd.su/",
+   "url":"https://uvotv.com/live/categories/mexico-298/all/azteca-internacional-1571",
+                 "referer":"https://uvotv.com/live/categories/mexico-298/all/azteca-internacional-1571",
 "userAgent":""
 
 
