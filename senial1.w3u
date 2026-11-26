@@ -123,9 +123,10 @@
 	 	        },
                 {
                                      
-               "name": "📶CANAL 5 LAT..",
+               "name": "📶CANAL 5 LAT AM",
                     "image": "https://www.telegratishd.com/imge/canal5.png",
-  "url":"http://190.61.101.11:7050/play/a098/index.m3u8?hls"
+  "url":"http://190.61.101.11:7050/play/a098/index.m3u8?hls",
+"referer":"http://190.61.101.11:7050/playlist.m3u?hls"
         
 
 
@@ -137,8 +138,8 @@
                "name": "📶AZTECA 7 MEX01",
                     "image": "https://www.telegratishd.com/imge/azteca7.png",
    "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?hls",
-                 "referer":"https://la18hd.su/",
-"userAgent":""
+                 "referer":"http://190.61.101.11:7050/playlist.m3u?hls"
+
 
 
        },
