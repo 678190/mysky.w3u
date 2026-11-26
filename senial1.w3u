@@ -139,7 +139,20 @@
    "url":"http://190.61.101.11:7050/play/a09b/index.m3u8?hls",
                  "referer":"https://la18hd.su/",
 "userAgent":""
-    
+
+
+       },
+                {
+                                     
+               "name": "📶UNIVERSO",
+                    "image": "",
+   "url":"https://la18hd.su/vivo/canales.php?stream=universo",
+                 "referer":"https://la18hd.su/",
+"userAgent":""
+
+
+
+
 		 	        },
                 {
                                      
@@ -488,11 +501,11 @@
           
  }, {
 
-                  "name": "HOLLIWOOD CHANNEL",
+                  "name": "USA NETWORK",
                       "image": "",
-                        "url": "https://cdn.stmify.com/embed/v1/canal-hollywood-es-jw",
-"referer":"https://stmify.com/live-tv/canal-hollywood/",
-"embed":true
+                        "url": "https://la18hd.su/vivo/canales.php?stream=usanetwork",
+"referer":"https://la18hd.su/"
+
 
 
  }, {
