@@ -110,14 +110,17 @@
 
 
 
- 
-         },
+        },
                 {
                                      
-               "name": "📶ADN NOTICIAS TEST",
-                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/04af7c5/2147483647/strip/true/crop/588x208+0+0/resize/130x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png",
-                      "url": "https://www.adn40.mx/tv-en-vivo/",
-   "localHost":true
+               "name": "📶ADN NOTICIASS",
+                    "image": "",
+              "url": "https://www.adn40.mx/tv-en-vivo/",
+"referer":"https://www.adn40.mx/tv-en-vivo/"
+
+
+
+ 
 
 
 	 	        },
